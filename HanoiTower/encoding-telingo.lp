@@ -14,52 +14,58 @@
 % on top of the disk N.
 % goal, which is true iff the goal state is reached at time t
 % steps(T), which is the number of time steps T, required to reach the goal (provided part of Input data)
-
+#program initial.
 % Read in data
-on(0,N1,N) :- on0(N,N1).
+on(N1,N) :- on0(N,N1).
+
+#program dynamic.
+
+
 %onG(K,N1,N) :- ongoal(N,N1), steps(K).
 
 % Specify valid arrangements of disks
 % Basic condition. Smaller disks are on larger ones
 
-#program check(t).
-:- t=T, on(T,N1,N), N1>=N.
+%#program check(t).
+%:- t=T, on(T,N1,N), N1>=N.
 
 % Specify a valid move (only for T<t)
 % pick a disk to move
 
-#program step(t).
-{ occurs(some_action,T) } :- T=t.
-1 { move(T,N) : disk(N) } 1 :- occurs(some_action,T), T=t.
+%#program step(t).
+{ occurs(some_action) }.
+1 { move(N) : _disk(N) } 1 :- occurs(some_action).
 
 % pick a disk onto which to move
-1 { where(T,N) : disk(N) }1 :- occurs(some_action,T), T=t.
+1 { where(N) : _disk(N) }1 :- occurs(some_action).
 
 % pegs cannot be moved
-:- move(T,N), N<5, T=t.
+:- move(N), N<5.
 
 % only top disk can be moved
-:- on(T-1,N,N1), move(T,N), T=t.
+:- 'on(N,N1), move(N).
 
 % a disk can be placed on top only.
-:- on(T-1,N,N1), where(T,N), T=t.
+:- 'on(N,N1), where(N).
 
 % no disk is moved in two consecutive moves
-:- move(T,N), move(TM1,N), TM1=T-1, T=t.
+:- move(N), 'move(N).
 
 % Specify effects of a move
-on(T,N1,N) :- move(T,N), where(T,N1), T=t.
-on(T,N,N1) :- T=t,
-              on(T-1,N,N1), not move(T,N1).
+on(N1,N) :- move(N), where(N1).
+on(N,N1) :- 'on(N,N1), not move(N1).
 
+put(M,N) : move(N), where(M).
+
+:- on(N1,N), N1>=N.
 
 % Goal description
-#program check(t).
-:- not on(T,N,N1), ongoal(N1,N), query(T), T=t.
-:- on(T,N,N1), not ongoal(N1,N), query(T), T=t.
+#program final.
+:- not on(N,N1), _ongoal(N1,N).
+:- on(N,N1), not _ongoal(N1,N).
 
 % Solution
-#show put(M,N,T) : move(T,N), where(T,M), T=t.
+%#show put(M,N,T) : move(T,N), where(T,M), T=t.
 %#show move/2.
 %#show on/3.
 

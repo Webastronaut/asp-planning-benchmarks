@@ -1,3 +1,5 @@
+% Problem description: https://www.mat.unical.it/aspcomp2013/Labyrinth
+
 dir(e). dir(w). dir(n). dir(s).
 inverse(e,w). inverse(w,e).
 inverse(n,s). inverse(s,n).
