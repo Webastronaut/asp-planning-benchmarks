@@ -4,7 +4,7 @@
 % Adaptment from IPC 2008 domain description by GB Ianni, using the PDDL2ASP PLASP converter
 % http://www.cs.uni-potsdam.de/wv/pdfformat/gekaknsc11a.pdf
 %
-%
+% Problem description: https://www.mat.unical.it/aspcomp2013/Sokoban
 
 
 % GENERATE  >>>>>
