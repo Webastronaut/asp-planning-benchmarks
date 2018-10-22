@@ -8,6 +8,7 @@
 %
 %
 %
+
 truck(T) :- fuel(T,_).
 package(P) :- at(P,L), not truck(P).
 location(L) :- fuelcost(_,L,_).
@@ -26,10 +27,16 @@ action(drive(T,L1,L2)) :- fuelcost( Fueldelta,L1,L2 ) , truck( T ).
 % GENERATE  >>>>>
 #program step(t).
 
+%* + ORIGINAL PART
 { occurs(A,S) : action(A) } <= 1 :- S=t. % :- step(S), 0 < S.
 
 done(S) :- occurs(A,S), S=t.
 :- done(S), not done(S-1), 1 < S, S=t.
+= ORIGINAL PART *%
+
+% + OPTIMIZED PART
+{ occurs(A,S) : action(A) } = 1 :- S=t.
+%= OPTIMIZED PART*%
 
 unload( P,T,L,S )  :- occurs(unload(P,T,L),S), S=t.
 load( P,T,L,S )    :- occurs(load(P,T,L),S), S=t.
@@ -92,4 +99,3 @@ preconditions_d( T,L1,L2,S ) :- S=t, at( T,L1,S-1 ), fuel( T, Fuelpre, S-1), fue
 %#show at/2.
 %#show at/3.
 #show occurs/2.
-

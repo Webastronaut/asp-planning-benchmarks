@@ -17,3 +17,5 @@ visited(X,T) :- atrobot(X,T), T=t.
 
 #program check(t).
 :- visit(X), not visited(X,T), query(T), T=t.
+
+#show move/3.

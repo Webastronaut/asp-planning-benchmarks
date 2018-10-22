@@ -1,9 +1,6 @@
-% Problem description: www.mat.unical.it/aspcomp2013/HanoiTower
-
-
 % The meaning of the time predicate is self-evident. As for the disk
-% predicate, there are k disks 1,2,...,k. Disks 1, 2, 3, 4 denote pegs. 
-% Disks 5, ... are "movable". The larger the number of the disk, 
+% predicate, there are k disks 1,2,...,k. Disks 1, 2, 3, 4 denote pegs.
+% Disks 5, ... are "movable". The larger the number of the disk,
 % the "smaller" it is.
 %
 % The program uses additional predicates:
@@ -52,6 +49,9 @@ on(T,N1,N) :- move(T,N), where(T,N1), T=t.
 on(T,N,N1) :- T=t,
               on(T-1,N,N1), not move(T,N1).
 
+put(M,N,T) :- move(T,N), where(T,M), T=t.
+
+%:- t=T, on(T,N1,N), N1>=N.
 
 % Goal description
 #program check(t).
@@ -59,7 +59,4 @@ on(T,N,N1) :- T=t,
 :- on(T,N,N1), not ongoal(N1,N), query(T), T=t.
 
 % Solution
-#show put(M,N,T) : move(T,N), where(T,M), T=t.
-%#show move/2.
-%#show on/3.
-
+%#show put(M,N,T) : move(T,N), where(T,M), T=t.

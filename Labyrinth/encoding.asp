@@ -1,5 +1,5 @@
 % Problem description: https://www.mat.unical.it/aspcomp2013/Labyrinth
-
+#program base.
 dir(e). dir(w). dir(n). dir(s).
 inverse(e,w). inverse(w,e).
 inverse(n,s). inverse(s,n).
@@ -76,10 +76,9 @@ reach(X,Y,t) :- reach(XX,YY,S), S = t-1, shift(XX,YY,X,Y,t).
 reach(X,Y,t) :- reach(XX,YY,t), dneighbor(D,XX,YY,X,Y), conn(XX,YY,D,t), conn(X,Y,E,t), inverse(D,E).
 
 %%  Goal must be reached
-
 #program check(t).
 :- neg_goal(t), query(t).
 
 %% Project output
 % #hide.
-#show push/3.
+%#show push/3.

@@ -2,8 +2,8 @@
 
 
 % The meaning of the time predicate is self-evident. As for the disk
-% predicate, there are k disks 1,2,...,k. Disks 1, 2, 3, 4 denote pegs. 
-% Disks 5, ... are "movable". The larger the number of the disk, 
+% predicate, there are k disks 1,2,...,k. Disks 1, 2, 3, 4 denote pegs.
+% Disks 5, ... are "movable". The larger the number of the disk,
 % the "smaller" it is.
 %
 % The program uses additional predicates:
@@ -26,8 +26,8 @@ on(N1,N) :- on0(N,N1).
 % Specify valid arrangements of disks
 % Basic condition. Smaller disks are on larger ones
 
-%#program check(t).
-%:- t=T, on(T,N1,N), N1>=N.
+%#program always.
+%:- on(N1,N), N1>=N.
 
 % Specify a valid move (only for T<t)
 % pick a disk to move
@@ -55,7 +55,7 @@ on(N1,N) :- on0(N,N1).
 on(N1,N) :- move(N), where(N1).
 on(N,N1) :- 'on(N,N1), not move(N1).
 
-put(M,N) : move(N), where(M).
+%put(M,N) : move(N), where(M).
 
 :- on(N1,N), N1>=N.
 
@@ -68,4 +68,3 @@ put(M,N) : move(N), where(M).
 %#show put(M,N,T) : move(T,N), where(T,M), T=t.
 %#show move/2.
 %#show on/3.
-
