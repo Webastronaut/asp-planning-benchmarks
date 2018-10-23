@@ -1,5 +1,3 @@
-%#const row =  1.
-
 dir(west, -1, 0).
 dir(east,  1, 0).
 dir(north, 0,-1).
@@ -15,8 +13,6 @@ dir(east, 1).
 dir(north, -1).
 dir(south, -1).
 
-%dir(D) :- dir(D,_).
-
 robot(R) :- pos(R,_,_).
 
 pos(R,1,I,0) :- pos(R,I,_).
@@ -25,13 +21,10 @@ pos(R,-1,J,0) :- pos(R,_,J).
 barrier(I+1,J,west ) :- barrier(I,J,east ), dim(I), dim(J), dim(I+1).
 barrier(I,J+1,north) :- barrier(I,J,south), dim(I), dim(J), dim(J+1).
 barrier(I-1,J,east ) :- barrier(I,J,west ), dim(I), dim(J), dim(I-1).
-barrier(I,J-1,south) :- barrier(I,J,north), dim(I), dim(J), dim(I-1).
+barrier(I,J-1,south) :- barrier(I,J,north), dim(I), dim(J), dim(J-1). % was dim(I-1)
 
 conn(D,I,J) :- dir(D,-1), dir(D,_,DJ), not barrier(I,J,D), dim(I), dim(J), dim(J+DJ).
 conn(D,J,I) :- dir(D,1), dir(D,DI,_), not barrier(I,J,D), dim(I), dim(J), dim(I+DI).
-
-%step(1).
-%step(X+1) :- step(X), length(L), X < L.
 
 #program step(t).
 { occurs(some_action,t) }.
@@ -55,10 +48,10 @@ reachable(R,D,O,I+DI,T) :- reachable(R,D,O,I,T), not blocked(R,D,O,I+DI,T), dl(D
 pos(R,O,I,T) :- reachable(R,D,O,I,T), not reachable(R,D,O,I+DI,T), dl(D,DI), T=t.
 pos(R,O,I,T) :- pos(R,O,I,T-1), not go_(R,O,T), T=t.
 
-%selectDir(O,T) :- selectDir(D,O,T), T=t.
-
 #program check(t).
 :- target(R,I,_), not pos(R,1,I,X), query(X), X=t.
 :- target(R,_,J), not pos(R,-1,J,X), query(X), X=t.
 
 #show go/3.
+#show selectDir/3.
+#show blocked/5.
