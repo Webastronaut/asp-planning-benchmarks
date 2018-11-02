@@ -1,0 +1,10828 @@
+telingo version 1.0
+Reading from encoding-telingo.lp ...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Answer: 1
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 2
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 3
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 4
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 5
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 6
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 7
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 8
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 9
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 10
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 11
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 12
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 13
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 14
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 15
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 16
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 17
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 18
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 19
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 20
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 21
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 22
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 23
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 24
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 25
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 26
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 27
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 28
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 29
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 30
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 31
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 32
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 33
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 34
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 35
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 36
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 37
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 38
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 39
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 40
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 41
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 42
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 43
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 44
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 45
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 46
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 47
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 48
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 49
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 50
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 51
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 52
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 53
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 54
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 55
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 56
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 57
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 58
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 59
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 60
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 61
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 62
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 63
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 64
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 65
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 66
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 67
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 68
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 69
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 70
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 71
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 72
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 73
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 74
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 75
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 76
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 77
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(blue,east)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 78
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 79
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 80
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 81
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 82
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(blue,east)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 83
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 84
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 85
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 86
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 87
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 88
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 89
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 90
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 91
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 92
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 93
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 94
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 95
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 96
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 97
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 98
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 99
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 100
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 101
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 102
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 103
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 104
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 105
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(yellow,west)
+ State 9:
+  go(yellow,south)
+ State 10:
+  go(yellow,east)
+ State 11:
+  go(blue,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 106
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 107
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 108
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 109
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 110
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 111
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 112
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 113
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 114
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 115
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 116
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 117
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 118
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 119
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 120
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 121
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 122
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 123
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 124
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 125
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 126
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 127
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 128
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 129
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 130
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 131
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 132
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 133
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 134
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 135
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 136
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 137
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 138
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 139
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 140
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 141
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 142
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 143
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 144
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 145
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 146
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 147
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 148
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 149
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 150
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 151
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 152
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 153
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 154
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 155
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 156
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 157
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 158
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 159
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 160
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 161
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 162
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 163
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 164
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 165
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 166
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 167
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 168
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 169
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 170
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 171
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 172
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 173
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 174
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 175
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 176
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 177
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 178
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 179
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,south)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 180
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 181
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 182
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 183
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 184
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 185
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 186
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 187
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 188
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 189
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 190
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 191
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 192
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 193
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 194
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 195
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 196
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 197
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 198
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 199
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 200
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 201
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 202
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 203
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 204
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 205
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 206
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 207
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 208
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 209
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 210
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 211
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 212
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 213
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,west)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 214
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 215
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 216
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 217
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 218
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 219
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 220
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 221
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,north)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 222
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(red,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 223
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 224
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 225
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 226
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 227
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 228
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 229
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 230
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 231
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 232
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 233
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 234
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 235
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 236
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(red,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 237
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 238
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 239
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 240
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 241
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 242
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 243
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 244
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 245
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 246
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 247
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 248
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 249
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 250
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 251
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(green,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 252
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 253
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(green,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 254
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 255
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(green,west)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 256
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 257
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 258
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 259
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 260
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 261
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,north)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 262
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 263
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 264
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 265
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 266
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 267
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 268
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 269
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 270
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 271
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 272
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 273
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 274
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 275
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 276
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 277
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 278
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 279
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(red,south)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 280
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(red,south)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 281
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 282
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 283
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 284
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 285
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 286
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 287
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 288
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 289
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 290
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(green,south)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 291
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 292
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 293
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 294
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 295
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 296
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 297
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 298
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 299
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 300
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 301
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 302
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 303
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,west)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 304
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 305
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 306
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 307
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 308
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 309
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 310
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 311
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 312
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 313
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(yellow,south)
+ State 7:
+  go(red,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 314
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 315
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 316
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 317
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 318
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 319
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 320
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 321
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 322
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 323
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 324
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 325
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 326
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 327
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 328
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(blue,east)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 329
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 330
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 331
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 332
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 333
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(yellow,west)
+ State 6:
+  go(red,south)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 334
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 335
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 336
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 337
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 338
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 339
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 340
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 341
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 342
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 343
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 344
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 345
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 346
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(red,south)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 347
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 348
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 349
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 350
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 351
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 352
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 353
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 354
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 355
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 356
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 357
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 358
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 359
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(blue,east)
+ State 8:
+  go(yellow,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 360
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 361
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 362
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(blue,east)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 363
+ State 0:
+ State 1:
+  go(blue,east)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 364
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 365
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(blue,east)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 366
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 367
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(blue,east)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 368
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 369
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 370
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 371
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 372
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(blue,east)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(red,south)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 373
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 374
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 375
+ State 0:
+ State 1:
+  go(red,south)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 376
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(red,south)
+ State 3:
+  go(green,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 377
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 378
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(red,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 379
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 380
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(red,south)
+ State 5:
+  go(green,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 381
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(green,south)
+ State 3:
+  go(yellow,west)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 382
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 383
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(green,south)
+ State 4:
+  go(yellow,north)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 384
+ State 0:
+ State 1:
+  go(yellow,west)
+ State 2:
+  go(green,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+Answer: 385
+ State 0:
+ State 1:
+  go(green,west)
+ State 2:
+  go(yellow,west)
+ State 3:
+  go(yellow,north)
+ State 4:
+  go(green,south)
+ State 5:
+  go(red,south)
+ State 6:
+  go(yellow,west)
+ State 7:
+  go(yellow,south)
+ State 8:
+  go(blue,east)
+ State 9:
+  go(yellow,west)
+ State 10:
+  go(yellow,south)
+ State 11:
+  go(yellow,east)
+ State 12:
+  go(yellow,south)
+ State 13:
+  go(yellow,east)
+SATISFIABLE
+
+Models       : 385
+Calls        : 14
+Time         : 249.687s (Solving: 249.35s 1st Model: 0.98s Unsat: 225.07s)
+CPU Time     : 246.669s
+
+Choices      : 580083  
+Conflicts    : 455867   (Analyzed: 455656)
+Restarts     : 1874     (Average: 243.15 Last: 1841)
+Model-Level  : 12.1    
+Problems     : 14       (Average Length: 2.00 Splits: 0)
+Lemmas       : 455656   (Deleted: 407664)
+  Binary     : 5248     (Ratio:   1.15%)
+  Ternary    : 4610     (Ratio:   1.01%)
+  Conflict   : 455656   (Average Length:  122.1 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+Backjumps    : 455656   (Average:  1.27 Max:  39 Sum: 577208)
+  Executed   : 454589   (Average:  1.26 Max:  39 Sum: 575344 Ratio:  99.68%)
+  Bounded    : 1067     (Average:  1.75 Max:   8 Sum:   1864 Ratio:   0.32%)
+
+Rules        : 35086    (Original: 34878)
+  Choice     : 39      
+Atoms        : 10468   
+Bodies       : 31905    (Original: 31696)
+  Count      : 0        (Original: 52)
+Equivalences : 2930     (Atom=Atom: 462 Body=Body: 178 Other: 2290)
+Tight        : Yes
+Variables    : 35546    (Eliminated:    0 Frozen: 8211)
+Constraints  : 108718   (Binary:  71.8% Ternary:  19.4% Other:   8.8%)
+

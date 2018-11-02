@@ -1,0 +1,867 @@
+telingo version 1.0
+Reading from encoding-telingo.lp ...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Answer: 1
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p3,t0,l4)
+ State 8:
+  load(p1,t0,l4)
+ State 9:
+  load(p2,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 2
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p3,t0,l4)
+ State 8:
+  load(p1,t0,l4)
+ State 9:
+  load(p2,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 3
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p3,t0,l4)
+ State 8:
+  load(p1,t0,l4)
+ State 9:
+  load(p2,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 4
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p3,t0,l4)
+ State 8:
+  load(p1,t0,l4)
+ State 9:
+  load(p2,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 5
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p2,t0,l4)
+ State 8:
+  load(p1,t0,l4)
+ State 9:
+  load(p3,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 6
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p2,t0,l4)
+ State 8:
+  load(p1,t0,l4)
+ State 9:
+  load(p3,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 7
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p2,t0,l4)
+ State 8:
+  load(p1,t0,l4)
+ State 9:
+  load(p3,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 8
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p2,t0,l4)
+ State 8:
+  load(p1,t0,l4)
+ State 9:
+  load(p3,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 9
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p1,t0,l4)
+ State 8:
+  load(p3,t0,l4)
+ State 9:
+  load(p2,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 10
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p1,t0,l4)
+ State 8:
+  load(p3,t0,l4)
+ State 9:
+  load(p2,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 11
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p1,t0,l4)
+ State 8:
+  load(p3,t0,l4)
+ State 9:
+  load(p2,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 12
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p1,t0,l4)
+ State 8:
+  load(p3,t0,l4)
+ State 9:
+  load(p2,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 13
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p2,t0,l4)
+ State 8:
+  load(p3,t0,l4)
+ State 9:
+  load(p1,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 14
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p2,t0,l4)
+ State 8:
+  load(p3,t0,l4)
+ State 9:
+  load(p1,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 15
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p2,t0,l4)
+ State 8:
+  load(p3,t0,l4)
+ State 9:
+  load(p1,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 16
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p2,t0,l4)
+ State 8:
+  load(p3,t0,l4)
+ State 9:
+  load(p1,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 17
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p1,t0,l4)
+ State 8:
+  load(p2,t0,l4)
+ State 9:
+  load(p3,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 18
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p1,t0,l4)
+ State 8:
+  load(p2,t0,l4)
+ State 9:
+  load(p3,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 19
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p3,t0,l4)
+ State 8:
+  load(p2,t0,l4)
+ State 9:
+  load(p1,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 20
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  load(p0,t0,l0)
+ State 5:
+  unload(p4,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p3,t0,l4)
+ State 8:
+  load(p2,t0,l4)
+ State 9:
+  load(p1,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 21
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p1,t0,l4)
+ State 8:
+  load(p2,t0,l4)
+ State 9:
+  load(p3,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 22
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p1,t0,l4)
+ State 8:
+  load(p2,t0,l4)
+ State 9:
+  load(p3,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 23
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p3,t0,l4)
+ State 8:
+  load(p2,t0,l4)
+ State 9:
+  load(p1,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p2,t0,l3)
+ State 12:
+  unload(p3,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+Answer: 24
+ State 0:
+ State 1:
+  drive(t0,l3,l2)
+ State 2:
+  load(p4,t0,l2)
+ State 3:
+  drive(t0,l2,l0)
+ State 4:
+  unload(p4,t0,l0)
+ State 5:
+  load(p0,t0,l0)
+ State 6:
+  drive(t0,l0,l4)
+ State 7:
+  load(p3,t0,l4)
+ State 8:
+  load(p2,t0,l4)
+ State 9:
+  load(p1,t0,l4)
+ State 10:
+  drive(t0,l4,l3)
+ State 11:
+  unload(p3,t0,l3)
+ State 12:
+  unload(p2,t0,l3)
+ State 13:
+  drive(t0,l3,l2)
+ State 14:
+  unload(p1,t0,l2)
+ State 15:
+  drive(t0,l2,l1)
+ State 16:
+  unload(p0,t0,l1)
+SATISFIABLE
+
+Models       : 24
+Calls        : 17
+Time         : 8.404s (Solving: 8.22s 1st Model: 2.35s Unsat: 5.86s)
+CPU Time     : 7.511s
+
+Choices      : 61642   
+Conflicts    : 43183    (Analyzed: 43159)
+Restarts     : 237      (Average: 182.11 Last: 432)
+Model-Level  : 11.0    
+Problems     : 17       (Average Length: 2.00 Splits: 0)
+Lemmas       : 43159    (Deleted: 29518)
+  Binary     : 1951     (Ratio:   4.52%)
+  Ternary    : 994      (Ratio:   2.30%)
+  Conflict   : 43159    (Average Length:  103.4 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+Backjumps    : 43159    (Average:  1.42 Max:  33 Sum:  61337)
+  Executed   : 42946    (Average:  1.42 Max:  33 Sum:  61078 Ratio:  99.58%)
+  Bounded    : 213      (Average:  1.22 Max:   2 Sum:    259 Ratio:   0.42%)
+
+Rules        : 23006    (Original: 19567)
+  Choice     : 16      
+Atoms        : 8764     (Original: 7053 Auxiliary: 1711)
+Bodies       : 12950    (Original: 11236)
+  Count      : 0        (Original: 16)
+Equivalences : 9013     (Atom=Atom: 2694 Body=Body: 940 Other: 5379)
+Tight        : Yes
+Variables    : 11788    (Eliminated:    0 Frozen: 3719)
+Constraints  : 43472    (Binary:  77.4% Ternary:  20.1% Other:   2.5%)
+

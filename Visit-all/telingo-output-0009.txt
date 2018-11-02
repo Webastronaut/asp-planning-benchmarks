@@ -1,0 +1,7037 @@
+telingo version 1.0
+Reading from encoding-telingo.lp ...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Answer: 1
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x2_y1)
+ State 4:
+  move(loc_x2_y1,loc_x1_y1)
+ State 5:
+  move(loc_x1_y1,loc_x0_y1)
+ State 6:
+  move(loc_x0_y1,loc_x0_y2)
+ State 7:
+  move(loc_x0_y2,loc_x0_y3)
+ State 8:
+  move(loc_x0_y3,loc_x1_y3)
+ State 9:
+  move(loc_x1_y3,loc_x2_y3)
+ State 10:
+  move(loc_x2_y3,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x1_y5)
+ State 15:
+  move(loc_x1_y5,loc_x2_y5)
+ State 16:
+  move(loc_x2_y5,loc_x3_y5)
+ State 17:
+  move(loc_x3_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x5_y5)
+ State 19:
+  move(loc_x5_y5,loc_x5_y4)
+ State 20:
+  move(loc_x5_y4,loc_x4_y4)
+ State 21:
+  move(loc_x4_y4,loc_x3_y4)
+ State 22:
+  move(loc_x3_y4,loc_x3_y3)
+ State 23:
+  move(loc_x3_y3,loc_x4_y3)
+ State 24:
+  move(loc_x4_y3,loc_x5_y3)
+ State 25:
+  move(loc_x5_y3,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x4_y2)
+ State 27:
+  move(loc_x4_y2,loc_x4_y1)
+ State 28:
+  move(loc_x4_y1,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x5_y0)
+ State 30:
+  move(loc_x5_y0,loc_x4_y0)
+ State 31:
+  move(loc_x4_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x2_y0)
+ State 33:
+  move(loc_x2_y0,loc_x1_y0)
+ State 34:
+  move(loc_x1_y0,loc_x0_y0)
+Answer: 2
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x2_y3)
+ State 2:
+  move(loc_x2_y3,loc_x3_y3)
+ State 3:
+  move(loc_x3_y3,loc_x3_y2)
+ State 4:
+  move(loc_x3_y2,loc_x3_y1)
+ State 5:
+  move(loc_x3_y1,loc_x4_y1)
+ State 6:
+  move(loc_x4_y1,loc_x4_y2)
+ State 7:
+  move(loc_x4_y2,loc_x4_y3)
+ State 8:
+  move(loc_x4_y3,loc_x4_y4)
+ State 9:
+  move(loc_x4_y4,loc_x3_y4)
+ State 10:
+  move(loc_x3_y4,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x1_y5)
+ State 15:
+  move(loc_x1_y5,loc_x2_y5)
+ State 16:
+  move(loc_x2_y5,loc_x3_y5)
+ State 17:
+  move(loc_x3_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x5_y5)
+ State 19:
+  move(loc_x5_y5,loc_x5_y4)
+ State 20:
+  move(loc_x5_y4,loc_x5_y3)
+ State 21:
+  move(loc_x5_y3,loc_x5_y2)
+ State 22:
+  move(loc_x5_y2,loc_x5_y1)
+ State 23:
+  move(loc_x5_y1,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x3_y0)
+ State 26:
+  move(loc_x3_y0,loc_x2_y0)
+ State 27:
+  move(loc_x2_y0,loc_x2_y1)
+ State 28:
+  move(loc_x2_y1,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x1_y0)
+ State 30:
+  move(loc_x1_y0,loc_x0_y0)
+ State 31:
+  move(loc_x0_y0,loc_x0_y1)
+ State 32:
+  move(loc_x0_y1,loc_x0_y2)
+ State 33:
+  move(loc_x0_y2,loc_x0_y3)
+ State 34:
+  move(loc_x0_y3,loc_x1_y3)
+Answer: 3
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y3)
+ State 6:
+  move(loc_x4_y3,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y3)
+ State 9:
+  move(loc_x3_y3,loc_x2_y3)
+ State 10:
+  move(loc_x2_y3,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x1_y5)
+ State 15:
+  move(loc_x1_y5,loc_x2_y5)
+ State 16:
+  move(loc_x2_y5,loc_x3_y5)
+ State 17:
+  move(loc_x3_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x5_y5)
+ State 19:
+  move(loc_x5_y5,loc_x5_y4)
+ State 20:
+  move(loc_x5_y4,loc_x5_y3)
+ State 21:
+  move(loc_x5_y3,loc_x5_y2)
+ State 22:
+  move(loc_x5_y2,loc_x5_y1)
+ State 23:
+  move(loc_x5_y1,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x3_y0)
+ State 26:
+  move(loc_x3_y0,loc_x2_y0)
+ State 27:
+  move(loc_x2_y0,loc_x2_y1)
+ State 28:
+  move(loc_x2_y1,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x1_y0)
+ State 30:
+  move(loc_x1_y0,loc_x0_y0)
+ State 31:
+  move(loc_x0_y0,loc_x0_y1)
+ State 32:
+  move(loc_x0_y1,loc_x0_y2)
+ State 33:
+  move(loc_x0_y2,loc_x0_y3)
+ State 34:
+  move(loc_x0_y3,loc_x1_y3)
+Answer: 4
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y1)
+ State 6:
+  move(loc_x4_y1,loc_x3_y1)
+ State 7:
+  move(loc_x3_y1,loc_x3_y2)
+ State 8:
+  move(loc_x3_y2,loc_x3_y3)
+ State 9:
+  move(loc_x3_y3,loc_x2_y3)
+ State 10:
+  move(loc_x2_y3,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x1_y5)
+ State 15:
+  move(loc_x1_y5,loc_x2_y5)
+ State 16:
+  move(loc_x2_y5,loc_x3_y5)
+ State 17:
+  move(loc_x3_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x5_y5)
+ State 19:
+  move(loc_x5_y5,loc_x5_y4)
+ State 20:
+  move(loc_x5_y4,loc_x5_y3)
+ State 21:
+  move(loc_x5_y3,loc_x5_y2)
+ State 22:
+  move(loc_x5_y2,loc_x5_y1)
+ State 23:
+  move(loc_x5_y1,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x3_y0)
+ State 26:
+  move(loc_x3_y0,loc_x2_y0)
+ State 27:
+  move(loc_x2_y0,loc_x2_y1)
+ State 28:
+  move(loc_x2_y1,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x1_y0)
+ State 30:
+  move(loc_x1_y0,loc_x0_y0)
+ State 31:
+  move(loc_x0_y0,loc_x0_y1)
+ State 32:
+  move(loc_x0_y1,loc_x0_y2)
+ State 33:
+  move(loc_x0_y2,loc_x0_y3)
+ State 34:
+  move(loc_x0_y3,loc_x1_y3)
+Answer: 5
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x2_y1)
+ State 4:
+  move(loc_x2_y1,loc_x1_y1)
+ State 5:
+  move(loc_x1_y1,loc_x0_y1)
+ State 6:
+  move(loc_x0_y1,loc_x0_y2)
+ State 7:
+  move(loc_x0_y2,loc_x0_y3)
+ State 8:
+  move(loc_x0_y3,loc_x1_y3)
+ State 9:
+  move(loc_x1_y3,loc_x2_y3)
+ State 10:
+  move(loc_x2_y3,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x1_y5)
+ State 15:
+  move(loc_x1_y5,loc_x2_y5)
+ State 16:
+  move(loc_x2_y5,loc_x3_y5)
+ State 17:
+  move(loc_x3_y5,loc_x3_y4)
+ State 18:
+  move(loc_x3_y4,loc_x3_y3)
+ State 19:
+  move(loc_x3_y3,loc_x4_y3)
+ State 20:
+  move(loc_x4_y3,loc_x4_y4)
+ State 21:
+  move(loc_x4_y4,loc_x4_y5)
+ State 22:
+  move(loc_x4_y5,loc_x5_y5)
+ State 23:
+  move(loc_x5_y5,loc_x5_y4)
+ State 24:
+  move(loc_x5_y4,loc_x5_y3)
+ State 25:
+  move(loc_x5_y3,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x4_y2)
+ State 27:
+  move(loc_x4_y2,loc_x4_y1)
+ State 28:
+  move(loc_x4_y1,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x5_y0)
+ State 30:
+  move(loc_x5_y0,loc_x4_y0)
+ State 31:
+  move(loc_x4_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x2_y0)
+ State 33:
+  move(loc_x2_y0,loc_x1_y0)
+ State 34:
+  move(loc_x1_y0,loc_x0_y0)
+Answer: 6
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y3)
+ State 6:
+  move(loc_x4_y3,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y3)
+ State 9:
+  move(loc_x3_y3,loc_x2_y3)
+ State 10:
+  move(loc_x2_y3,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x4_y5)
+ State 30:
+  move(loc_x4_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x2_y5)
+ State 32:
+  move(loc_x2_y5,loc_x1_y5)
+ State 33:
+  move(loc_x1_y5,loc_x0_y5)
+ State 34:
+  move(loc_x0_y5,loc_x0_y4)
+Answer: 7
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y1)
+ State 6:
+  move(loc_x4_y1,loc_x3_y1)
+ State 7:
+  move(loc_x3_y1,loc_x3_y2)
+ State 8:
+  move(loc_x3_y2,loc_x3_y3)
+ State 9:
+  move(loc_x3_y3,loc_x2_y3)
+ State 10:
+  move(loc_x2_y3,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x4_y5)
+ State 30:
+  move(loc_x4_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x2_y5)
+ State 32:
+  move(loc_x2_y5,loc_x1_y5)
+ State 33:
+  move(loc_x1_y5,loc_x0_y5)
+ State 34:
+  move(loc_x0_y5,loc_x0_y4)
+Answer: 8
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x2_y3)
+ State 2:
+  move(loc_x2_y3,loc_x3_y3)
+ State 3:
+  move(loc_x3_y3,loc_x3_y2)
+ State 4:
+  move(loc_x3_y2,loc_x3_y1)
+ State 5:
+  move(loc_x3_y1,loc_x4_y1)
+ State 6:
+  move(loc_x4_y1,loc_x4_y2)
+ State 7:
+  move(loc_x4_y2,loc_x4_y3)
+ State 8:
+  move(loc_x4_y3,loc_x4_y4)
+ State 9:
+  move(loc_x4_y4,loc_x3_y4)
+ State 10:
+  move(loc_x3_y4,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x4_y5)
+ State 30:
+  move(loc_x4_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x2_y5)
+ State 32:
+  move(loc_x2_y5,loc_x1_y5)
+ State 33:
+  move(loc_x1_y5,loc_x0_y5)
+ State 34:
+  move(loc_x0_y5,loc_x0_y4)
+Answer: 9
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y5)
+ State 13:
+  move(loc_x1_y5,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x2_y3)
+ State 18:
+  move(loc_x2_y3,loc_x3_y3)
+ State 19:
+  move(loc_x3_y3,loc_x3_y2)
+ State 20:
+  move(loc_x3_y2,loc_x4_y2)
+ State 21:
+  move(loc_x4_y2,loc_x5_y2)
+ State 22:
+  move(loc_x5_y2,loc_x5_y1)
+ State 23:
+  move(loc_x5_y1,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x4_y1)
+ State 26:
+  move(loc_x4_y1,loc_x3_y1)
+ State 27:
+  move(loc_x3_y1,loc_x3_y0)
+ State 28:
+  move(loc_x3_y0,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x1_y1)
+ State 31:
+  move(loc_x1_y1,loc_x1_y0)
+ State 32:
+  move(loc_x1_y0,loc_x0_y0)
+ State 33:
+  move(loc_x0_y0,loc_x0_y1)
+ State 34:
+  move(loc_x0_y1,loc_x0_y2)
+Answer: 10
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y5)
+ State 13:
+  move(loc_x1_y5,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x2_y3)
+ State 18:
+  move(loc_x2_y3,loc_x3_y3)
+ State 19:
+  move(loc_x3_y3,loc_x3_y2)
+ State 20:
+  move(loc_x3_y2,loc_x4_y2)
+ State 21:
+  move(loc_x4_y2,loc_x5_y2)
+ State 22:
+  move(loc_x5_y2,loc_x5_y1)
+ State 23:
+  move(loc_x5_y1,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x4_y1)
+ State 26:
+  move(loc_x4_y1,loc_x3_y1)
+ State 27:
+  move(loc_x3_y1,loc_x3_y0)
+ State 28:
+  move(loc_x3_y0,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x1_y1)
+ State 31:
+  move(loc_x1_y1,loc_x1_y0)
+ State 32:
+  move(loc_x1_y0,loc_x0_y0)
+ State 33:
+  move(loc_x0_y0,loc_x0_y1)
+ State 34:
+  move(loc_x0_y1,loc_x0_y2)
+Answer: 11
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x2_y3)
+ State 14:
+  move(loc_x2_y3,loc_x3_y3)
+ State 15:
+  move(loc_x3_y3,loc_x3_y2)
+ State 16:
+  move(loc_x3_y2,loc_x3_y1)
+ State 17:
+  move(loc_x3_y1,loc_x4_y1)
+ State 18:
+  move(loc_x4_y1,loc_x4_y2)
+ State 19:
+  move(loc_x4_y2,loc_x5_y2)
+ State 20:
+  move(loc_x5_y2,loc_x5_y1)
+ State 21:
+  move(loc_x5_y1,loc_x5_y0)
+ State 22:
+  move(loc_x5_y0,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x2_y0)
+ State 25:
+  move(loc_x2_y0,loc_x2_y1)
+ State 26:
+  move(loc_x2_y1,loc_x1_y1)
+ State 27:
+  move(loc_x1_y1,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x0_y0)
+ State 29:
+  move(loc_x0_y0,loc_x0_y1)
+ State 30:
+  move(loc_x0_y1,loc_x0_y2)
+ State 31:
+  move(loc_x0_y2,loc_x0_y3)
+ State 32:
+  move(loc_x0_y3,loc_x0_y4)
+ State 33:
+  move(loc_x0_y4,loc_x0_y5)
+ State 34:
+  move(loc_x0_y5,loc_x1_y5)
+Answer: 12
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x2_y3)
+ State 14:
+  move(loc_x2_y3,loc_x3_y3)
+ State 15:
+  move(loc_x3_y3,loc_x3_y2)
+ State 16:
+  move(loc_x3_y2,loc_x3_y1)
+ State 17:
+  move(loc_x3_y1,loc_x4_y1)
+ State 18:
+  move(loc_x4_y1,loc_x4_y2)
+ State 19:
+  move(loc_x4_y2,loc_x5_y2)
+ State 20:
+  move(loc_x5_y2,loc_x5_y1)
+ State 21:
+  move(loc_x5_y1,loc_x5_y0)
+ State 22:
+  move(loc_x5_y0,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x2_y0)
+ State 25:
+  move(loc_x2_y0,loc_x2_y1)
+ State 26:
+  move(loc_x2_y1,loc_x1_y1)
+ State 27:
+  move(loc_x1_y1,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x0_y0)
+ State 29:
+  move(loc_x0_y0,loc_x0_y1)
+ State 30:
+  move(loc_x0_y1,loc_x0_y2)
+ State 31:
+  move(loc_x0_y2,loc_x0_y3)
+ State 32:
+  move(loc_x0_y3,loc_x0_y4)
+ State 33:
+  move(loc_x0_y4,loc_x0_y5)
+ State 34:
+  move(loc_x0_y5,loc_x1_y5)
+Answer: 13
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x2_y3)
+ State 14:
+  move(loc_x2_y3,loc_x3_y3)
+ State 15:
+  move(loc_x3_y3,loc_x3_y2)
+ State 16:
+  move(loc_x3_y2,loc_x4_y2)
+ State 17:
+  move(loc_x4_y2,loc_x5_y2)
+ State 18:
+  move(loc_x5_y2,loc_x5_y1)
+ State 19:
+  move(loc_x5_y1,loc_x5_y0)
+ State 20:
+  move(loc_x5_y0,loc_x4_y0)
+ State 21:
+  move(loc_x4_y0,loc_x4_y1)
+ State 22:
+  move(loc_x4_y1,loc_x3_y1)
+ State 23:
+  move(loc_x3_y1,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x2_y0)
+ State 25:
+  move(loc_x2_y0,loc_x2_y1)
+ State 26:
+  move(loc_x2_y1,loc_x1_y1)
+ State 27:
+  move(loc_x1_y1,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x0_y0)
+ State 29:
+  move(loc_x0_y0,loc_x0_y1)
+ State 30:
+  move(loc_x0_y1,loc_x0_y2)
+ State 31:
+  move(loc_x0_y2,loc_x0_y3)
+ State 32:
+  move(loc_x0_y3,loc_x0_y4)
+ State 33:
+  move(loc_x0_y4,loc_x0_y5)
+ State 34:
+  move(loc_x0_y5,loc_x1_y5)
+Answer: 14
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x2_y3)
+ State 14:
+  move(loc_x2_y3,loc_x3_y3)
+ State 15:
+  move(loc_x3_y3,loc_x3_y2)
+ State 16:
+  move(loc_x3_y2,loc_x4_y2)
+ State 17:
+  move(loc_x4_y2,loc_x5_y2)
+ State 18:
+  move(loc_x5_y2,loc_x5_y1)
+ State 19:
+  move(loc_x5_y1,loc_x5_y0)
+ State 20:
+  move(loc_x5_y0,loc_x4_y0)
+ State 21:
+  move(loc_x4_y0,loc_x4_y1)
+ State 22:
+  move(loc_x4_y1,loc_x3_y1)
+ State 23:
+  move(loc_x3_y1,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x2_y0)
+ State 25:
+  move(loc_x2_y0,loc_x2_y1)
+ State 26:
+  move(loc_x2_y1,loc_x1_y1)
+ State 27:
+  move(loc_x1_y1,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x0_y0)
+ State 29:
+  move(loc_x0_y0,loc_x0_y1)
+ State 30:
+  move(loc_x0_y1,loc_x0_y2)
+ State 31:
+  move(loc_x0_y2,loc_x0_y3)
+ State 32:
+  move(loc_x0_y3,loc_x0_y4)
+ State 33:
+  move(loc_x0_y4,loc_x0_y5)
+ State 34:
+  move(loc_x0_y5,loc_x1_y5)
+Answer: 15
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x4_y4)
+ State 9:
+  move(loc_x4_y4,loc_x3_y4)
+ State 10:
+  move(loc_x3_y4,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x2_y3)
+ State 14:
+  move(loc_x2_y3,loc_x3_y3)
+ State 15:
+  move(loc_x3_y3,loc_x3_y2)
+ State 16:
+  move(loc_x3_y2,loc_x3_y1)
+ State 17:
+  move(loc_x3_y1,loc_x4_y1)
+ State 18:
+  move(loc_x4_y1,loc_x5_y1)
+ State 19:
+  move(loc_x5_y1,loc_x5_y0)
+ State 20:
+  move(loc_x5_y0,loc_x4_y0)
+ State 21:
+  move(loc_x4_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x2_y0)
+ State 23:
+  move(loc_x2_y0,loc_x2_y1)
+ State 24:
+  move(loc_x2_y1,loc_x1_y1)
+ State 25:
+  move(loc_x1_y1,loc_x1_y0)
+ State 26:
+  move(loc_x1_y0,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x0_y1)
+ State 28:
+  move(loc_x0_y1,loc_x0_y2)
+ State 29:
+  move(loc_x0_y2,loc_x0_y3)
+ State 30:
+  move(loc_x0_y3,loc_x0_y4)
+ State 31:
+  move(loc_x0_y4,loc_x0_y5)
+ State 32:
+  move(loc_x0_y5,loc_x1_y5)
+ State 33:
+  move(loc_x1_y5,loc_x2_y5)
+ State 34:
+  move(loc_x2_y5,loc_x3_y5)
+Answer: 16
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y5)
+ State 13:
+  move(loc_x1_y5,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y0)
+ State 19:
+  move(loc_x0_y0,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x1_y1)
+ State 21:
+  move(loc_x1_y1,loc_x2_y1)
+ State 22:
+  move(loc_x2_y1,loc_x2_y0)
+ State 23:
+  move(loc_x2_y0,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x3_y1)
+ State 25:
+  move(loc_x3_y1,loc_x4_y1)
+ State 26:
+  move(loc_x4_y1,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x5_y2)
+ State 30:
+  move(loc_x5_y2,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 17
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y5)
+ State 13:
+  move(loc_x1_y5,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y0)
+ State 19:
+  move(loc_x0_y0,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x1_y1)
+ State 21:
+  move(loc_x1_y1,loc_x2_y1)
+ State 22:
+  move(loc_x2_y1,loc_x2_y0)
+ State 23:
+  move(loc_x2_y0,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x3_y1)
+ State 25:
+  move(loc_x3_y1,loc_x4_y1)
+ State 26:
+  move(loc_x4_y1,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x5_y2)
+ State 30:
+  move(loc_x5_y2,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 18
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y5)
+ State 13:
+  move(loc_x1_y5,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x2_y3)
+ State 18:
+  move(loc_x2_y3,loc_x3_y3)
+ State 19:
+  move(loc_x3_y3,loc_x3_y2)
+ State 20:
+  move(loc_x3_y2,loc_x3_y1)
+ State 21:
+  move(loc_x3_y1,loc_x4_y1)
+ State 22:
+  move(loc_x4_y1,loc_x4_y2)
+ State 23:
+  move(loc_x4_y2,loc_x5_y2)
+ State 24:
+  move(loc_x5_y2,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x3_y0)
+ State 28:
+  move(loc_x3_y0,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x1_y1)
+ State 31:
+  move(loc_x1_y1,loc_x1_y0)
+ State 32:
+  move(loc_x1_y0,loc_x0_y0)
+ State 33:
+  move(loc_x0_y0,loc_x0_y1)
+ State 34:
+  move(loc_x0_y1,loc_x0_y2)
+Answer: 19
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y5)
+ State 13:
+  move(loc_x1_y5,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x2_y3)
+ State 18:
+  move(loc_x2_y3,loc_x3_y3)
+ State 19:
+  move(loc_x3_y3,loc_x3_y2)
+ State 20:
+  move(loc_x3_y2,loc_x3_y1)
+ State 21:
+  move(loc_x3_y1,loc_x4_y1)
+ State 22:
+  move(loc_x4_y1,loc_x4_y2)
+ State 23:
+  move(loc_x4_y2,loc_x5_y2)
+ State 24:
+  move(loc_x5_y2,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x3_y0)
+ State 28:
+  move(loc_x3_y0,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x1_y1)
+ State 31:
+  move(loc_x1_y1,loc_x1_y0)
+ State 32:
+  move(loc_x1_y0,loc_x0_y0)
+ State 33:
+  move(loc_x0_y0,loc_x0_y1)
+ State 34:
+  move(loc_x0_y1,loc_x0_y2)
+Answer: 20
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y5)
+ State 13:
+  move(loc_x1_y5,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y0)
+ State 19:
+  move(loc_x0_y0,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x1_y1)
+ State 21:
+  move(loc_x1_y1,loc_x2_y1)
+ State 22:
+  move(loc_x2_y1,loc_x2_y0)
+ State 23:
+  move(loc_x2_y0,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x5_y1)
+ State 27:
+  move(loc_x5_y1,loc_x5_y2)
+ State 28:
+  move(loc_x5_y2,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 21
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y5)
+ State 13:
+  move(loc_x1_y5,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y0)
+ State 19:
+  move(loc_x0_y0,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x1_y1)
+ State 21:
+  move(loc_x1_y1,loc_x2_y1)
+ State 22:
+  move(loc_x2_y1,loc_x2_y0)
+ State 23:
+  move(loc_x2_y0,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x5_y1)
+ State 27:
+  move(loc_x5_y1,loc_x5_y2)
+ State 28:
+  move(loc_x5_y2,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 22
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x2_y3)
+ State 2:
+  move(loc_x2_y3,loc_x3_y3)
+ State 3:
+  move(loc_x3_y3,loc_x3_y2)
+ State 4:
+  move(loc_x3_y2,loc_x3_y1)
+ State 5:
+  move(loc_x3_y1,loc_x4_y1)
+ State 6:
+  move(loc_x4_y1,loc_x4_y2)
+ State 7:
+  move(loc_x4_y2,loc_x4_y3)
+ State 8:
+  move(loc_x4_y3,loc_x4_y4)
+ State 9:
+  move(loc_x4_y4,loc_x3_y4)
+ State 10:
+  move(loc_x3_y4,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y5)
+ State 16:
+  move(loc_x0_y5,loc_x1_y5)
+ State 17:
+  move(loc_x1_y5,loc_x2_y5)
+ State 18:
+  move(loc_x2_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x4_y5)
+ State 20:
+  move(loc_x4_y5,loc_x5_y5)
+ State 21:
+  move(loc_x5_y5,loc_x5_y4)
+ State 22:
+  move(loc_x5_y4,loc_x5_y3)
+ State 23:
+  move(loc_x5_y3,loc_x5_y2)
+ State 24:
+  move(loc_x5_y2,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x3_y0)
+ State 28:
+  move(loc_x3_y0,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x1_y1)
+ State 31:
+  move(loc_x1_y1,loc_x1_y0)
+ State 32:
+  move(loc_x1_y0,loc_x0_y0)
+ State 33:
+  move(loc_x0_y0,loc_x0_y1)
+ State 34:
+  move(loc_x0_y1,loc_x0_y2)
+Answer: 23
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y3)
+ State 6:
+  move(loc_x4_y3,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y3)
+ State 9:
+  move(loc_x3_y3,loc_x2_y3)
+ State 10:
+  move(loc_x2_y3,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y5)
+ State 16:
+  move(loc_x0_y5,loc_x1_y5)
+ State 17:
+  move(loc_x1_y5,loc_x2_y5)
+ State 18:
+  move(loc_x2_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x4_y5)
+ State 20:
+  move(loc_x4_y5,loc_x5_y5)
+ State 21:
+  move(loc_x5_y5,loc_x5_y4)
+ State 22:
+  move(loc_x5_y4,loc_x5_y3)
+ State 23:
+  move(loc_x5_y3,loc_x5_y2)
+ State 24:
+  move(loc_x5_y2,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x3_y0)
+ State 28:
+  move(loc_x3_y0,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x1_y1)
+ State 31:
+  move(loc_x1_y1,loc_x1_y0)
+ State 32:
+  move(loc_x1_y0,loc_x0_y0)
+ State 33:
+  move(loc_x0_y0,loc_x0_y1)
+ State 34:
+  move(loc_x0_y1,loc_x0_y2)
+Answer: 24
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y1)
+ State 6:
+  move(loc_x4_y1,loc_x3_y1)
+ State 7:
+  move(loc_x3_y1,loc_x3_y2)
+ State 8:
+  move(loc_x3_y2,loc_x3_y3)
+ State 9:
+  move(loc_x3_y3,loc_x2_y3)
+ State 10:
+  move(loc_x2_y3,loc_x2_y4)
+ State 11:
+  move(loc_x2_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y5)
+ State 16:
+  move(loc_x0_y5,loc_x1_y5)
+ State 17:
+  move(loc_x1_y5,loc_x2_y5)
+ State 18:
+  move(loc_x2_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x4_y5)
+ State 20:
+  move(loc_x4_y5,loc_x5_y5)
+ State 21:
+  move(loc_x5_y5,loc_x5_y4)
+ State 22:
+  move(loc_x5_y4,loc_x5_y3)
+ State 23:
+  move(loc_x5_y3,loc_x5_y2)
+ State 24:
+  move(loc_x5_y2,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x3_y0)
+ State 28:
+  move(loc_x3_y0,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x1_y1)
+ State 31:
+  move(loc_x1_y1,loc_x1_y0)
+ State 32:
+  move(loc_x1_y0,loc_x0_y0)
+ State 33:
+  move(loc_x0_y0,loc_x0_y1)
+ State 34:
+  move(loc_x0_y1,loc_x0_y2)
+Answer: 25
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x3_y0)
+ State 4:
+  move(loc_x3_y0,loc_x2_y0)
+ State 5:
+  move(loc_x2_y0,loc_x2_y1)
+ State 6:
+  move(loc_x2_y1,loc_x1_y1)
+ State 7:
+  move(loc_x1_y1,loc_x1_y0)
+ State 8:
+  move(loc_x1_y0,loc_x0_y0)
+ State 9:
+  move(loc_x0_y0,loc_x0_y1)
+ State 10:
+  move(loc_x0_y1,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y3)
+ State 12:
+  move(loc_x0_y3,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x1_y5)
+ State 15:
+  move(loc_x1_y5,loc_x1_y4)
+ State 16:
+  move(loc_x1_y4,loc_x2_y4)
+ State 17:
+  move(loc_x2_y4,loc_x2_y5)
+ State 18:
+  move(loc_x2_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x3_y4)
+ State 20:
+  move(loc_x3_y4,loc_x4_y4)
+ State 21:
+  move(loc_x4_y4,loc_x4_y5)
+ State 22:
+  move(loc_x4_y5,loc_x5_y5)
+ State 23:
+  move(loc_x5_y5,loc_x5_y4)
+ State 24:
+  move(loc_x5_y4,loc_x5_y3)
+ State 25:
+  move(loc_x5_y3,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y1)
+ State 27:
+  move(loc_x5_y1,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x4_y0)
+ State 29:
+  move(loc_x4_y0,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 26
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x3_y0)
+ State 4:
+  move(loc_x3_y0,loc_x2_y0)
+ State 5:
+  move(loc_x2_y0,loc_x2_y1)
+ State 6:
+  move(loc_x2_y1,loc_x1_y1)
+ State 7:
+  move(loc_x1_y1,loc_x1_y0)
+ State 8:
+  move(loc_x1_y0,loc_x0_y0)
+ State 9:
+  move(loc_x0_y0,loc_x0_y1)
+ State 10:
+  move(loc_x0_y1,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y3)
+ State 12:
+  move(loc_x0_y3,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x1_y5)
+ State 15:
+  move(loc_x1_y5,loc_x1_y4)
+ State 16:
+  move(loc_x1_y4,loc_x2_y4)
+ State 17:
+  move(loc_x2_y4,loc_x2_y5)
+ State 18:
+  move(loc_x2_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x4_y5)
+ State 20:
+  move(loc_x4_y5,loc_x5_y5)
+ State 21:
+  move(loc_x5_y5,loc_x5_y4)
+ State 22:
+  move(loc_x5_y4,loc_x5_y3)
+ State 23:
+  move(loc_x5_y3,loc_x5_y2)
+ State 24:
+  move(loc_x5_y2,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x4_y1)
+ State 28:
+  move(loc_x4_y1,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 27
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y4)
+ State 8:
+  move(loc_x5_y4,loc_x5_y5)
+ State 9:
+  move(loc_x5_y5,loc_x4_y5)
+ State 10:
+  move(loc_x4_y5,loc_x3_y5)
+ State 11:
+  move(loc_x3_y5,loc_x2_y5)
+ State 12:
+  move(loc_x2_y5,loc_x2_y4)
+ State 13:
+  move(loc_x2_y4,loc_x1_y4)
+ State 14:
+  move(loc_x1_y4,loc_x1_y5)
+ State 15:
+  move(loc_x1_y5,loc_x0_y5)
+ State 16:
+  move(loc_x0_y5,loc_x0_y4)
+ State 17:
+  move(loc_x0_y4,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y1)
+ State 20:
+  move(loc_x0_y1,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x1_y0)
+ State 22:
+  move(loc_x1_y0,loc_x1_y1)
+ State 23:
+  move(loc_x1_y1,loc_x2_y1)
+ State 24:
+  move(loc_x2_y1,loc_x2_y0)
+ State 25:
+  move(loc_x2_y0,loc_x3_y0)
+ State 26:
+  move(loc_x3_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 28
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x4_y4)
+ State 9:
+  move(loc_x4_y4,loc_x3_y4)
+ State 10:
+  move(loc_x3_y4,loc_x3_y5)
+ State 11:
+  move(loc_x3_y5,loc_x2_y5)
+ State 12:
+  move(loc_x2_y5,loc_x2_y4)
+ State 13:
+  move(loc_x2_y4,loc_x1_y4)
+ State 14:
+  move(loc_x1_y4,loc_x1_y5)
+ State 15:
+  move(loc_x1_y5,loc_x0_y5)
+ State 16:
+  move(loc_x0_y5,loc_x0_y4)
+ State 17:
+  move(loc_x0_y4,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y1)
+ State 20:
+  move(loc_x0_y1,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x1_y0)
+ State 22:
+  move(loc_x1_y0,loc_x1_y1)
+ State 23:
+  move(loc_x1_y1,loc_x2_y1)
+ State 24:
+  move(loc_x2_y1,loc_x2_y0)
+ State 25:
+  move(loc_x2_y0,loc_x3_y0)
+ State 26:
+  move(loc_x3_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 29
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x3_y5)
+ State 3:
+  move(loc_x3_y5,loc_x2_y5)
+ State 4:
+  move(loc_x2_y5,loc_x2_y4)
+ State 5:
+  move(loc_x2_y4,loc_x1_y4)
+ State 6:
+  move(loc_x1_y4,loc_x1_y5)
+ State 7:
+  move(loc_x1_y5,loc_x0_y5)
+ State 8:
+  move(loc_x0_y5,loc_x0_y4)
+ State 9:
+  move(loc_x0_y4,loc_x0_y3)
+ State 10:
+  move(loc_x0_y3,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y1)
+ State 12:
+  move(loc_x0_y1,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x2_y1)
+ State 16:
+  move(loc_x2_y1,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x3_y0)
+ State 18:
+  move(loc_x3_y0,loc_x3_y1)
+ State 19:
+  move(loc_x3_y1,loc_x3_y2)
+ State 20:
+  move(loc_x3_y2,loc_x4_y2)
+ State 21:
+  move(loc_x4_y2,loc_x4_y1)
+ State 22:
+  move(loc_x4_y1,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x4_y5)
+ State 30:
+  move(loc_x4_y5,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 30
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x3_y5)
+ State 3:
+  move(loc_x3_y5,loc_x2_y5)
+ State 4:
+  move(loc_x2_y5,loc_x1_y5)
+ State 5:
+  move(loc_x1_y5,loc_x0_y5)
+ State 6:
+  move(loc_x0_y5,loc_x0_y4)
+ State 7:
+  move(loc_x0_y4,loc_x1_y4)
+ State 8:
+  move(loc_x1_y4,loc_x1_y3)
+ State 9:
+  move(loc_x1_y3,loc_x0_y3)
+ State 10:
+  move(loc_x0_y3,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y1)
+ State 12:
+  move(loc_x0_y1,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x2_y1)
+ State 16:
+  move(loc_x2_y1,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x3_y0)
+ State 18:
+  move(loc_x3_y0,loc_x3_y1)
+ State 19:
+  move(loc_x3_y1,loc_x3_y2)
+ State 20:
+  move(loc_x3_y2,loc_x4_y2)
+ State 21:
+  move(loc_x4_y2,loc_x4_y1)
+ State 22:
+  move(loc_x4_y1,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x4_y5)
+ State 30:
+  move(loc_x4_y5,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 31
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x3_y5)
+ State 3:
+  move(loc_x3_y5,loc_x2_y5)
+ State 4:
+  move(loc_x2_y5,loc_x1_y5)
+ State 5:
+  move(loc_x1_y5,loc_x0_y5)
+ State 6:
+  move(loc_x0_y5,loc_x0_y4)
+ State 7:
+  move(loc_x0_y4,loc_x1_y4)
+ State 8:
+  move(loc_x1_y4,loc_x1_y3)
+ State 9:
+  move(loc_x1_y3,loc_x0_y3)
+ State 10:
+  move(loc_x0_y3,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y1)
+ State 12:
+  move(loc_x0_y1,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x2_y1)
+ State 16:
+  move(loc_x2_y1,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x3_y0)
+ State 18:
+  move(loc_x3_y0,loc_x4_y0)
+ State 19:
+  move(loc_x4_y0,loc_x5_y0)
+ State 20:
+  move(loc_x5_y0,loc_x5_y1)
+ State 21:
+  move(loc_x5_y1,loc_x4_y1)
+ State 22:
+  move(loc_x4_y1,loc_x3_y1)
+ State 23:
+  move(loc_x3_y1,loc_x3_y2)
+ State 24:
+  move(loc_x3_y2,loc_x4_y2)
+ State 25:
+  move(loc_x4_y2,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x4_y5)
+ State 30:
+  move(loc_x4_y5,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 32
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x3_y5)
+ State 3:
+  move(loc_x3_y5,loc_x2_y5)
+ State 4:
+  move(loc_x2_y5,loc_x2_y4)
+ State 5:
+  move(loc_x2_y4,loc_x1_y4)
+ State 6:
+  move(loc_x1_y4,loc_x1_y5)
+ State 7:
+  move(loc_x1_y5,loc_x0_y5)
+ State 8:
+  move(loc_x0_y5,loc_x0_y4)
+ State 9:
+  move(loc_x0_y4,loc_x0_y3)
+ State 10:
+  move(loc_x0_y3,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y1)
+ State 12:
+  move(loc_x0_y1,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x2_y1)
+ State 16:
+  move(loc_x2_y1,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x3_y0)
+ State 18:
+  move(loc_x3_y0,loc_x4_y0)
+ State 19:
+  move(loc_x4_y0,loc_x5_y0)
+ State 20:
+  move(loc_x5_y0,loc_x5_y1)
+ State 21:
+  move(loc_x5_y1,loc_x4_y1)
+ State 22:
+  move(loc_x4_y1,loc_x3_y1)
+ State 23:
+  move(loc_x3_y1,loc_x3_y2)
+ State 24:
+  move(loc_x3_y2,loc_x4_y2)
+ State 25:
+  move(loc_x4_y2,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x4_y5)
+ State 30:
+  move(loc_x4_y5,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 33
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x4_y4)
+ State 5:
+  move(loc_x4_y4,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x5_y4)
+ State 8:
+  move(loc_x5_y4,loc_x5_y3)
+ State 9:
+  move(loc_x5_y3,loc_x5_y2)
+ State 10:
+  move(loc_x5_y2,loc_x5_y1)
+ State 11:
+  move(loc_x5_y1,loc_x5_y0)
+ State 12:
+  move(loc_x5_y0,loc_x4_y0)
+ State 13:
+  move(loc_x4_y0,loc_x4_y1)
+ State 14:
+  move(loc_x4_y1,loc_x3_y1)
+ State 15:
+  move(loc_x3_y1,loc_x3_y0)
+ State 16:
+  move(loc_x3_y0,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x2_y1)
+ State 18:
+  move(loc_x2_y1,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x0_y1)
+ State 22:
+  move(loc_x0_y1,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y4)
+ State 25:
+  move(loc_x0_y4,loc_x0_y5)
+ State 26:
+  move(loc_x0_y5,loc_x1_y5)
+ State 27:
+  move(loc_x1_y5,loc_x1_y4)
+ State 28:
+  move(loc_x1_y4,loc_x2_y4)
+ State 29:
+  move(loc_x2_y4,loc_x2_y5)
+ State 30:
+  move(loc_x2_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 34
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x4_y4)
+ State 5:
+  move(loc_x4_y4,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x5_y4)
+ State 8:
+  move(loc_x5_y4,loc_x5_y3)
+ State 9:
+  move(loc_x5_y3,loc_x5_y2)
+ State 10:
+  move(loc_x5_y2,loc_x5_y1)
+ State 11:
+  move(loc_x5_y1,loc_x5_y0)
+ State 12:
+  move(loc_x5_y0,loc_x4_y0)
+ State 13:
+  move(loc_x4_y0,loc_x4_y1)
+ State 14:
+  move(loc_x4_y1,loc_x3_y1)
+ State 15:
+  move(loc_x3_y1,loc_x3_y0)
+ State 16:
+  move(loc_x3_y0,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x2_y1)
+ State 18:
+  move(loc_x2_y1,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x0_y1)
+ State 22:
+  move(loc_x0_y1,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x1_y3)
+ State 25:
+  move(loc_x1_y3,loc_x1_y4)
+ State 26:
+  move(loc_x1_y4,loc_x0_y4)
+ State 27:
+  move(loc_x0_y4,loc_x0_y5)
+ State 28:
+  move(loc_x0_y5,loc_x1_y5)
+ State 29:
+  move(loc_x1_y5,loc_x2_y5)
+ State 30:
+  move(loc_x2_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 35
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x3_y0)
+ State 4:
+  move(loc_x3_y0,loc_x2_y0)
+ State 5:
+  move(loc_x2_y0,loc_x2_y1)
+ State 6:
+  move(loc_x2_y1,loc_x1_y1)
+ State 7:
+  move(loc_x1_y1,loc_x1_y0)
+ State 8:
+  move(loc_x1_y0,loc_x0_y0)
+ State 9:
+  move(loc_x0_y0,loc_x0_y1)
+ State 10:
+  move(loc_x0_y1,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y3)
+ State 12:
+  move(loc_x0_y3,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x1_y4)
+ State 14:
+  move(loc_x1_y4,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y5)
+ State 16:
+  move(loc_x0_y5,loc_x1_y5)
+ State 17:
+  move(loc_x1_y5,loc_x2_y5)
+ State 18:
+  move(loc_x2_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x3_y4)
+ State 20:
+  move(loc_x3_y4,loc_x4_y4)
+ State 21:
+  move(loc_x4_y4,loc_x4_y5)
+ State 22:
+  move(loc_x4_y5,loc_x5_y5)
+ State 23:
+  move(loc_x5_y5,loc_x5_y4)
+ State 24:
+  move(loc_x5_y4,loc_x5_y3)
+ State 25:
+  move(loc_x5_y3,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y1)
+ State 27:
+  move(loc_x5_y1,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x4_y0)
+ State 29:
+  move(loc_x4_y0,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 36
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y1)
+ State 7:
+  move(loc_x5_y1,loc_x5_y0)
+ State 8:
+  move(loc_x5_y0,loc_x4_y0)
+ State 9:
+  move(loc_x4_y0,loc_x4_y1)
+ State 10:
+  move(loc_x4_y1,loc_x3_y1)
+ State 11:
+  move(loc_x3_y1,loc_x3_y0)
+ State 12:
+  move(loc_x3_y0,loc_x2_y0)
+ State 13:
+  move(loc_x2_y0,loc_x2_y1)
+ State 14:
+  move(loc_x2_y1,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x1_y0)
+ State 16:
+  move(loc_x1_y0,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y3)
+ State 20:
+  move(loc_x0_y3,loc_x0_y4)
+ State 21:
+  move(loc_x0_y4,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x1_y5)
+ State 23:
+  move(loc_x1_y5,loc_x1_y4)
+ State 24:
+  move(loc_x1_y4,loc_x2_y4)
+ State 25:
+  move(loc_x2_y4,loc_x2_y5)
+ State 26:
+  move(loc_x2_y5,loc_x3_y5)
+ State 27:
+  move(loc_x3_y5,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 37
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x5_y1)
+ State 5:
+  move(loc_x5_y1,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x4_y1)
+ State 8:
+  move(loc_x4_y1,loc_x4_y2)
+ State 9:
+  move(loc_x4_y2,loc_x3_y2)
+ State 10:
+  move(loc_x3_y2,loc_x3_y1)
+ State 11:
+  move(loc_x3_y1,loc_x3_y0)
+ State 12:
+  move(loc_x3_y0,loc_x2_y0)
+ State 13:
+  move(loc_x2_y0,loc_x2_y1)
+ State 14:
+  move(loc_x2_y1,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x1_y0)
+ State 16:
+  move(loc_x1_y0,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y3)
+ State 20:
+  move(loc_x0_y3,loc_x0_y4)
+ State 21:
+  move(loc_x0_y4,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x1_y5)
+ State 23:
+  move(loc_x1_y5,loc_x1_y4)
+ State 24:
+  move(loc_x1_y4,loc_x2_y4)
+ State 25:
+  move(loc_x2_y4,loc_x2_y5)
+ State 26:
+  move(loc_x2_y5,loc_x3_y5)
+ State 27:
+  move(loc_x3_y5,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 38
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y3)
+ State 6:
+  move(loc_x4_y3,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y2)
+ State 8:
+  move(loc_x5_y2,loc_x5_y1)
+ State 9:
+  move(loc_x5_y1,loc_x5_y0)
+ State 10:
+  move(loc_x5_y0,loc_x4_y0)
+ State 11:
+  move(loc_x4_y0,loc_x3_y0)
+ State 12:
+  move(loc_x3_y0,loc_x2_y0)
+ State 13:
+  move(loc_x2_y0,loc_x2_y1)
+ State 14:
+  move(loc_x2_y1,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x1_y0)
+ State 16:
+  move(loc_x1_y0,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y3)
+ State 20:
+  move(loc_x0_y3,loc_x0_y4)
+ State 21:
+  move(loc_x0_y4,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x1_y5)
+ State 23:
+  move(loc_x1_y5,loc_x1_y4)
+ State 24:
+  move(loc_x1_y4,loc_x2_y4)
+ State 25:
+  move(loc_x2_y4,loc_x2_y5)
+ State 26:
+  move(loc_x2_y5,loc_x3_y5)
+ State 27:
+  move(loc_x3_y5,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 39
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x3_y2)
+ State 6:
+  move(loc_x3_y2,loc_x3_y1)
+ State 7:
+  move(loc_x3_y1,loc_x4_y1)
+ State 8:
+  move(loc_x4_y1,loc_x5_y1)
+ State 9:
+  move(loc_x5_y1,loc_x5_y0)
+ State 10:
+  move(loc_x5_y0,loc_x4_y0)
+ State 11:
+  move(loc_x4_y0,loc_x3_y0)
+ State 12:
+  move(loc_x3_y0,loc_x2_y0)
+ State 13:
+  move(loc_x2_y0,loc_x2_y1)
+ State 14:
+  move(loc_x2_y1,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x1_y0)
+ State 16:
+  move(loc_x1_y0,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y3)
+ State 20:
+  move(loc_x0_y3,loc_x0_y4)
+ State 21:
+  move(loc_x0_y4,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x1_y5)
+ State 23:
+  move(loc_x1_y5,loc_x1_y4)
+ State 24:
+  move(loc_x1_y4,loc_x2_y4)
+ State 25:
+  move(loc_x2_y4,loc_x2_y5)
+ State 26:
+  move(loc_x2_y5,loc_x3_y5)
+ State 27:
+  move(loc_x3_y5,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 40
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y3)
+ State 6:
+  move(loc_x4_y3,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x5_y5)
+ State 9:
+  move(loc_x5_y5,loc_x5_y4)
+ State 10:
+  move(loc_x5_y4,loc_x5_y3)
+ State 11:
+  move(loc_x5_y3,loc_x5_y2)
+ State 12:
+  move(loc_x5_y2,loc_x5_y1)
+ State 13:
+  move(loc_x5_y1,loc_x5_y0)
+ State 14:
+  move(loc_x5_y0,loc_x4_y0)
+ State 15:
+  move(loc_x4_y0,loc_x3_y0)
+ State 16:
+  move(loc_x3_y0,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x2_y1)
+ State 18:
+  move(loc_x2_y1,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x0_y1)
+ State 22:
+  move(loc_x0_y1,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y4)
+ State 25:
+  move(loc_x0_y4,loc_x0_y5)
+ State 26:
+  move(loc_x0_y5,loc_x1_y5)
+ State 27:
+  move(loc_x1_y5,loc_x1_y4)
+ State 28:
+  move(loc_x1_y4,loc_x2_y4)
+ State 29:
+  move(loc_x2_y4,loc_x2_y5)
+ State 30:
+  move(loc_x2_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 41
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y3)
+ State 6:
+  move(loc_x4_y3,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x5_y5)
+ State 9:
+  move(loc_x5_y5,loc_x5_y4)
+ State 10:
+  move(loc_x5_y4,loc_x5_y3)
+ State 11:
+  move(loc_x5_y3,loc_x5_y2)
+ State 12:
+  move(loc_x5_y2,loc_x5_y1)
+ State 13:
+  move(loc_x5_y1,loc_x5_y0)
+ State 14:
+  move(loc_x5_y0,loc_x4_y0)
+ State 15:
+  move(loc_x4_y0,loc_x3_y0)
+ State 16:
+  move(loc_x3_y0,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x2_y1)
+ State 18:
+  move(loc_x2_y1,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x0_y1)
+ State 22:
+  move(loc_x0_y1,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x1_y3)
+ State 25:
+  move(loc_x1_y3,loc_x1_y4)
+ State 26:
+  move(loc_x1_y4,loc_x0_y4)
+ State 27:
+  move(loc_x0_y4,loc_x0_y5)
+ State 28:
+  move(loc_x0_y5,loc_x1_y5)
+ State 29:
+  move(loc_x1_y5,loc_x2_y5)
+ State 30:
+  move(loc_x2_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 42
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y5)
+ State 4:
+  move(loc_x4_y5,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y2)
+ State 8:
+  move(loc_x5_y2,loc_x5_y1)
+ State 9:
+  move(loc_x5_y1,loc_x5_y0)
+ State 10:
+  move(loc_x5_y0,loc_x4_y0)
+ State 11:
+  move(loc_x4_y0,loc_x4_y1)
+ State 12:
+  move(loc_x4_y1,loc_x4_y2)
+ State 13:
+  move(loc_x4_y2,loc_x3_y2)
+ State 14:
+  move(loc_x3_y2,loc_x3_y1)
+ State 15:
+  move(loc_x3_y1,loc_x3_y0)
+ State 16:
+  move(loc_x3_y0,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x2_y1)
+ State 18:
+  move(loc_x2_y1,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x0_y1)
+ State 22:
+  move(loc_x0_y1,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x1_y3)
+ State 25:
+  move(loc_x1_y3,loc_x1_y4)
+ State 26:
+  move(loc_x1_y4,loc_x0_y4)
+ State 27:
+  move(loc_x0_y4,loc_x0_y5)
+ State 28:
+  move(loc_x0_y5,loc_x1_y5)
+ State 29:
+  move(loc_x1_y5,loc_x2_y5)
+ State 30:
+  move(loc_x2_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 43
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y5)
+ State 4:
+  move(loc_x4_y5,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y2)
+ State 8:
+  move(loc_x5_y2,loc_x5_y1)
+ State 9:
+  move(loc_x5_y1,loc_x5_y0)
+ State 10:
+  move(loc_x5_y0,loc_x4_y0)
+ State 11:
+  move(loc_x4_y0,loc_x4_y1)
+ State 12:
+  move(loc_x4_y1,loc_x4_y2)
+ State 13:
+  move(loc_x4_y2,loc_x3_y2)
+ State 14:
+  move(loc_x3_y2,loc_x3_y1)
+ State 15:
+  move(loc_x3_y1,loc_x3_y0)
+ State 16:
+  move(loc_x3_y0,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x2_y1)
+ State 18:
+  move(loc_x2_y1,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x0_y1)
+ State 22:
+  move(loc_x0_y1,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y4)
+ State 25:
+  move(loc_x0_y4,loc_x0_y5)
+ State 26:
+  move(loc_x0_y5,loc_x1_y5)
+ State 27:
+  move(loc_x1_y5,loc_x1_y4)
+ State 28:
+  move(loc_x1_y4,loc_x2_y4)
+ State 29:
+  move(loc_x2_y4,loc_x2_y5)
+ State 30:
+  move(loc_x2_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 44
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y5)
+ State 4:
+  move(loc_x4_y5,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y2)
+ State 8:
+  move(loc_x5_y2,loc_x4_y2)
+ State 9:
+  move(loc_x4_y2,loc_x3_y2)
+ State 10:
+  move(loc_x3_y2,loc_x3_y1)
+ State 11:
+  move(loc_x3_y1,loc_x4_y1)
+ State 12:
+  move(loc_x4_y1,loc_x5_y1)
+ State 13:
+  move(loc_x5_y1,loc_x5_y0)
+ State 14:
+  move(loc_x5_y0,loc_x4_y0)
+ State 15:
+  move(loc_x4_y0,loc_x3_y0)
+ State 16:
+  move(loc_x3_y0,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x2_y1)
+ State 18:
+  move(loc_x2_y1,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x0_y1)
+ State 22:
+  move(loc_x0_y1,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x1_y3)
+ State 25:
+  move(loc_x1_y3,loc_x1_y4)
+ State 26:
+  move(loc_x1_y4,loc_x0_y4)
+ State 27:
+  move(loc_x0_y4,loc_x0_y5)
+ State 28:
+  move(loc_x0_y5,loc_x1_y5)
+ State 29:
+  move(loc_x1_y5,loc_x2_y5)
+ State 30:
+  move(loc_x2_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 45
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y5)
+ State 4:
+  move(loc_x4_y5,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y2)
+ State 8:
+  move(loc_x5_y2,loc_x4_y2)
+ State 9:
+  move(loc_x4_y2,loc_x3_y2)
+ State 10:
+  move(loc_x3_y2,loc_x3_y1)
+ State 11:
+  move(loc_x3_y1,loc_x4_y1)
+ State 12:
+  move(loc_x4_y1,loc_x5_y1)
+ State 13:
+  move(loc_x5_y1,loc_x5_y0)
+ State 14:
+  move(loc_x5_y0,loc_x4_y0)
+ State 15:
+  move(loc_x4_y0,loc_x3_y0)
+ State 16:
+  move(loc_x3_y0,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x2_y1)
+ State 18:
+  move(loc_x2_y1,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x0_y1)
+ State 22:
+  move(loc_x0_y1,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y4)
+ State 25:
+  move(loc_x0_y4,loc_x0_y5)
+ State 26:
+  move(loc_x0_y5,loc_x1_y5)
+ State 27:
+  move(loc_x1_y5,loc_x1_y4)
+ State 28:
+  move(loc_x1_y4,loc_x2_y4)
+ State 29:
+  move(loc_x2_y4,loc_x2_y5)
+ State 30:
+  move(loc_x2_y5,loc_x3_y5)
+ State 31:
+  move(loc_x3_y5,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 46
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x5_y1)
+ State 5:
+  move(loc_x5_y1,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x4_y1)
+ State 8:
+  move(loc_x4_y1,loc_x3_y1)
+ State 9:
+  move(loc_x3_y1,loc_x3_y0)
+ State 10:
+  move(loc_x3_y0,loc_x2_y0)
+ State 11:
+  move(loc_x2_y0,loc_x2_y1)
+ State 12:
+  move(loc_x2_y1,loc_x1_y1)
+ State 13:
+  move(loc_x1_y1,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x0_y0)
+ State 15:
+  move(loc_x0_y0,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x1_y3)
+ State 19:
+  move(loc_x1_y3,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x0_y4)
+ State 21:
+  move(loc_x0_y4,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x1_y5)
+ State 23:
+  move(loc_x1_y5,loc_x2_y5)
+ State 24:
+  move(loc_x2_y5,loc_x3_y5)
+ State 25:
+  move(loc_x3_y5,loc_x4_y5)
+ State 26:
+  move(loc_x4_y5,loc_x5_y5)
+ State 27:
+  move(loc_x5_y5,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y3)
+ State 29:
+  move(loc_x5_y3,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 47
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x5_y1)
+ State 5:
+  move(loc_x5_y1,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x4_y1)
+ State 8:
+  move(loc_x4_y1,loc_x3_y1)
+ State 9:
+  move(loc_x3_y1,loc_x3_y0)
+ State 10:
+  move(loc_x3_y0,loc_x2_y0)
+ State 11:
+  move(loc_x2_y0,loc_x2_y1)
+ State 12:
+  move(loc_x2_y1,loc_x1_y1)
+ State 13:
+  move(loc_x1_y1,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x0_y0)
+ State 15:
+  move(loc_x0_y0,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x1_y3)
+ State 19:
+  move(loc_x1_y3,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x0_y4)
+ State 21:
+  move(loc_x0_y4,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x1_y5)
+ State 23:
+  move(loc_x1_y5,loc_x2_y5)
+ State 24:
+  move(loc_x2_y5,loc_x3_y5)
+ State 25:
+  move(loc_x3_y5,loc_x3_y4)
+ State 26:
+  move(loc_x3_y4,loc_x4_y4)
+ State 27:
+  move(loc_x4_y4,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x5_y3)
+ State 31:
+  move(loc_x5_y3,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 48
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y1)
+ State 7:
+  move(loc_x5_y1,loc_x5_y0)
+ State 8:
+  move(loc_x5_y0,loc_x4_y0)
+ State 9:
+  move(loc_x4_y0,loc_x3_y0)
+ State 10:
+  move(loc_x3_y0,loc_x2_y0)
+ State 11:
+  move(loc_x2_y0,loc_x2_y1)
+ State 12:
+  move(loc_x2_y1,loc_x1_y1)
+ State 13:
+  move(loc_x1_y1,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x0_y0)
+ State 15:
+  move(loc_x0_y0,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x1_y3)
+ State 19:
+  move(loc_x1_y3,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x0_y4)
+ State 21:
+  move(loc_x0_y4,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x1_y5)
+ State 23:
+  move(loc_x1_y5,loc_x2_y5)
+ State 24:
+  move(loc_x2_y5,loc_x3_y5)
+ State 25:
+  move(loc_x3_y5,loc_x3_y4)
+ State 26:
+  move(loc_x3_y4,loc_x4_y4)
+ State 27:
+  move(loc_x4_y4,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x5_y3)
+ State 31:
+  move(loc_x5_y3,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 49
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y1)
+ State 7:
+  move(loc_x5_y1,loc_x5_y0)
+ State 8:
+  move(loc_x5_y0,loc_x4_y0)
+ State 9:
+  move(loc_x4_y0,loc_x3_y0)
+ State 10:
+  move(loc_x3_y0,loc_x2_y0)
+ State 11:
+  move(loc_x2_y0,loc_x2_y1)
+ State 12:
+  move(loc_x2_y1,loc_x1_y1)
+ State 13:
+  move(loc_x1_y1,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x0_y0)
+ State 15:
+  move(loc_x0_y0,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x1_y3)
+ State 19:
+  move(loc_x1_y3,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x0_y4)
+ State 21:
+  move(loc_x0_y4,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x1_y5)
+ State 23:
+  move(loc_x1_y5,loc_x2_y5)
+ State 24:
+  move(loc_x2_y5,loc_x3_y5)
+ State 25:
+  move(loc_x3_y5,loc_x4_y5)
+ State 26:
+  move(loc_x4_y5,loc_x5_y5)
+ State 27:
+  move(loc_x5_y5,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y3)
+ State 29:
+  move(loc_x5_y3,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 50
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x5_y1)
+ State 5:
+  move(loc_x5_y1,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x4_y1)
+ State 8:
+  move(loc_x4_y1,loc_x4_y2)
+ State 9:
+  move(loc_x4_y2,loc_x3_y2)
+ State 10:
+  move(loc_x3_y2,loc_x3_y1)
+ State 11:
+  move(loc_x3_y1,loc_x3_y0)
+ State 12:
+  move(loc_x3_y0,loc_x2_y0)
+ State 13:
+  move(loc_x2_y0,loc_x2_y1)
+ State 14:
+  move(loc_x2_y1,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x1_y0)
+ State 16:
+  move(loc_x1_y0,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y3)
+ State 20:
+  move(loc_x0_y3,loc_x1_y3)
+ State 21:
+  move(loc_x1_y3,loc_x1_y4)
+ State 22:
+  move(loc_x1_y4,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y5)
+ State 24:
+  move(loc_x0_y5,loc_x1_y5)
+ State 25:
+  move(loc_x1_y5,loc_x2_y5)
+ State 26:
+  move(loc_x2_y5,loc_x3_y5)
+ State 27:
+  move(loc_x3_y5,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 51
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y3)
+ State 6:
+  move(loc_x4_y3,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y2)
+ State 8:
+  move(loc_x5_y2,loc_x5_y1)
+ State 9:
+  move(loc_x5_y1,loc_x5_y0)
+ State 10:
+  move(loc_x5_y0,loc_x4_y0)
+ State 11:
+  move(loc_x4_y0,loc_x3_y0)
+ State 12:
+  move(loc_x3_y0,loc_x2_y0)
+ State 13:
+  move(loc_x2_y0,loc_x2_y1)
+ State 14:
+  move(loc_x2_y1,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x1_y0)
+ State 16:
+  move(loc_x1_y0,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y3)
+ State 20:
+  move(loc_x0_y3,loc_x1_y3)
+ State 21:
+  move(loc_x1_y3,loc_x1_y4)
+ State 22:
+  move(loc_x1_y4,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y5)
+ State 24:
+  move(loc_x0_y5,loc_x1_y5)
+ State 25:
+  move(loc_x1_y5,loc_x2_y5)
+ State 26:
+  move(loc_x2_y5,loc_x3_y5)
+ State 27:
+  move(loc_x3_y5,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 52
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y1)
+ State 7:
+  move(loc_x5_y1,loc_x5_y0)
+ State 8:
+  move(loc_x5_y0,loc_x4_y0)
+ State 9:
+  move(loc_x4_y0,loc_x4_y1)
+ State 10:
+  move(loc_x4_y1,loc_x3_y1)
+ State 11:
+  move(loc_x3_y1,loc_x3_y0)
+ State 12:
+  move(loc_x3_y0,loc_x2_y0)
+ State 13:
+  move(loc_x2_y0,loc_x2_y1)
+ State 14:
+  move(loc_x2_y1,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x1_y0)
+ State 16:
+  move(loc_x1_y0,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y3)
+ State 20:
+  move(loc_x0_y3,loc_x1_y3)
+ State 21:
+  move(loc_x1_y3,loc_x1_y4)
+ State 22:
+  move(loc_x1_y4,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y5)
+ State 24:
+  move(loc_x0_y5,loc_x1_y5)
+ State 25:
+  move(loc_x1_y5,loc_x2_y5)
+ State 26:
+  move(loc_x2_y5,loc_x3_y5)
+ State 27:
+  move(loc_x3_y5,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 53
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x3_y2)
+ State 6:
+  move(loc_x3_y2,loc_x3_y1)
+ State 7:
+  move(loc_x3_y1,loc_x4_y1)
+ State 8:
+  move(loc_x4_y1,loc_x5_y1)
+ State 9:
+  move(loc_x5_y1,loc_x5_y0)
+ State 10:
+  move(loc_x5_y0,loc_x4_y0)
+ State 11:
+  move(loc_x4_y0,loc_x3_y0)
+ State 12:
+  move(loc_x3_y0,loc_x2_y0)
+ State 13:
+  move(loc_x2_y0,loc_x2_y1)
+ State 14:
+  move(loc_x2_y1,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x1_y0)
+ State 16:
+  move(loc_x1_y0,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y3)
+ State 20:
+  move(loc_x0_y3,loc_x1_y3)
+ State 21:
+  move(loc_x1_y3,loc_x1_y4)
+ State 22:
+  move(loc_x1_y4,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y5)
+ State 24:
+  move(loc_x0_y5,loc_x1_y5)
+ State 25:
+  move(loc_x1_y5,loc_x2_y5)
+ State 26:
+  move(loc_x2_y5,loc_x3_y5)
+ State 27:
+  move(loc_x3_y5,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 54
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y0)
+ State 5:
+  move(loc_x4_y0,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x5_y1)
+ State 7:
+  move(loc_x5_y1,loc_x5_y2)
+ State 8:
+  move(loc_x5_y2,loc_x5_y3)
+ State 9:
+  move(loc_x5_y3,loc_x5_y4)
+ State 10:
+  move(loc_x5_y4,loc_x5_y5)
+ State 11:
+  move(loc_x5_y5,loc_x4_y5)
+ State 12:
+  move(loc_x4_y5,loc_x4_y4)
+ State 13:
+  move(loc_x4_y4,loc_x3_y4)
+ State 14:
+  move(loc_x3_y4,loc_x3_y5)
+ State 15:
+  move(loc_x3_y5,loc_x2_y5)
+ State 16:
+  move(loc_x2_y5,loc_x2_y4)
+ State 17:
+  move(loc_x2_y4,loc_x1_y4)
+ State 18:
+  move(loc_x1_y4,loc_x1_y5)
+ State 19:
+  move(loc_x1_y5,loc_x0_y5)
+ State 20:
+  move(loc_x0_y5,loc_x0_y4)
+ State 21:
+  move(loc_x0_y4,loc_x0_y3)
+ State 22:
+  move(loc_x0_y3,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y1)
+ State 24:
+  move(loc_x0_y1,loc_x0_y0)
+ State 25:
+  move(loc_x0_y0,loc_x1_y0)
+ State 26:
+  move(loc_x1_y0,loc_x1_y1)
+ State 27:
+  move(loc_x1_y1,loc_x2_y1)
+ State 28:
+  move(loc_x2_y1,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x3_y0)
+ State 30:
+  move(loc_x3_y0,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 55
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y1)
+ State 6:
+  move(loc_x4_y1,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x5_y0)
+ State 8:
+  move(loc_x5_y0,loc_x5_y1)
+ State 9:
+  move(loc_x5_y1,loc_x5_y2)
+ State 10:
+  move(loc_x5_y2,loc_x5_y3)
+ State 11:
+  move(loc_x5_y3,loc_x5_y4)
+ State 12:
+  move(loc_x5_y4,loc_x5_y5)
+ State 13:
+  move(loc_x5_y5,loc_x4_y5)
+ State 14:
+  move(loc_x4_y5,loc_x3_y5)
+ State 15:
+  move(loc_x3_y5,loc_x2_y5)
+ State 16:
+  move(loc_x2_y5,loc_x2_y4)
+ State 17:
+  move(loc_x2_y4,loc_x1_y4)
+ State 18:
+  move(loc_x1_y4,loc_x1_y5)
+ State 19:
+  move(loc_x1_y5,loc_x0_y5)
+ State 20:
+  move(loc_x0_y5,loc_x0_y4)
+ State 21:
+  move(loc_x0_y4,loc_x0_y3)
+ State 22:
+  move(loc_x0_y3,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y1)
+ State 24:
+  move(loc_x0_y1,loc_x0_y0)
+ State 25:
+  move(loc_x0_y0,loc_x1_y0)
+ State 26:
+  move(loc_x1_y0,loc_x1_y1)
+ State 27:
+  move(loc_x1_y1,loc_x2_y1)
+ State 28:
+  move(loc_x2_y1,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x3_y0)
+ State 30:
+  move(loc_x3_y0,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 56
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x3_y5)
+ State 7:
+  move(loc_x3_y5,loc_x2_y5)
+ State 8:
+  move(loc_x2_y5,loc_x1_y5)
+ State 9:
+  move(loc_x1_y5,loc_x0_y5)
+ State 10:
+  move(loc_x0_y5,loc_x0_y4)
+ State 11:
+  move(loc_x0_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x4_y3)
+ State 28:
+  move(loc_x4_y3,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 57
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x3_y5)
+ State 7:
+  move(loc_x3_y5,loc_x2_y5)
+ State 8:
+  move(loc_x2_y5,loc_x1_y5)
+ State 9:
+  move(loc_x1_y5,loc_x0_y5)
+ State 10:
+  move(loc_x0_y5,loc_x0_y4)
+ State 11:
+  move(loc_x0_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x4_y1)
+ State 26:
+  move(loc_x4_y1,loc_x3_y1)
+ State 27:
+  move(loc_x3_y1,loc_x3_y2)
+ State 28:
+  move(loc_x3_y2,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x5_y2)
+ State 30:
+  move(loc_x5_y2,loc_x5_y3)
+ State 31:
+  move(loc_x5_y3,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 58
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x3_y5)
+ State 7:
+  move(loc_x3_y5,loc_x2_y5)
+ State 8:
+  move(loc_x2_y5,loc_x1_y5)
+ State 9:
+  move(loc_x1_y5,loc_x0_y5)
+ State 10:
+  move(loc_x0_y5,loc_x0_y4)
+ State 11:
+  move(loc_x0_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x3_y1)
+ State 23:
+  move(loc_x3_y1,loc_x3_y2)
+ State 24:
+  move(loc_x3_y2,loc_x4_y2)
+ State 25:
+  move(loc_x4_y2,loc_x4_y1)
+ State 26:
+  move(loc_x4_y1,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x5_y2)
+ State 30:
+  move(loc_x5_y2,loc_x5_y3)
+ State 31:
+  move(loc_x5_y3,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 59
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x3_y5)
+ State 7:
+  move(loc_x3_y5,loc_x2_y5)
+ State 8:
+  move(loc_x2_y5,loc_x1_y5)
+ State 9:
+  move(loc_x1_y5,loc_x0_y5)
+ State 10:
+  move(loc_x0_y5,loc_x0_y4)
+ State 11:
+  move(loc_x0_y4,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x3_y1)
+ State 23:
+  move(loc_x3_y1,loc_x4_y1)
+ State 24:
+  move(loc_x4_y1,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x5_y1)
+ State 27:
+  move(loc_x5_y1,loc_x5_y2)
+ State 28:
+  move(loc_x5_y2,loc_x5_y3)
+ State 29:
+  move(loc_x5_y3,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 60
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x5_y1)
+ State 5:
+  move(loc_x5_y1,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x4_y1)
+ State 8:
+  move(loc_x4_y1,loc_x3_y1)
+ State 9:
+  move(loc_x3_y1,loc_x3_y0)
+ State 10:
+  move(loc_x3_y0,loc_x2_y0)
+ State 11:
+  move(loc_x2_y0,loc_x2_y1)
+ State 12:
+  move(loc_x2_y1,loc_x1_y1)
+ State 13:
+  move(loc_x1_y1,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x0_y0)
+ State 15:
+  move(loc_x0_y0,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x0_y4)
+ State 19:
+  move(loc_x0_y4,loc_x0_y5)
+ State 20:
+  move(loc_x0_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x1_y4)
+ State 22:
+  move(loc_x1_y4,loc_x2_y4)
+ State 23:
+  move(loc_x2_y4,loc_x2_y5)
+ State 24:
+  move(loc_x2_y5,loc_x3_y5)
+ State 25:
+  move(loc_x3_y5,loc_x3_y4)
+ State 26:
+  move(loc_x3_y4,loc_x4_y4)
+ State 27:
+  move(loc_x4_y4,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x5_y3)
+ State 31:
+  move(loc_x5_y3,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 61
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y1)
+ State 7:
+  move(loc_x5_y1,loc_x5_y0)
+ State 8:
+  move(loc_x5_y0,loc_x4_y0)
+ State 9:
+  move(loc_x4_y0,loc_x3_y0)
+ State 10:
+  move(loc_x3_y0,loc_x2_y0)
+ State 11:
+  move(loc_x2_y0,loc_x2_y1)
+ State 12:
+  move(loc_x2_y1,loc_x1_y1)
+ State 13:
+  move(loc_x1_y1,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x0_y0)
+ State 15:
+  move(loc_x0_y0,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x0_y4)
+ State 19:
+  move(loc_x0_y4,loc_x0_y5)
+ State 20:
+  move(loc_x0_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x1_y4)
+ State 22:
+  move(loc_x1_y4,loc_x2_y4)
+ State 23:
+  move(loc_x2_y4,loc_x2_y5)
+ State 24:
+  move(loc_x2_y5,loc_x3_y5)
+ State 25:
+  move(loc_x3_y5,loc_x3_y4)
+ State 26:
+  move(loc_x3_y4,loc_x4_y4)
+ State 27:
+  move(loc_x4_y4,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x5_y5)
+ State 29:
+  move(loc_x5_y5,loc_x5_y4)
+ State 30:
+  move(loc_x5_y4,loc_x5_y3)
+ State 31:
+  move(loc_x5_y3,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 62
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x5_y1)
+ State 5:
+  move(loc_x5_y1,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x4_y1)
+ State 8:
+  move(loc_x4_y1,loc_x3_y1)
+ State 9:
+  move(loc_x3_y1,loc_x3_y0)
+ State 10:
+  move(loc_x3_y0,loc_x2_y0)
+ State 11:
+  move(loc_x2_y0,loc_x2_y1)
+ State 12:
+  move(loc_x2_y1,loc_x1_y1)
+ State 13:
+  move(loc_x1_y1,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x0_y0)
+ State 15:
+  move(loc_x0_y0,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x0_y4)
+ State 19:
+  move(loc_x0_y4,loc_x0_y5)
+ State 20:
+  move(loc_x0_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x1_y4)
+ State 22:
+  move(loc_x1_y4,loc_x2_y4)
+ State 23:
+  move(loc_x2_y4,loc_x2_y5)
+ State 24:
+  move(loc_x2_y5,loc_x3_y5)
+ State 25:
+  move(loc_x3_y5,loc_x4_y5)
+ State 26:
+  move(loc_x4_y5,loc_x5_y5)
+ State 27:
+  move(loc_x5_y5,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y3)
+ State 29:
+  move(loc_x5_y3,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 63
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y1)
+ State 7:
+  move(loc_x5_y1,loc_x5_y0)
+ State 8:
+  move(loc_x5_y0,loc_x4_y0)
+ State 9:
+  move(loc_x4_y0,loc_x3_y0)
+ State 10:
+  move(loc_x3_y0,loc_x2_y0)
+ State 11:
+  move(loc_x2_y0,loc_x2_y1)
+ State 12:
+  move(loc_x2_y1,loc_x1_y1)
+ State 13:
+  move(loc_x1_y1,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x0_y0)
+ State 15:
+  move(loc_x0_y0,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x0_y4)
+ State 19:
+  move(loc_x0_y4,loc_x0_y5)
+ State 20:
+  move(loc_x0_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x1_y4)
+ State 22:
+  move(loc_x1_y4,loc_x2_y4)
+ State 23:
+  move(loc_x2_y4,loc_x2_y5)
+ State 24:
+  move(loc_x2_y5,loc_x3_y5)
+ State 25:
+  move(loc_x3_y5,loc_x4_y5)
+ State 26:
+  move(loc_x4_y5,loc_x5_y5)
+ State 27:
+  move(loc_x5_y5,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y3)
+ State 29:
+  move(loc_x5_y3,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 64
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x5_y1)
+ State 5:
+  move(loc_x5_y1,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x3_y0)
+ State 8:
+  move(loc_x3_y0,loc_x2_y0)
+ State 9:
+  move(loc_x2_y0,loc_x2_y1)
+ State 10:
+  move(loc_x2_y1,loc_x1_y1)
+ State 11:
+  move(loc_x1_y1,loc_x1_y0)
+ State 12:
+  move(loc_x1_y0,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x0_y1)
+ State 14:
+  move(loc_x0_y1,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x1_y4)
+ State 18:
+  move(loc_x1_y4,loc_x0_y4)
+ State 19:
+  move(loc_x0_y4,loc_x0_y5)
+ State 20:
+  move(loc_x0_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x2_y5)
+ State 22:
+  move(loc_x2_y5,loc_x3_y5)
+ State 23:
+  move(loc_x3_y5,loc_x3_y4)
+ State 24:
+  move(loc_x3_y4,loc_x4_y4)
+ State 25:
+  move(loc_x4_y4,loc_x4_y5)
+ State 26:
+  move(loc_x4_y5,loc_x5_y5)
+ State 27:
+  move(loc_x5_y5,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y3)
+ State 29:
+  move(loc_x5_y3,loc_x5_y2)
+ State 30:
+  move(loc_x5_y2,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 65
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x5_y1)
+ State 5:
+  move(loc_x5_y1,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x3_y0)
+ State 8:
+  move(loc_x3_y0,loc_x2_y0)
+ State 9:
+  move(loc_x2_y0,loc_x2_y1)
+ State 10:
+  move(loc_x2_y1,loc_x1_y1)
+ State 11:
+  move(loc_x1_y1,loc_x1_y0)
+ State 12:
+  move(loc_x1_y0,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x0_y1)
+ State 14:
+  move(loc_x0_y1,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x1_y4)
+ State 18:
+  move(loc_x1_y4,loc_x0_y4)
+ State 19:
+  move(loc_x0_y4,loc_x0_y5)
+ State 20:
+  move(loc_x0_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x2_y5)
+ State 22:
+  move(loc_x2_y5,loc_x3_y5)
+ State 23:
+  move(loc_x3_y5,loc_x4_y5)
+ State 24:
+  move(loc_x4_y5,loc_x5_y5)
+ State 25:
+  move(loc_x5_y5,loc_x5_y4)
+ State 26:
+  move(loc_x5_y4,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x5_y2)
+ State 28:
+  move(loc_x5_y2,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 66
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x3_y5)
+ State 7:
+  move(loc_x3_y5,loc_x2_y5)
+ State 8:
+  move(loc_x2_y5,loc_x2_y4)
+ State 9:
+  move(loc_x2_y4,loc_x1_y4)
+ State 10:
+  move(loc_x1_y4,loc_x1_y5)
+ State 11:
+  move(loc_x1_y5,loc_x0_y5)
+ State 12:
+  move(loc_x0_y5,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y2)
+ State 26:
+  move(loc_x5_y2,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x4_y3)
+ State 28:
+  move(loc_x4_y3,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 67
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x3_y5)
+ State 7:
+  move(loc_x3_y5,loc_x2_y5)
+ State 8:
+  move(loc_x2_y5,loc_x2_y4)
+ State 9:
+  move(loc_x2_y4,loc_x1_y4)
+ State 10:
+  move(loc_x1_y4,loc_x1_y5)
+ State 11:
+  move(loc_x1_y5,loc_x0_y5)
+ State 12:
+  move(loc_x0_y5,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x4_y0)
+ State 23:
+  move(loc_x4_y0,loc_x5_y0)
+ State 24:
+  move(loc_x5_y0,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x4_y1)
+ State 26:
+  move(loc_x4_y1,loc_x3_y1)
+ State 27:
+  move(loc_x3_y1,loc_x3_y2)
+ State 28:
+  move(loc_x3_y2,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x5_y2)
+ State 30:
+  move(loc_x5_y2,loc_x5_y3)
+ State 31:
+  move(loc_x5_y3,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 68
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x3_y5)
+ State 3:
+  move(loc_x3_y5,loc_x2_y5)
+ State 4:
+  move(loc_x2_y5,loc_x1_y5)
+ State 5:
+  move(loc_x1_y5,loc_x0_y5)
+ State 6:
+  move(loc_x0_y5,loc_x0_y4)
+ State 7:
+  move(loc_x0_y4,loc_x1_y4)
+ State 8:
+  move(loc_x1_y4,loc_x1_y3)
+ State 9:
+  move(loc_x1_y3,loc_x0_y3)
+ State 10:
+  move(loc_x0_y3,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y1)
+ State 12:
+  move(loc_x0_y1,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x2_y1)
+ State 16:
+  move(loc_x2_y1,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x3_y0)
+ State 18:
+  move(loc_x3_y0,loc_x3_y1)
+ State 19:
+  move(loc_x3_y1,loc_x4_y1)
+ State 20:
+  move(loc_x4_y1,loc_x4_y0)
+ State 21:
+  move(loc_x4_y0,loc_x5_y0)
+ State 22:
+  move(loc_x5_y0,loc_x5_y1)
+ State 23:
+  move(loc_x5_y1,loc_x5_y2)
+ State 24:
+  move(loc_x5_y2,loc_x5_y3)
+ State 25:
+  move(loc_x5_y3,loc_x5_y4)
+ State 26:
+  move(loc_x5_y4,loc_x5_y5)
+ State 27:
+  move(loc_x5_y5,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x4_y4)
+ State 29:
+  move(loc_x4_y4,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 69
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x3_y5)
+ State 3:
+  move(loc_x3_y5,loc_x2_y5)
+ State 4:
+  move(loc_x2_y5,loc_x2_y4)
+ State 5:
+  move(loc_x2_y4,loc_x1_y4)
+ State 6:
+  move(loc_x1_y4,loc_x1_y5)
+ State 7:
+  move(loc_x1_y5,loc_x0_y5)
+ State 8:
+  move(loc_x0_y5,loc_x0_y4)
+ State 9:
+  move(loc_x0_y4,loc_x0_y3)
+ State 10:
+  move(loc_x0_y3,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y1)
+ State 12:
+  move(loc_x0_y1,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x2_y1)
+ State 16:
+  move(loc_x2_y1,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x3_y0)
+ State 18:
+  move(loc_x3_y0,loc_x3_y1)
+ State 19:
+  move(loc_x3_y1,loc_x4_y1)
+ State 20:
+  move(loc_x4_y1,loc_x4_y0)
+ State 21:
+  move(loc_x4_y0,loc_x5_y0)
+ State 22:
+  move(loc_x5_y0,loc_x5_y1)
+ State 23:
+  move(loc_x5_y1,loc_x5_y2)
+ State 24:
+  move(loc_x5_y2,loc_x5_y3)
+ State 25:
+  move(loc_x5_y3,loc_x5_y4)
+ State 26:
+  move(loc_x5_y4,loc_x5_y5)
+ State 27:
+  move(loc_x5_y5,loc_x4_y5)
+ State 28:
+  move(loc_x4_y5,loc_x4_y4)
+ State 29:
+  move(loc_x4_y4,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 70
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x3_y5)
+ State 3:
+  move(loc_x3_y5,loc_x2_y5)
+ State 4:
+  move(loc_x2_y5,loc_x2_y4)
+ State 5:
+  move(loc_x2_y4,loc_x1_y4)
+ State 6:
+  move(loc_x1_y4,loc_x1_y5)
+ State 7:
+  move(loc_x1_y5,loc_x0_y5)
+ State 8:
+  move(loc_x0_y5,loc_x0_y4)
+ State 9:
+  move(loc_x0_y4,loc_x0_y3)
+ State 10:
+  move(loc_x0_y3,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y1)
+ State 12:
+  move(loc_x0_y1,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x2_y1)
+ State 16:
+  move(loc_x2_y1,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x3_y0)
+ State 18:
+  move(loc_x3_y0,loc_x4_y0)
+ State 19:
+  move(loc_x4_y0,loc_x5_y0)
+ State 20:
+  move(loc_x5_y0,loc_x5_y1)
+ State 21:
+  move(loc_x5_y1,loc_x5_y2)
+ State 22:
+  move(loc_x5_y2,loc_x5_y3)
+ State 23:
+  move(loc_x5_y3,loc_x5_y4)
+ State 24:
+  move(loc_x5_y4,loc_x5_y5)
+ State 25:
+  move(loc_x5_y5,loc_x4_y5)
+ State 26:
+  move(loc_x4_y5,loc_x4_y4)
+ State 27:
+  move(loc_x4_y4,loc_x4_y3)
+ State 28:
+  move(loc_x4_y3,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 71
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x3_y5)
+ State 3:
+  move(loc_x3_y5,loc_x2_y5)
+ State 4:
+  move(loc_x2_y5,loc_x1_y5)
+ State 5:
+  move(loc_x1_y5,loc_x0_y5)
+ State 6:
+  move(loc_x0_y5,loc_x0_y4)
+ State 7:
+  move(loc_x0_y4,loc_x1_y4)
+ State 8:
+  move(loc_x1_y4,loc_x1_y3)
+ State 9:
+  move(loc_x1_y3,loc_x0_y3)
+ State 10:
+  move(loc_x0_y3,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y1)
+ State 12:
+  move(loc_x0_y1,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x1_y0)
+ State 14:
+  move(loc_x1_y0,loc_x1_y1)
+ State 15:
+  move(loc_x1_y1,loc_x2_y1)
+ State 16:
+  move(loc_x2_y1,loc_x2_y0)
+ State 17:
+  move(loc_x2_y0,loc_x3_y0)
+ State 18:
+  move(loc_x3_y0,loc_x4_y0)
+ State 19:
+  move(loc_x4_y0,loc_x5_y0)
+ State 20:
+  move(loc_x5_y0,loc_x5_y1)
+ State 21:
+  move(loc_x5_y1,loc_x5_y2)
+ State 22:
+  move(loc_x5_y2,loc_x5_y3)
+ State 23:
+  move(loc_x5_y3,loc_x5_y4)
+ State 24:
+  move(loc_x5_y4,loc_x5_y5)
+ State 25:
+  move(loc_x5_y5,loc_x4_y5)
+ State 26:
+  move(loc_x4_y5,loc_x4_y4)
+ State 27:
+  move(loc_x4_y4,loc_x4_y3)
+ State 28:
+  move(loc_x4_y3,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 72
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x5_y1)
+ State 5:
+  move(loc_x5_y1,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x3_y0)
+ State 8:
+  move(loc_x3_y0,loc_x2_y0)
+ State 9:
+  move(loc_x2_y0,loc_x2_y1)
+ State 10:
+  move(loc_x2_y1,loc_x1_y1)
+ State 11:
+  move(loc_x1_y1,loc_x1_y0)
+ State 12:
+  move(loc_x1_y0,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x0_y1)
+ State 14:
+  move(loc_x0_y1,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x0_y4)
+ State 17:
+  move(loc_x0_y4,loc_x0_y5)
+ State 18:
+  move(loc_x0_y5,loc_x1_y5)
+ State 19:
+  move(loc_x1_y5,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x2_y4)
+ State 21:
+  move(loc_x2_y4,loc_x2_y5)
+ State 22:
+  move(loc_x2_y5,loc_x3_y5)
+ State 23:
+  move(loc_x3_y5,loc_x3_y4)
+ State 24:
+  move(loc_x3_y4,loc_x4_y4)
+ State 25:
+  move(loc_x4_y4,loc_x4_y5)
+ State 26:
+  move(loc_x4_y5,loc_x5_y5)
+ State 27:
+  move(loc_x5_y5,loc_x5_y4)
+ State 28:
+  move(loc_x5_y4,loc_x5_y3)
+ State 29:
+  move(loc_x5_y3,loc_x5_y2)
+ State 30:
+  move(loc_x5_y2,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 73
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x5_y1)
+ State 5:
+  move(loc_x5_y1,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x3_y0)
+ State 8:
+  move(loc_x3_y0,loc_x2_y0)
+ State 9:
+  move(loc_x2_y0,loc_x2_y1)
+ State 10:
+  move(loc_x2_y1,loc_x1_y1)
+ State 11:
+  move(loc_x1_y1,loc_x1_y0)
+ State 12:
+  move(loc_x1_y0,loc_x0_y0)
+ State 13:
+  move(loc_x0_y0,loc_x0_y1)
+ State 14:
+  move(loc_x0_y1,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x0_y4)
+ State 17:
+  move(loc_x0_y4,loc_x0_y5)
+ State 18:
+  move(loc_x0_y5,loc_x1_y5)
+ State 19:
+  move(loc_x1_y5,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x2_y4)
+ State 21:
+  move(loc_x2_y4,loc_x2_y5)
+ State 22:
+  move(loc_x2_y5,loc_x3_y5)
+ State 23:
+  move(loc_x3_y5,loc_x4_y5)
+ State 24:
+  move(loc_x4_y5,loc_x5_y5)
+ State 25:
+  move(loc_x5_y5,loc_x5_y4)
+ State 26:
+  move(loc_x5_y4,loc_x5_y3)
+ State 27:
+  move(loc_x5_y3,loc_x5_y2)
+ State 28:
+  move(loc_x5_y2,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 74
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y0)
+ State 5:
+  move(loc_x4_y0,loc_x5_y0)
+ State 6:
+  move(loc_x5_y0,loc_x5_y1)
+ State 7:
+  move(loc_x5_y1,loc_x5_y2)
+ State 8:
+  move(loc_x5_y2,loc_x5_y3)
+ State 9:
+  move(loc_x5_y3,loc_x5_y4)
+ State 10:
+  move(loc_x5_y4,loc_x5_y5)
+ State 11:
+  move(loc_x5_y5,loc_x4_y5)
+ State 12:
+  move(loc_x4_y5,loc_x4_y4)
+ State 13:
+  move(loc_x4_y4,loc_x3_y4)
+ State 14:
+  move(loc_x3_y4,loc_x3_y5)
+ State 15:
+  move(loc_x3_y5,loc_x2_y5)
+ State 16:
+  move(loc_x2_y5,loc_x1_y5)
+ State 17:
+  move(loc_x1_y5,loc_x0_y5)
+ State 18:
+  move(loc_x0_y5,loc_x0_y4)
+ State 19:
+  move(loc_x0_y4,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x1_y3)
+ State 21:
+  move(loc_x1_y3,loc_x0_y3)
+ State 22:
+  move(loc_x0_y3,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y1)
+ State 24:
+  move(loc_x0_y1,loc_x0_y0)
+ State 25:
+  move(loc_x0_y0,loc_x1_y0)
+ State 26:
+  move(loc_x1_y0,loc_x1_y1)
+ State 27:
+  move(loc_x1_y1,loc_x2_y1)
+ State 28:
+  move(loc_x2_y1,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x3_y0)
+ State 30:
+  move(loc_x3_y0,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 75
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y1)
+ State 6:
+  move(loc_x4_y1,loc_x4_y0)
+ State 7:
+  move(loc_x4_y0,loc_x5_y0)
+ State 8:
+  move(loc_x5_y0,loc_x5_y1)
+ State 9:
+  move(loc_x5_y1,loc_x5_y2)
+ State 10:
+  move(loc_x5_y2,loc_x5_y3)
+ State 11:
+  move(loc_x5_y3,loc_x5_y4)
+ State 12:
+  move(loc_x5_y4,loc_x5_y5)
+ State 13:
+  move(loc_x5_y5,loc_x4_y5)
+ State 14:
+  move(loc_x4_y5,loc_x3_y5)
+ State 15:
+  move(loc_x3_y5,loc_x2_y5)
+ State 16:
+  move(loc_x2_y5,loc_x1_y5)
+ State 17:
+  move(loc_x1_y5,loc_x0_y5)
+ State 18:
+  move(loc_x0_y5,loc_x0_y4)
+ State 19:
+  move(loc_x0_y4,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x1_y3)
+ State 21:
+  move(loc_x1_y3,loc_x0_y3)
+ State 22:
+  move(loc_x0_y3,loc_x0_y2)
+ State 23:
+  move(loc_x0_y2,loc_x0_y1)
+ State 24:
+  move(loc_x0_y1,loc_x0_y0)
+ State 25:
+  move(loc_x0_y0,loc_x1_y0)
+ State 26:
+  move(loc_x1_y0,loc_x1_y1)
+ State 27:
+  move(loc_x1_y1,loc_x2_y1)
+ State 28:
+  move(loc_x2_y1,loc_x2_y0)
+ State 29:
+  move(loc_x2_y0,loc_x3_y0)
+ State 30:
+  move(loc_x3_y0,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 76
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x3_y0)
+ State 4:
+  move(loc_x3_y0,loc_x2_y0)
+ State 5:
+  move(loc_x2_y0,loc_x2_y1)
+ State 6:
+  move(loc_x2_y1,loc_x1_y1)
+ State 7:
+  move(loc_x1_y1,loc_x1_y0)
+ State 8:
+  move(loc_x1_y0,loc_x0_y0)
+ State 9:
+  move(loc_x0_y0,loc_x0_y1)
+ State 10:
+  move(loc_x0_y1,loc_x0_y2)
+ State 11:
+  move(loc_x0_y2,loc_x0_y3)
+ State 12:
+  move(loc_x0_y3,loc_x1_y3)
+ State 13:
+  move(loc_x1_y3,loc_x1_y4)
+ State 14:
+  move(loc_x1_y4,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x0_y5)
+ State 16:
+  move(loc_x0_y5,loc_x1_y5)
+ State 17:
+  move(loc_x1_y5,loc_x2_y5)
+ State 18:
+  move(loc_x2_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x4_y5)
+ State 20:
+  move(loc_x4_y5,loc_x5_y5)
+ State 21:
+  move(loc_x5_y5,loc_x5_y4)
+ State 22:
+  move(loc_x5_y4,loc_x5_y3)
+ State 23:
+  move(loc_x5_y3,loc_x5_y2)
+ State 24:
+  move(loc_x5_y2,loc_x5_y1)
+ State 25:
+  move(loc_x5_y1,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x4_y1)
+ State 28:
+  move(loc_x4_y1,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y4)
+ State 31:
+  move(loc_x4_y4,loc_x3_y4)
+ State 32:
+  move(loc_x3_y4,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 77
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x3_y5)
+ State 7:
+  move(loc_x3_y5,loc_x2_y5)
+ State 8:
+  move(loc_x2_y5,loc_x2_y4)
+ State 9:
+  move(loc_x2_y4,loc_x1_y4)
+ State 10:
+  move(loc_x1_y4,loc_x1_y5)
+ State 11:
+  move(loc_x1_y5,loc_x0_y5)
+ State 12:
+  move(loc_x0_y5,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x3_y1)
+ State 23:
+  move(loc_x3_y1,loc_x3_y2)
+ State 24:
+  move(loc_x3_y2,loc_x4_y2)
+ State 25:
+  move(loc_x4_y2,loc_x4_y1)
+ State 26:
+  move(loc_x4_y1,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x5_y2)
+ State 30:
+  move(loc_x5_y2,loc_x5_y3)
+ State 31:
+  move(loc_x5_y3,loc_x4_y3)
+ State 32:
+  move(loc_x4_y3,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 78
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x3_y5)
+ State 7:
+  move(loc_x3_y5,loc_x2_y5)
+ State 8:
+  move(loc_x2_y5,loc_x2_y4)
+ State 9:
+  move(loc_x2_y4,loc_x1_y4)
+ State 10:
+  move(loc_x1_y4,loc_x1_y5)
+ State 11:
+  move(loc_x1_y5,loc_x0_y5)
+ State 12:
+  move(loc_x0_y5,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x0_y3)
+ State 14:
+  move(loc_x0_y3,loc_x0_y2)
+ State 15:
+  move(loc_x0_y2,loc_x0_y1)
+ State 16:
+  move(loc_x0_y1,loc_x0_y0)
+ State 17:
+  move(loc_x0_y0,loc_x1_y0)
+ State 18:
+  move(loc_x1_y0,loc_x1_y1)
+ State 19:
+  move(loc_x1_y1,loc_x2_y1)
+ State 20:
+  move(loc_x2_y1,loc_x2_y0)
+ State 21:
+  move(loc_x2_y0,loc_x3_y0)
+ State 22:
+  move(loc_x3_y0,loc_x3_y1)
+ State 23:
+  move(loc_x3_y1,loc_x4_y1)
+ State 24:
+  move(loc_x4_y1,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x5_y1)
+ State 27:
+  move(loc_x5_y1,loc_x5_y2)
+ State 28:
+  move(loc_x5_y2,loc_x5_y3)
+ State 29:
+  move(loc_x5_y3,loc_x4_y3)
+ State 30:
+  move(loc_x4_y3,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x1_y3)
+Answer: 79
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x1_y5)
+ State 11:
+  move(loc_x1_y5,loc_x0_y5)
+ State 12:
+  move(loc_x0_y5,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x1_y4)
+ State 14:
+  move(loc_x1_y4,loc_x1_y3)
+ State 15:
+  move(loc_x1_y3,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y0)
+ State 19:
+  move(loc_x0_y0,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x1_y1)
+ State 21:
+  move(loc_x1_y1,loc_x2_y1)
+ State 22:
+  move(loc_x2_y1,loc_x2_y0)
+ State 23:
+  move(loc_x2_y0,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x3_y1)
+ State 25:
+  move(loc_x3_y1,loc_x4_y1)
+ State 26:
+  move(loc_x4_y1,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x5_y2)
+ State 30:
+  move(loc_x5_y2,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 80
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x1_y5)
+ State 11:
+  move(loc_x1_y5,loc_x0_y5)
+ State 12:
+  move(loc_x0_y5,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x1_y4)
+ State 14:
+  move(loc_x1_y4,loc_x1_y3)
+ State 15:
+  move(loc_x1_y3,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y0)
+ State 19:
+  move(loc_x0_y0,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x1_y1)
+ State 21:
+  move(loc_x1_y1,loc_x2_y1)
+ State 22:
+  move(loc_x2_y1,loc_x2_y0)
+ State 23:
+  move(loc_x2_y0,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x3_y1)
+ State 25:
+  move(loc_x3_y1,loc_x4_y1)
+ State 26:
+  move(loc_x4_y1,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x5_y2)
+ State 30:
+  move(loc_x5_y2,loc_x4_y2)
+ State 31:
+  move(loc_x4_y2,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 81
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y4)
+ State 4:
+  move(loc_x5_y4,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x3_y4)
+ State 8:
+  move(loc_x3_y4,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x1_y5)
+ State 11:
+  move(loc_x1_y5,loc_x0_y5)
+ State 12:
+  move(loc_x0_y5,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x1_y4)
+ State 14:
+  move(loc_x1_y4,loc_x1_y3)
+ State 15:
+  move(loc_x1_y3,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y0)
+ State 19:
+  move(loc_x0_y0,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x1_y1)
+ State 21:
+  move(loc_x1_y1,loc_x2_y1)
+ State 22:
+  move(loc_x2_y1,loc_x2_y0)
+ State 23:
+  move(loc_x2_y0,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x5_y1)
+ State 27:
+  move(loc_x5_y1,loc_x5_y2)
+ State 28:
+  move(loc_x5_y2,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 82
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x3_y5)
+ State 9:
+  move(loc_x3_y5,loc_x2_y5)
+ State 10:
+  move(loc_x2_y5,loc_x1_y5)
+ State 11:
+  move(loc_x1_y5,loc_x0_y5)
+ State 12:
+  move(loc_x0_y5,loc_x0_y4)
+ State 13:
+  move(loc_x0_y4,loc_x1_y4)
+ State 14:
+  move(loc_x1_y4,loc_x1_y3)
+ State 15:
+  move(loc_x1_y3,loc_x0_y3)
+ State 16:
+  move(loc_x0_y3,loc_x0_y2)
+ State 17:
+  move(loc_x0_y2,loc_x0_y1)
+ State 18:
+  move(loc_x0_y1,loc_x0_y0)
+ State 19:
+  move(loc_x0_y0,loc_x1_y0)
+ State 20:
+  move(loc_x1_y0,loc_x1_y1)
+ State 21:
+  move(loc_x1_y1,loc_x2_y1)
+ State 22:
+  move(loc_x2_y1,loc_x2_y0)
+ State 23:
+  move(loc_x2_y0,loc_x3_y0)
+ State 24:
+  move(loc_x3_y0,loc_x4_y0)
+ State 25:
+  move(loc_x4_y0,loc_x5_y0)
+ State 26:
+  move(loc_x5_y0,loc_x5_y1)
+ State 27:
+  move(loc_x5_y1,loc_x5_y2)
+ State 28:
+  move(loc_x5_y2,loc_x4_y2)
+ State 29:
+  move(loc_x4_y2,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 83
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y2)
+ State 3:
+  move(loc_x4_y2,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x5_y3)
+ State 5:
+  move(loc_x5_y3,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x4_y4)
+ State 9:
+  move(loc_x4_y4,loc_x3_y4)
+ State 10:
+  move(loc_x3_y4,loc_x3_y5)
+ State 11:
+  move(loc_x3_y5,loc_x2_y5)
+ State 12:
+  move(loc_x2_y5,loc_x1_y5)
+ State 13:
+  move(loc_x1_y5,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x1_y4)
+ State 16:
+  move(loc_x1_y4,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y1)
+ State 20:
+  move(loc_x0_y1,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x1_y0)
+ State 22:
+  move(loc_x1_y0,loc_x1_y1)
+ State 23:
+  move(loc_x1_y1,loc_x2_y1)
+ State 24:
+  move(loc_x2_y1,loc_x2_y0)
+ State 25:
+  move(loc_x2_y0,loc_x3_y0)
+ State 26:
+  move(loc_x3_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 84
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y3)
+ State 4:
+  move(loc_x4_y3,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y4)
+ State 8:
+  move(loc_x5_y4,loc_x5_y5)
+ State 9:
+  move(loc_x5_y5,loc_x4_y5)
+ State 10:
+  move(loc_x4_y5,loc_x3_y5)
+ State 11:
+  move(loc_x3_y5,loc_x2_y5)
+ State 12:
+  move(loc_x2_y5,loc_x1_y5)
+ State 13:
+  move(loc_x1_y5,loc_x0_y5)
+ State 14:
+  move(loc_x0_y5,loc_x0_y4)
+ State 15:
+  move(loc_x0_y4,loc_x1_y4)
+ State 16:
+  move(loc_x1_y4,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x0_y3)
+ State 18:
+  move(loc_x0_y3,loc_x0_y2)
+ State 19:
+  move(loc_x0_y2,loc_x0_y1)
+ State 20:
+  move(loc_x0_y1,loc_x0_y0)
+ State 21:
+  move(loc_x0_y0,loc_x1_y0)
+ State 22:
+  move(loc_x1_y0,loc_x1_y1)
+ State 23:
+  move(loc_x1_y1,loc_x2_y1)
+ State 24:
+  move(loc_x2_y1,loc_x2_y0)
+ State 25:
+  move(loc_x2_y0,loc_x3_y0)
+ State 26:
+  move(loc_x3_y0,loc_x4_y0)
+ State 27:
+  move(loc_x4_y0,loc_x5_y0)
+ State 28:
+  move(loc_x5_y0,loc_x5_y1)
+ State 29:
+  move(loc_x5_y1,loc_x4_y1)
+ State 30:
+  move(loc_x4_y1,loc_x3_y1)
+ State 31:
+  move(loc_x3_y1,loc_x3_y2)
+ State 32:
+  move(loc_x3_y2,loc_x3_y3)
+ State 33:
+  move(loc_x3_y3,loc_x2_y3)
+ State 34:
+  move(loc_x2_y3,loc_x2_y4)
+Answer: 85
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y4)
+ State 8:
+  move(loc_x5_y4,loc_x5_y5)
+ State 9:
+  move(loc_x5_y5,loc_x4_y5)
+ State 10:
+  move(loc_x4_y5,loc_x4_y4)
+ State 11:
+  move(loc_x4_y4,loc_x4_y3)
+ State 12:
+  move(loc_x4_y3,loc_x3_y3)
+ State 13:
+  move(loc_x3_y3,loc_x2_y3)
+ State 14:
+  move(loc_x2_y3,loc_x1_y3)
+ State 15:
+  move(loc_x1_y3,loc_x1_y4)
+ State 16:
+  move(loc_x1_y4,loc_x2_y4)
+ State 17:
+  move(loc_x2_y4,loc_x3_y4)
+ State 18:
+  move(loc_x3_y4,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 86
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x4_y5)
+ State 4:
+  move(loc_x4_y5,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y2)
+ State 8:
+  move(loc_x5_y2,loc_x4_y2)
+ State 9:
+  move(loc_x4_y2,loc_x4_y1)
+ State 10:
+  move(loc_x4_y1,loc_x3_y1)
+ State 11:
+  move(loc_x3_y1,loc_x3_y2)
+ State 12:
+  move(loc_x3_y2,loc_x3_y3)
+ State 13:
+  move(loc_x3_y3,loc_x2_y3)
+ State 14:
+  move(loc_x2_y3,loc_x1_y3)
+ State 15:
+  move(loc_x1_y3,loc_x1_y4)
+ State 16:
+  move(loc_x1_y4,loc_x2_y4)
+ State 17:
+  move(loc_x2_y4,loc_x3_y4)
+ State 18:
+  move(loc_x3_y4,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 87
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x4_y3)
+ State 8:
+  move(loc_x4_y3,loc_x3_y3)
+ State 9:
+  move(loc_x3_y3,loc_x2_y3)
+ State 10:
+  move(loc_x2_y3,loc_x1_y3)
+ State 11:
+  move(loc_x1_y3,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x2_y4)
+ State 13:
+  move(loc_x2_y4,loc_x3_y4)
+ State 14:
+  move(loc_x3_y4,loc_x4_y4)
+ State 15:
+  move(loc_x4_y4,loc_x5_y4)
+ State 16:
+  move(loc_x5_y4,loc_x5_y5)
+ State 17:
+  move(loc_x5_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 88
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x5_y3)
+ State 3:
+  move(loc_x5_y3,loc_x5_y2)
+ State 4:
+  move(loc_x5_y2,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x4_y1)
+ State 6:
+  move(loc_x4_y1,loc_x3_y1)
+ State 7:
+  move(loc_x3_y1,loc_x3_y2)
+ State 8:
+  move(loc_x3_y2,loc_x3_y3)
+ State 9:
+  move(loc_x3_y3,loc_x2_y3)
+ State 10:
+  move(loc_x2_y3,loc_x1_y3)
+ State 11:
+  move(loc_x1_y3,loc_x1_y4)
+ State 12:
+  move(loc_x1_y4,loc_x2_y4)
+ State 13:
+  move(loc_x2_y4,loc_x3_y4)
+ State 14:
+  move(loc_x3_y4,loc_x4_y4)
+ State 15:
+  move(loc_x4_y4,loc_x5_y4)
+ State 16:
+  move(loc_x5_y4,loc_x5_y5)
+ State 17:
+  move(loc_x5_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 89
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x2_y3)
+ State 2:
+  move(loc_x2_y3,loc_x1_y3)
+ State 3:
+  move(loc_x1_y3,loc_x1_y4)
+ State 4:
+  move(loc_x1_y4,loc_x2_y4)
+ State 5:
+  move(loc_x2_y4,loc_x3_y4)
+ State 6:
+  move(loc_x3_y4,loc_x3_y3)
+ State 7:
+  move(loc_x3_y3,loc_x3_y2)
+ State 8:
+  move(loc_x3_y2,loc_x3_y1)
+ State 9:
+  move(loc_x3_y1,loc_x4_y1)
+ State 10:
+  move(loc_x4_y1,loc_x4_y2)
+ State 11:
+  move(loc_x4_y2,loc_x5_y2)
+ State 12:
+  move(loc_x5_y2,loc_x5_y3)
+ State 13:
+  move(loc_x5_y3,loc_x4_y3)
+ State 14:
+  move(loc_x4_y3,loc_x4_y4)
+ State 15:
+  move(loc_x4_y4,loc_x5_y4)
+ State 16:
+  move(loc_x5_y4,loc_x5_y5)
+ State 17:
+  move(loc_x5_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 90
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x2_y4)
+ State 3:
+  move(loc_x2_y4,loc_x1_y4)
+ State 4:
+  move(loc_x1_y4,loc_x1_y3)
+ State 5:
+  move(loc_x1_y3,loc_x2_y3)
+ State 6:
+  move(loc_x2_y3,loc_x3_y3)
+ State 7:
+  move(loc_x3_y3,loc_x3_y2)
+ State 8:
+  move(loc_x3_y2,loc_x3_y1)
+ State 9:
+  move(loc_x3_y1,loc_x4_y1)
+ State 10:
+  move(loc_x4_y1,loc_x4_y2)
+ State 11:
+  move(loc_x4_y2,loc_x5_y2)
+ State 12:
+  move(loc_x5_y2,loc_x5_y3)
+ State 13:
+  move(loc_x5_y3,loc_x4_y3)
+ State 14:
+  move(loc_x4_y3,loc_x4_y4)
+ State 15:
+  move(loc_x4_y4,loc_x5_y4)
+ State 16:
+  move(loc_x5_y4,loc_x5_y5)
+ State 17:
+  move(loc_x5_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 91
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x3_y4)
+ State 4:
+  move(loc_x3_y4,loc_x2_y4)
+ State 5:
+  move(loc_x2_y4,loc_x1_y4)
+ State 6:
+  move(loc_x1_y4,loc_x1_y3)
+ State 7:
+  move(loc_x1_y3,loc_x2_y3)
+ State 8:
+  move(loc_x2_y3,loc_x3_y3)
+ State 9:
+  move(loc_x3_y3,loc_x3_y2)
+ State 10:
+  move(loc_x3_y2,loc_x3_y1)
+ State 11:
+  move(loc_x3_y1,loc_x4_y1)
+ State 12:
+  move(loc_x4_y1,loc_x4_y2)
+ State 13:
+  move(loc_x4_y2,loc_x5_y2)
+ State 14:
+  move(loc_x5_y2,loc_x5_y3)
+ State 15:
+  move(loc_x5_y3,loc_x5_y4)
+ State 16:
+  move(loc_x5_y4,loc_x5_y5)
+ State 17:
+  move(loc_x5_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 92
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x2_y3)
+ State 2:
+  move(loc_x2_y3,loc_x1_y3)
+ State 3:
+  move(loc_x1_y3,loc_x1_y4)
+ State 4:
+  move(loc_x1_y4,loc_x2_y4)
+ State 5:
+  move(loc_x2_y4,loc_x3_y4)
+ State 6:
+  move(loc_x3_y4,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x4_y3)
+ State 8:
+  move(loc_x4_y3,loc_x3_y3)
+ State 9:
+  move(loc_x3_y3,loc_x3_y2)
+ State 10:
+  move(loc_x3_y2,loc_x3_y1)
+ State 11:
+  move(loc_x3_y1,loc_x4_y1)
+ State 12:
+  move(loc_x4_y1,loc_x4_y2)
+ State 13:
+  move(loc_x4_y2,loc_x5_y2)
+ State 14:
+  move(loc_x5_y2,loc_x5_y3)
+ State 15:
+  move(loc_x5_y3,loc_x5_y4)
+ State 16:
+  move(loc_x5_y4,loc_x5_y5)
+ State 17:
+  move(loc_x5_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 93
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x2_y3)
+ State 2:
+  move(loc_x2_y3,loc_x1_y3)
+ State 3:
+  move(loc_x1_y3,loc_x1_y4)
+ State 4:
+  move(loc_x1_y4,loc_x2_y4)
+ State 5:
+  move(loc_x2_y4,loc_x3_y4)
+ State 6:
+  move(loc_x3_y4,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x4_y3)
+ State 8:
+  move(loc_x4_y3,loc_x4_y2)
+ State 9:
+  move(loc_x4_y2,loc_x4_y1)
+ State 10:
+  move(loc_x4_y1,loc_x4_y0)
+ State 11:
+  move(loc_x4_y0,loc_x5_y0)
+ State 12:
+  move(loc_x5_y0,loc_x5_y1)
+ State 13:
+  move(loc_x5_y1,loc_x5_y2)
+ State 14:
+  move(loc_x5_y2,loc_x5_y3)
+ State 15:
+  move(loc_x5_y3,loc_x5_y4)
+ State 16:
+  move(loc_x5_y4,loc_x5_y5)
+ State 17:
+  move(loc_x5_y5,loc_x4_y5)
+ State 18:
+  move(loc_x4_y5,loc_x3_y5)
+ State 19:
+  move(loc_x3_y5,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x3_y1)
+ State 33:
+  move(loc_x3_y1,loc_x3_y2)
+ State 34:
+  move(loc_x3_y2,loc_x3_y3)
+Answer: 94
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x3_y4)
+ State 4:
+  move(loc_x3_y4,loc_x2_y4)
+ State 5:
+  move(loc_x2_y4,loc_x2_y5)
+ State 6:
+  move(loc_x2_y5,loc_x3_y5)
+ State 7:
+  move(loc_x3_y5,loc_x4_y5)
+ State 8:
+  move(loc_x4_y5,loc_x5_y5)
+ State 9:
+  move(loc_x5_y5,loc_x5_y4)
+ State 10:
+  move(loc_x5_y4,loc_x5_y3)
+ State 11:
+  move(loc_x5_y3,loc_x5_y2)
+ State 12:
+  move(loc_x5_y2,loc_x4_y2)
+ State 13:
+  move(loc_x4_y2,loc_x4_y1)
+ State 14:
+  move(loc_x4_y1,loc_x3_y1)
+ State 15:
+  move(loc_x3_y1,loc_x3_y2)
+ State 16:
+  move(loc_x3_y2,loc_x3_y3)
+ State 17:
+  move(loc_x3_y3,loc_x2_y3)
+ State 18:
+  move(loc_x2_y3,loc_x1_y3)
+ State 19:
+  move(loc_x1_y3,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 95
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x2_y4)
+ State 3:
+  move(loc_x2_y4,loc_x2_y5)
+ State 4:
+  move(loc_x2_y5,loc_x3_y5)
+ State 5:
+  move(loc_x3_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x5_y4)
+ State 8:
+  move(loc_x5_y4,loc_x4_y4)
+ State 9:
+  move(loc_x4_y4,loc_x4_y3)
+ State 10:
+  move(loc_x4_y3,loc_x5_y3)
+ State 11:
+  move(loc_x5_y3,loc_x5_y2)
+ State 12:
+  move(loc_x5_y2,loc_x4_y2)
+ State 13:
+  move(loc_x4_y2,loc_x4_y1)
+ State 14:
+  move(loc_x4_y1,loc_x3_y1)
+ State 15:
+  move(loc_x3_y1,loc_x3_y2)
+ State 16:
+  move(loc_x3_y2,loc_x3_y3)
+ State 17:
+  move(loc_x3_y3,loc_x2_y3)
+ State 18:
+  move(loc_x2_y3,loc_x1_y3)
+ State 19:
+  move(loc_x1_y3,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 96
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y4)
+ State 2:
+  move(loc_x3_y4,loc_x3_y5)
+ State 3:
+  move(loc_x3_y5,loc_x4_y5)
+ State 4:
+  move(loc_x4_y5,loc_x5_y5)
+ State 5:
+  move(loc_x5_y5,loc_x5_y4)
+ State 6:
+  move(loc_x5_y4,loc_x4_y4)
+ State 7:
+  move(loc_x4_y4,loc_x4_y3)
+ State 8:
+  move(loc_x4_y3,loc_x5_y3)
+ State 9:
+  move(loc_x5_y3,loc_x5_y2)
+ State 10:
+  move(loc_x5_y2,loc_x4_y2)
+ State 11:
+  move(loc_x4_y2,loc_x4_y1)
+ State 12:
+  move(loc_x4_y1,loc_x3_y1)
+ State 13:
+  move(loc_x3_y1,loc_x3_y2)
+ State 14:
+  move(loc_x3_y2,loc_x3_y3)
+ State 15:
+  move(loc_x3_y3,loc_x2_y3)
+ State 16:
+  move(loc_x2_y3,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x1_y4)
+ State 18:
+  move(loc_x1_y4,loc_x2_y4)
+ State 19:
+  move(loc_x2_y4,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 97
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x4_y3)
+ State 2:
+  move(loc_x4_y3,loc_x4_y4)
+ State 3:
+  move(loc_x4_y4,loc_x3_y4)
+ State 4:
+  move(loc_x3_y4,loc_x3_y5)
+ State 5:
+  move(loc_x3_y5,loc_x4_y5)
+ State 6:
+  move(loc_x4_y5,loc_x5_y5)
+ State 7:
+  move(loc_x5_y5,loc_x5_y4)
+ State 8:
+  move(loc_x5_y4,loc_x5_y3)
+ State 9:
+  move(loc_x5_y3,loc_x5_y2)
+ State 10:
+  move(loc_x5_y2,loc_x4_y2)
+ State 11:
+  move(loc_x4_y2,loc_x4_y1)
+ State 12:
+  move(loc_x4_y1,loc_x3_y1)
+ State 13:
+  move(loc_x3_y1,loc_x3_y2)
+ State 14:
+  move(loc_x3_y2,loc_x3_y3)
+ State 15:
+  move(loc_x3_y3,loc_x2_y3)
+ State 16:
+  move(loc_x2_y3,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x1_y4)
+ State 18:
+  move(loc_x1_y4,loc_x2_y4)
+ State 19:
+  move(loc_x2_y4,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 98
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y4)
+ State 8:
+  move(loc_x5_y4,loc_x5_y5)
+ State 9:
+  move(loc_x5_y5,loc_x4_y5)
+ State 10:
+  move(loc_x4_y5,loc_x3_y5)
+ State 11:
+  move(loc_x3_y5,loc_x3_y4)
+ State 12:
+  move(loc_x3_y4,loc_x4_y4)
+ State 13:
+  move(loc_x4_y4,loc_x4_y3)
+ State 14:
+  move(loc_x4_y3,loc_x3_y3)
+ State 15:
+  move(loc_x3_y3,loc_x2_y3)
+ State 16:
+  move(loc_x2_y3,loc_x1_y3)
+ State 17:
+  move(loc_x1_y3,loc_x1_y4)
+ State 18:
+  move(loc_x1_y4,loc_x2_y4)
+ State 19:
+  move(loc_x2_y4,loc_x2_y5)
+ State 20:
+  move(loc_x2_y5,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 99
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y4)
+ State 8:
+  move(loc_x5_y4,loc_x5_y5)
+ State 9:
+  move(loc_x5_y5,loc_x4_y5)
+ State 10:
+  move(loc_x4_y5,loc_x3_y5)
+ State 11:
+  move(loc_x3_y5,loc_x2_y5)
+ State 12:
+  move(loc_x2_y5,loc_x2_y4)
+ State 13:
+  move(loc_x2_y4,loc_x3_y4)
+ State 14:
+  move(loc_x3_y4,loc_x4_y4)
+ State 15:
+  move(loc_x4_y4,loc_x4_y3)
+ State 16:
+  move(loc_x4_y3,loc_x3_y3)
+ State 17:
+  move(loc_x3_y3,loc_x2_y3)
+ State 18:
+  move(loc_x2_y3,loc_x1_y3)
+ State 19:
+  move(loc_x1_y3,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)
+Answer: 100
+ State 0:
+ State 1:
+  move(loc_x3_y3,loc_x3_y2)
+ State 2:
+  move(loc_x3_y2,loc_x3_y1)
+ State 3:
+  move(loc_x3_y1,loc_x4_y1)
+ State 4:
+  move(loc_x4_y1,loc_x4_y2)
+ State 5:
+  move(loc_x4_y2,loc_x5_y2)
+ State 6:
+  move(loc_x5_y2,loc_x5_y3)
+ State 7:
+  move(loc_x5_y3,loc_x5_y4)
+ State 8:
+  move(loc_x5_y4,loc_x5_y5)
+ State 9:
+  move(loc_x5_y5,loc_x4_y5)
+ State 10:
+  move(loc_x4_y5,loc_x4_y4)
+ State 11:
+  move(loc_x4_y4,loc_x4_y3)
+ State 12:
+  move(loc_x4_y3,loc_x3_y3)
+ State 13:
+  move(loc_x3_y3,loc_x3_y4)
+ State 14:
+  move(loc_x3_y4,loc_x3_y5)
+ State 15:
+  move(loc_x3_y5,loc_x2_y5)
+ State 16:
+  move(loc_x2_y5,loc_x2_y4)
+ State 17:
+  move(loc_x2_y4,loc_x2_y3)
+ State 18:
+  move(loc_x2_y3,loc_x1_y3)
+ State 19:
+  move(loc_x1_y3,loc_x1_y4)
+ State 20:
+  move(loc_x1_y4,loc_x1_y5)
+ State 21:
+  move(loc_x1_y5,loc_x0_y5)
+ State 22:
+  move(loc_x0_y5,loc_x0_y4)
+ State 23:
+  move(loc_x0_y4,loc_x0_y3)
+ State 24:
+  move(loc_x0_y3,loc_x0_y2)
+ State 25:
+  move(loc_x0_y2,loc_x0_y1)
+ State 26:
+  move(loc_x0_y1,loc_x0_y0)
+ State 27:
+  move(loc_x0_y0,loc_x1_y0)
+ State 28:
+  move(loc_x1_y0,loc_x1_y1)
+ State 29:
+  move(loc_x1_y1,loc_x2_y1)
+ State 30:
+  move(loc_x2_y1,loc_x2_y0)
+ State 31:
+  move(loc_x2_y0,loc_x3_y0)
+ State 32:
+  move(loc_x3_y0,loc_x4_y0)
+ State 33:
+  move(loc_x4_y0,loc_x5_y0)
+ State 34:
+  move(loc_x5_y0,loc_x5_y1)

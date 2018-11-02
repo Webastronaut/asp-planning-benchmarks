@@ -55,7 +55,7 @@ on(N1,N) :- on0(N,N1).
 on(N1,N) :- move(N), where(N1).
 on(N,N1) :- 'on(N,N1), not move(N1).
 
-%put(M,N) : move(N), where(M).
+put(M,N) : move(N), where(M).
 
 :- on(N1,N), N1>=N.
 
@@ -68,3 +68,4 @@ on(N,N1) :- 'on(N,N1), not move(N1).
 %#show put(M,N,T) : move(T,N), where(T,M), T=t.
 %#show move/2.
 %#show on/3.
+#show put/2.

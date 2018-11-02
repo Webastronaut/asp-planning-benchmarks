@@ -52,6 +52,9 @@ on(T,N,N1) :- time(T), T>0,
 :- not on(T,N,N1), ongoal(N1,N), steps(T).
 :- on(T,N,N1), not ongoal(N1,N), steps(T).
 
+put(M,N,T) :- move(T,N), where(T,M).
+
 % Solution
-#show put(M,N,T) : move(T,N), where(T,M).
+%#show put(M,N,T) : move(T,N), where(T,M).
+#show put/3.
 

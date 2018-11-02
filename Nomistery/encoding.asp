@@ -27,16 +27,10 @@ action(drive(T,L1,L2)) :- fuelcost( Fueldelta,L1,L2 ) , truck( T ).
 % GENERATE  >>>>>
 #program step(t).
 
-%* + ORIGINAL PART
-{ occurs(A,S) : action(A) } <= 1 :- S=t. % :- step(S), 0 < S.
+{ occurs(A,S) : action(A) } <= 1 :- S=t.
 
 done(S) :- occurs(A,S), S=t.
 :- done(S), not done(S-1), 1 < S, S=t.
-= ORIGINAL PART *%
-
-% + OPTIMIZED PART
-{ occurs(A,S) : action(A) } = 1 :- S=t.
-%= OPTIMIZED PART*%
 
 unload( P,T,L,S )  :- occurs(unload(P,T,L),S), S=t.
 load( P,T,L,S )    :- occurs(load(P,T,L),S), S=t.
@@ -86,10 +80,6 @@ preconditions_d( T,L1,L2,S ) :- S=t, at( T,L1,S-1 ), fuel( T, Fuelpre, S-1), fue
 % GOAL CHECK
 #program check(t).
 :- goal(P,L), not at(P,L,S), S=t, query(t).
-%:- goal(P,L), step(S), not step(S+1), not at(P,L,S).
-
-% goalreached :- step(S),  N = #count{ P,L : at(P,L,S) , goal(P,L) }, N = #count{ P1,L1 : goal(P1,L1) }.
-% :- not goalreached.
 
 % Gringo directives to show / hide particular literals
 %#hide.

@@ -1,0 +1,231 @@
+telingo version 1.0
+Reading from encoding-telingo.lp ...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Answer: 1
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(2,w)
+ State 3:
+  push(3,e)
+ State 4:
+  push(2,w)
+ State 5:
+  push(2,w)
+Answer: 2
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(2,w)
+ State 3:
+  push(3,e)
+ State 4:
+  push(2,w)
+ State 5:
+  push(3,e)
+Answer: 3
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(3,e)
+ State 3:
+  push(3,e)
+ State 4:
+  push(3,e)
+ State 5:
+  push(3,e)
+Answer: 4
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(3,e)
+ State 3:
+  push(3,e)
+ State 4:
+  push(3,e)
+ State 5:
+  push(2,w)
+Answer: 5
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(3,e)
+ State 3:
+  push(3,e)
+ State 4:
+  push(2,w)
+ State 5:
+  push(2,w)
+Answer: 6
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(3,e)
+ State 3:
+  push(3,e)
+ State 4:
+  push(2,w)
+ State 5:
+  push(3,e)
+Answer: 7
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(2,w)
+ State 3:
+  push(3,e)
+ State 4:
+  push(3,e)
+ State 5:
+  push(2,w)
+Answer: 8
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(2,w)
+ State 3:
+  push(3,e)
+ State 4:
+  push(3,e)
+ State 5:
+  push(3,e)
+Answer: 9
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(3,e)
+ State 3:
+  push(2,w)
+ State 4:
+  push(2,w)
+ State 5:
+  push(2,w)
+Answer: 10
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(3,e)
+ State 3:
+  push(2,w)
+ State 4:
+  push(3,e)
+ State 5:
+  push(2,w)
+Answer: 11
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(3,e)
+ State 3:
+  push(2,w)
+ State 4:
+  push(2,w)
+ State 5:
+  push(3,e)
+Answer: 12
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(3,e)
+ State 3:
+  push(2,w)
+ State 4:
+  push(3,e)
+ State 5:
+  push(3,e)
+Answer: 13
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(2,w)
+ State 3:
+  push(2,w)
+ State 4:
+  push(3,e)
+ State 5:
+  push(2,w)
+Answer: 14
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(2,w)
+ State 3:
+  push(2,w)
+ State 4:
+  push(3,e)
+ State 5:
+  push(3,e)
+Answer: 15
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(2,w)
+ State 3:
+  push(2,w)
+ State 4:
+  push(2,w)
+ State 5:
+  push(2,w)
+Answer: 16
+ State 0:
+ State 1:
+  push(8,s)
+ State 2:
+  push(2,w)
+ State 3:
+  push(2,w)
+ State 4:
+  push(2,w)
+ State 5:
+  push(3,e)
+SATISFIABLE
+
+Models       : 16
+Calls        : 6
+Time         : 348.318s (Solving: 348.17s 1st Model: 20.66s Unsat: 194.48s)
+CPU Time     : 332.915s
+
+Choices      : 637779  
+Conflicts    : 528668   (Analyzed: 528613)
+Restarts     : 3273     (Average: 161.51 Last: 118)
+Model-Level  : 9.3     
+Problems     : 6        (Average Length: 2.00 Splits: 0)
+Lemmas       : 572927   (Deleted: 530257)
+  Binary     : 2045     (Ratio:   0.36%)
+  Ternary    : 2768     (Ratio:   0.48%)
+  Conflict   : 528613   (Average Length:  123.8 Ratio:  92.27%) 
+  Loop       : 44314    (Average Length:   36.3 Ratio:   7.73%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+Backjumps    : 528613   (Average:  1.19 Max:  57 Sum: 629246)
+  Executed   : 528551   (Average:  1.19 Max:  57 Sum: 629130 Ratio:  99.98%)
+  Bounded    : 62       (Average:  1.87 Max:   3 Sum:    116 Ratio:   0.02%)
+
+Rules        : 17964   
+  Choice     : 5       
+Atoms        : 6772    
+Bodies       : 13729    (Original: 13728)
+Equivalences : 6311     (Atom=Atom: 2101 Body=Body: 880 Other: 3330)
+Tight        : No       (SCCs: 5 Non-Hcfs: 0 Nodes: 4255 Gammas: 0)
+Variables    : 15449    (Eliminated:    0 Frozen: 7180)
+Constraints  : 57437    (Binary:  73.2% Ternary:  18.8% Other:   8.0%)
+

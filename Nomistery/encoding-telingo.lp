@@ -28,12 +28,12 @@ action(drive(T,L1,L2)) :- fuelcost(Fueldelta,L1,L2), truck(T).
 % GENERATE  >>>>>
 #program dynamic.
 
-% was { occurs(A) : _action(A) } <= 1.
-{ occurs(A) : _action(A) } = 1. % :- step(S), 0 < S.
+{ occurs(A) : _action(A) } <= 1.
+%{ occurs(A) : _action(A) } = 1.
 
-% TODO: This breaks the telingo encoding --> FIX IT
-%done :- occurs(A).
-%:- done, not 'done.
+done :- occurs(A).
+:- done, not not &tel{ <* done }.
+% :- done(S), not done(S-1), 1 < S, S=t.
 
 unload(P,T,L) :- occurs(unload(P,T,L)).
 load(P,T,L) :- occurs(load(P,T,L)).
@@ -84,16 +84,12 @@ preconditions_d(T,L1,L2) :- 'at(T,L1), 'fuel(T,Fuelpre), _fuelcost(Fueldelta,L1,
 % GOAL CHECK
 #program final.
 :- _goal(P,L), not at(P,L), _package(P).
-%:- goal(P,L), step(S), not step(S+1), not at(P,L,S).
-
-% goalreached :- step(S),  N = #count{ P,L : at(P,L,S) , goal(P,L) }, N = #count{ P1,L1 : goal(P1,L1) }.
-% :- not goalreached.
 
 % Gringo directives to show / hide particular literals
 %#hide.
-%#show unload/4.
-%#show load/4.
-%#show drive/4.
+#show unload/3.
+#show load/3.
+#show drive/3.
 %#show at/2.
 %#show at/3.
-#show occurs/1.
+%#show occurs/1.

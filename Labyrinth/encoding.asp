@@ -81,4 +81,4 @@ reach(X,Y,t) :- reach(XX,YY,t), dneighbor(D,XX,YY,X,Y), conn(XX,YY,D,t), conn(X,
 
 %% Project output
 % #hide.
-%#show push/3.
+#show push/3.

@@ -1,0 +1,808 @@
+telingo version 1.0
+Reading from encoding-telingo.lp ...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Answer: 1
+ State 0:
+ State 1:
+  push(7,e)
+ State 2:
+  push(2,w)
+ State 3:
+  push(6,w)
+ State 4:
+  push(12,s)
+Answer: 2
+ State 0:
+ State 1:
+  push(6,w)
+ State 2:
+  push(2,w)
+ State 3:
+  push(7,e)
+ State 4:
+  push(12,s)
+Answer: 3
+ State 0:
+ State 1:
+  push(7,e)
+ State 2:
+  push(6,w)
+ State 3:
+  push(2,w)
+ State 4:
+  push(12,s)
+Answer: 4
+ State 0:
+ State 1:
+  push(6,w)
+ State 2:
+  push(7,e)
+ State 3:
+  push(2,w)
+ State 4:
+  push(12,s)
+Answer: 5
+ State 0:
+ State 1:
+  push(7,e)
+ State 2:
+  push(2,w)
+ State 3:
+  push(12,s)
+ State 4:
+  push(5,e)
+Answer: 6
+ State 0:
+ State 1:
+  push(2,w)
+ State 2:
+  push(7,e)
+ State 3:
+  push(6,w)
+ State 4:
+  push(12,s)
+Answer: 7
+ State 0:
+ State 1:
+  push(2,w)
+ State 2:
+  push(6,w)
+ State 3:
+  push(7,e)
+ State 4:
+  push(12,s)
+Answer: 8
+ State 0:
+ State 1:
+  push(2,w)
+ State 2:
+  push(7,e)
+ State 3:
+  push(12,s)
+ State 4:
+  push(5,e)
+Answer: 9
+ State 0:
+ State 1:
+  push(7,e)
+ State 2:
+  push(2,w)
+ State 3:
+  push(6,w)
+ State 4:
+  push(11,n)
+Answer: 10
+ State 0:
+ State 1:
+  push(6,w)
+ State 2:
+  push(2,w)
+ State 3:
+  push(7,e)
+ State 4:
+  push(11,n)
+Answer: 11
+ State 0:
+ State 1:
+  push(7,e)
+ State 2:
+  push(2,w)
+ State 3:
+  push(11,n)
+ State 4:
+  push(6,e)
+Answer: 12
+ State 0:
+ State 1:
+  push(7,e)
+ State 2:
+  push(2,w)
+ State 3:
+  push(11,n)
+ State 4:
+  push(6,w)
+Answer: 13
+ State 0:
+ State 1:
+  push(7,e)
+ State 2:
+  push(6,w)
+ State 3:
+  push(2,w)
+ State 4:
+  push(11,n)
+Answer: 14
+ State 0:
+ State 1:
+  push(6,w)
+ State 2:
+  push(7,e)
+ State 3:
+  push(2,w)
+ State 4:
+  push(11,n)
+Answer: 15
+ State 0:
+ State 1:
+  push(2,w)
+ State 2:
+  push(7,e)
+ State 3:
+  push(11,n)
+ State 4:
+  push(6,e)
+Answer: 16
+ State 0:
+ State 1:
+  push(2,w)
+ State 2:
+  push(7,e)
+ State 3:
+  push(11,n)
+ State 4:
+  push(6,w)
+Answer: 17
+ State 0:
+ State 1:
+  push(2,w)
+ State 2:
+  push(7,e)
+ State 3:
+  push(6,w)
+ State 4:
+  push(11,n)
+Answer: 18
+ State 0:
+ State 1:
+  push(2,w)
+ State 2:
+  push(6,w)
+ State 3:
+  push(7,e)
+ State 4:
+  push(11,n)
+Answer: 19
+ State 0:
+ State 1:
+  push(7,e)
+ State 2:
+  push(6,w)
+ State 3:
+  push(3,e)
+ State 4:
+  push(12,n)
+Answer: 20
+ State 0:
+ State 1:
+  push(6,w)
+ State 2:
+  push(7,e)
+ State 3:
+  push(3,e)
+ State 4:
+  push(12,n)
+Answer: 21
+ State 0:
+ State 1:
+  push(6,w)
+ State 2:
+  push(7,e)
+ State 3:
+  push(3,e)
+ State 4:
+  push(13,s)
+Answer: 22
+ State 0:
+ State 1:
+  push(7,e)
+ State 2:
+  push(6,w)
+ State 3:
+  push(3,e)
+ State 4:
+  push(13,s)
+Answer: 23
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(2,w)
+ State 3:
+  push(6,e)
+ State 4:
+  push(11,n)
+Answer: 24
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(12,n)
+ State 3:
+  push(6,w)
+ State 4:
+  push(12,n)
+Answer: 25
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(12,n)
+ State 3:
+  push(7,e)
+ State 4:
+  push(12,n)
+Answer: 26
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(11,s)
+ State 3:
+  push(6,e)
+ State 4:
+  push(12,n)
+Answer: 27
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(11,s)
+ State 3:
+  push(5,e)
+ State 4:
+  push(12,n)
+Answer: 28
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(11,s)
+ State 3:
+  push(5,w)
+ State 4:
+  push(12,n)
+Answer: 29
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(12,n)
+ State 3:
+  push(6,e)
+ State 4:
+  push(12,n)
+Answer: 30
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(12,n)
+ State 3:
+  push(5,e)
+ State 4:
+  push(12,n)
+Answer: 31
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(12,n)
+ State 3:
+  push(5,w)
+ State 4:
+  push(12,n)
+Answer: 32
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(11,s)
+ State 3:
+  push(4,w)
+ State 4:
+  push(12,n)
+Answer: 33
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(11,s)
+ State 3:
+  push(5,e)
+ State 4:
+  push(12,n)
+Answer: 34
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(12,n)
+ State 3:
+  push(11,s)
+ State 4:
+  push(5,e)
+Answer: 35
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(12,n)
+ State 3:
+  push(12,n)
+ State 4:
+  push(5,e)
+Answer: 36
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(11,s)
+ State 3:
+  push(12,n)
+ State 4:
+  push(5,e)
+Answer: 37
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(6,w)
+ State 3:
+  push(12,n)
+ State 4:
+  push(12,n)
+Answer: 38
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(7,e)
+ State 3:
+  push(12,n)
+ State 4:
+  push(12,n)
+Answer: 39
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(6,e)
+ State 3:
+  push(12,n)
+ State 4:
+  push(12,n)
+Answer: 40
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(5,e)
+ State 3:
+  push(12,n)
+ State 4:
+  push(12,n)
+Answer: 41
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(5,w)
+ State 3:
+  push(12,n)
+ State 4:
+  push(12,n)
+Answer: 42
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(5,e)
+ State 3:
+  push(11,s)
+ State 4:
+  push(12,n)
+Answer: 43
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(5,w)
+ State 3:
+  push(11,s)
+ State 4:
+  push(12,n)
+Answer: 44
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(6,w)
+ State 3:
+  push(11,s)
+ State 4:
+  push(12,n)
+Answer: 45
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(7,e)
+ State 3:
+  push(11,s)
+ State 4:
+  push(12,n)
+Answer: 46
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(6,e)
+ State 3:
+  push(11,s)
+ State 4:
+  push(12,n)
+Answer: 47
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(3,w)
+ State 3:
+  push(7,e)
+ State 4:
+  push(12,s)
+Answer: 48
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(7,e)
+ State 3:
+  push(3,w)
+ State 4:
+  push(12,s)
+Answer: 49
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(7,e)
+ State 3:
+  push(4,e)
+ State 4:
+  push(12,n)
+Answer: 50
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(6,e)
+ State 3:
+  push(3,e)
+ State 4:
+  push(12,n)
+Answer: 51
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(6,w)
+ State 3:
+  push(11,s)
+ State 4:
+  push(11,s)
+Answer: 52
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(7,e)
+ State 3:
+  push(11,s)
+ State 4:
+  push(11,s)
+Answer: 53
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(7,e)
+ State 3:
+  push(3,w)
+ State 4:
+  push(11,n)
+Answer: 54
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(3,w)
+ State 3:
+  push(7,e)
+ State 4:
+  push(11,n)
+Answer: 55
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(7,e)
+ State 3:
+  push(12,n)
+ State 4:
+  push(11,s)
+Answer: 56
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(6,w)
+ State 3:
+  push(12,n)
+ State 4:
+  push(11,s)
+Answer: 57
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(12,n)
+ State 3:
+  push(6,w)
+ State 4:
+  push(11,s)
+Answer: 58
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(12,n)
+ State 3:
+  push(7,e)
+ State 4:
+  push(11,s)
+Answer: 59
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(11,s)
+ State 3:
+  push(6,e)
+ State 4:
+  push(11,s)
+Answer: 60
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(11,s)
+ State 3:
+  push(5,e)
+ State 4:
+  push(11,s)
+Answer: 61
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(11,s)
+ State 3:
+  push(5,w)
+ State 4:
+  push(11,s)
+Answer: 62
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(6,e)
+ State 3:
+  push(2,w)
+ State 4:
+  push(11,n)
+Answer: 63
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(6,e)
+ State 3:
+  push(12,n)
+ State 4:
+  push(11,s)
+Answer: 64
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(5,w)
+ State 3:
+  push(12,n)
+ State 4:
+  push(11,s)
+Answer: 65
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(5,e)
+ State 3:
+  push(12,n)
+ State 4:
+  push(11,s)
+Answer: 66
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(12,n)
+ State 3:
+  push(5,e)
+ State 4:
+  push(11,s)
+Answer: 67
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(12,n)
+ State 3:
+  push(5,w)
+ State 4:
+  push(11,s)
+Answer: 68
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(12,n)
+ State 3:
+  push(6,e)
+ State 4:
+  push(11,s)
+Answer: 69
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(6,e)
+ State 3:
+  push(11,s)
+ State 4:
+  push(11,s)
+Answer: 70
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(5,e)
+ State 3:
+  push(11,s)
+ State 4:
+  push(11,s)
+Answer: 71
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(5,w)
+ State 3:
+  push(11,s)
+ State 4:
+  push(11,s)
+Answer: 72
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(11,s)
+ State 3:
+  push(5,e)
+ State 4:
+  push(11,s)
+Answer: 73
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(11,s)
+ State 3:
+  push(4,w)
+ State 4:
+  push(11,s)
+Answer: 74
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(6,e)
+ State 3:
+  push(2,w)
+ State 4:
+  push(12,s)
+Answer: 75
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(2,w)
+ State 3:
+  push(6,e)
+ State 4:
+  push(12,s)
+Answer: 76
+ State 0:
+ State 1:
+  push(12,n)
+ State 2:
+  push(7,e)
+ State 3:
+  push(4,e)
+ State 4:
+  push(13,s)
+Answer: 77
+ State 0:
+ State 1:
+  push(11,s)
+ State 2:
+  push(6,e)
+ State 3:
+  push(3,e)
+ State 4:
+  push(13,s)
+SATISFIABLE
+
+Models       : 77
+Calls        : 5
+Time         : 10.870s (Solving: 10.70s 1st Model: 0.15s Unsat: 0.96s)
+CPU Time     : 10.801s
+
+Choices      : 30820   
+Conflicts    : 23103    (Analyzed: 22914)
+Restarts     : 327      (Average: 70.07 Last: 114)
+Model-Level  : 11.6    
+Problems     : 5        (Average Length: 2.00 Splits: 0)
+Lemmas       : 27245    (Deleted: 11466)
+  Binary     : 228      (Ratio:   0.84%)
+  Ternary    : 200      (Ratio:   0.73%)
+  Conflict   : 22914    (Average Length:  119.5 Ratio:  84.10%) 
+  Loop       : 4331     (Average Length:   46.4 Ratio:  15.90%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+Backjumps    : 22914    (Average:  1.33 Max:  32 Sum:  30431)
+  Executed   : 22845    (Average:  1.32 Max:  32 Sum:  30262 Ratio:  99.44%)
+  Bounded    : 69       (Average:  2.45 Max:   9 Sum:    169 Ratio:   0.56%)
+
+Rules        : 23668   
+  Choice     : 4       
+Atoms        : 9321    
+Bodies       : 17291    (Original: 17290)
+Equivalences : 8562     (Atom=Atom: 2879 Body=Body: 1313 Other: 4370)
+Tight        : No       (SCCs: 4 Non-Hcfs: 0 Nodes: 5640 Gammas: 0)
+Variables    : 19326    (Eliminated:    0 Frozen: 9320)
+Constraints  : 72608    (Binary:  73.4% Ternary:  18.2% Other:   8.4%)
+

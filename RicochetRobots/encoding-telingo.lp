@@ -19,8 +19,8 @@ dir(south, -1).
 
 robot(R) :- pos(R,_,_).
 
-pos(R,1,I) :- pos(R,I,_).
-pos(R,-1,J) :- pos(R,_,J).
+pos_r(R,1,I) :- pos(R,I,_).
+pos_r(R,-1,J) :- pos(R,_,J).
 
 barrier(I+1,J,west ) :- barrier(I,J,east ), dim(I), dim(J), dim(I+1).
 barrier(I,J+1,north) :- barrier(I,J,south), dim(I), dim(J), dim(J+1).
@@ -45,23 +45,23 @@ go_foo(R,O) :- go(R,_,O).
 go(R,D) :- go(R,D,_).
 
 % robot R and robot RR share the same row/col L;
-sameLine(R,D,O,RR)  :- go(R,D,O), 'pos(R,-O,L), 'pos(RR,-O,L), R != RR.
-blocked(R,D,O,I+DI) :- go(R,D,O), 'pos(R,-O,L), not _conn(D,L,I), _dl(D,DI), _dim(I), _dim(I+DI).
-blocked(R,D,O,L)    :- sameLine(R,D,O,RR), 'pos(RR,O,L).
+sameLine(R,D,O,RR)  :- go(R,D,O), 'pos_r(R,-O,L), 'pos_r(RR,-O,L), R != RR.
+blocked(R,D,O,I+DI) :- go(R,D,O), 'pos_r(R,-O,L), not _conn(D,L,I), _dl(D,DI), _dim(I), _dim(I+DI).
+blocked(R,D,O,L)    :- sameLine(R,D,O,RR), 'pos_r(RR,O,L).
 
-reachable(R,D,O,I) :- go(R,D,O), 'pos(R,O,I).
+reachable(R,D,O,I) :- go(R,D,O), 'pos_r(R,O,I).
 reachable(R,D,O,I+DI) :- reachable(R,D,O,I), not blocked(R,D,O,I+DI), _dl(D,DI), _dim(I+DI).
 
-:- go(R,D,O), 'pos(R,O,I), blocked(R,D,O,I+DI), _dl(D,DI).
+:- go(R,D,O), 'pos_r(R,O,I), blocked(R,D,O,I+DI), _dl(D,DI).
 :- go(R,D,O), 'go(R,DD,O).
 
-pos(R,O,I) :- reachable(R,D,O,I), not reachable(R,D,O,I+DI), _dl(D,DI).
-pos(R,O,I) :- 'pos(R,O,I), not go_foo(R,O).
+pos_r(R,O,I) :- reachable(R,D,O,I), not reachable(R,D,O,I+DI), _dl(D,DI).
+pos_r(R,O,I) :- 'pos_r(R,O,I), not go_foo(R,O).
 
 #program final.
-:- _target(R,I,_), not pos(R,1,I).
-:- _target(R,_,J), not pos(R,-1,J).
+:- _target(R,I,_), not pos_r(R,1,I).
+:- _target(R,_,J), not pos_r(R,-1,J).
 
 #show go/2.
-#show selectDir/2.
-#show blocked/4.
+%#show selectDir/2.
+%#show blocked/4.

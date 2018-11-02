@@ -1,0 +1,251 @@
+telingo version 1.0
+Reading from encoding-telingo.lp ...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Solving...
+Answer: 1
+ State 0:
+ State 1:
+  put(6,7)
+ State 2:
+  put(7,10)
+ State 3:
+  put(1,9)
+ State 4:
+  put(9,10)
+ State 5:
+  put(7,8)
+ State 6:
+  put(3,10)
+ State 7:
+  put(8,9)
+ State 8:
+  put(9,10)
+ State 9:
+  put(1,21)
+ State 10:
+  put(10,20)
+ State 11:
+  put(3,19)
+ State 12:
+  put(19,20)
+ State 13:
+  put(20,21)
+ State 14:
+  put(1,18)
+ State 15:
+  put(10,17)
+ State 16:
+  put(17,18)
+ State 17:
+  put(1,16)
+ State 18:
+  put(15,18)
+ State 19:
+  put(16,17)
+ State 20:
+  put(17,18)
+ State 21:
+  put(15,21)
+ State 22:
+  put(10,20)
+ State 23:
+  put(18,19)
+Answer: 2
+ State 0:
+ State 1:
+  put(6,7)
+ State 2:
+  put(7,10)
+ State 3:
+  put(1,9)
+ State 4:
+  put(9,10)
+ State 5:
+  put(7,8)
+ State 6:
+  put(3,10)
+ State 7:
+  put(8,9)
+ State 8:
+  put(9,10)
+ State 9:
+  put(10,21)
+ State 10:
+  put(1,20)
+ State 11:
+  put(3,19)
+ State 12:
+  put(19,20)
+ State 13:
+  put(20,21)
+ State 14:
+  put(1,18)
+ State 15:
+  put(10,17)
+ State 16:
+  put(17,18)
+ State 17:
+  put(1,16)
+ State 18:
+  put(15,18)
+ State 19:
+  put(16,17)
+ State 20:
+  put(17,18)
+ State 21:
+  put(15,21)
+ State 22:
+  put(10,20)
+ State 23:
+  put(18,19)
+Answer: 3
+ State 0:
+ State 1:
+  put(6,7)
+ State 2:
+  put(7,10)
+ State 3:
+  put(1,9)
+ State 4:
+  put(9,10)
+ State 5:
+  put(7,8)
+ State 6:
+  put(3,10)
+ State 7:
+  put(8,9)
+ State 8:
+  put(1,21)
+ State 9:
+  put(9,10)
+ State 10:
+  put(10,20)
+ State 11:
+  put(3,19)
+ State 12:
+  put(19,20)
+ State 13:
+  put(20,21)
+ State 14:
+  put(1,18)
+ State 15:
+  put(10,17)
+ State 16:
+  put(17,18)
+ State 17:
+  put(1,16)
+ State 18:
+  put(15,18)
+ State 19:
+  put(16,17)
+ State 20:
+  put(17,18)
+ State 21:
+  put(15,21)
+ State 22:
+  put(10,20)
+ State 23:
+  put(18,19)
+Answer: 4
+ State 0:
+ State 1:
+  put(6,7)
+ State 2:
+  put(7,10)
+ State 3:
+  put(1,9)
+ State 4:
+  put(9,10)
+ State 5:
+  put(7,8)
+ State 6:
+  put(3,10)
+ State 7:
+  put(8,9)
+ State 8:
+  put(9,10)
+ State 9:
+  put(10,21)
+ State 10:
+  put(1,20)
+ State 11:
+  put(3,19)
+ State 12:
+  put(19,20)
+ State 13:
+  put(1,18)
+ State 14:
+  put(20,21)
+ State 15:
+  put(10,17)
+ State 16:
+  put(17,18)
+ State 17:
+  put(1,16)
+ State 18:
+  put(15,18)
+ State 19:
+  put(16,17)
+ State 20:
+  put(17,18)
+ State 21:
+  put(15,21)
+ State 22:
+  put(10,20)
+ State 23:
+  put(18,19)
+SATISFIABLE
+
+Models       : 4
+Calls        : 24
+Time         : 200.908s (Solving: 199.68s 1st Model: 55.42s Unsat: 142.48s)
+CPU Time     : 200.427s
+
+Choices      : 367603  
+Conflicts    : 312151   (Analyzed: 312108)
+Restarts     : 1117     (Average: 279.42 Last: 10161)
+Model-Level  : 10.8    
+Problems     : 24       (Average Length: 2.00 Splits: 0)
+Lemmas       : 312108   (Deleted: 288580)
+  Binary     : 1252     (Ratio:   0.40%)
+  Ternary    : 2008     (Ratio:   0.64%)
+  Conflict   : 312108   (Average Length:  127.0 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
+  Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
+Backjumps    : 312108   (Average:  1.17 Max: 143 Sum: 364497)
+  Executed   : 311992   (Average:  1.17 Max: 142 Sum: 364331 Ratio:  99.95%)
+  Bounded    : 116      (Average:  1.43 Max:   2 Sum:    166 Ratio:   0.05%)
+
+Rules        : 84274    (Original: 73428)
+  Choice     : 69      
+Atoms        : 41890   
+Disjunctions : 0        (Original: 23)
+Bodies       : 72265    (Original: 61418)
+  Count      : 44       (Original: 92)
+Equivalences : 8762     (Atom=Atom: 307 Body=Body: 121 Other: 8334)
+Tight        : No       (SCCs: 3556 Non-Hcfs: 0 Nodes: 17780 Gammas: 0)
+Variables    : 38595    (Eliminated:    0 Frozen: 28643)
+Constraints  : 614430   (Binary:  95.4% Ternary:   3.0% Other:   1.7%)
+

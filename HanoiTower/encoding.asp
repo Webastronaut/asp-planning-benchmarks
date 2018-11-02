@@ -58,5 +58,6 @@ put(M,N,T) :- move(T,N), where(T,M), T=t.
 :- not on(T,N,N1), ongoal(N1,N), query(T), T=t.
 :- on(T,N,N1), not ongoal(N1,N), query(T), T=t.
 
+#show put/3.
 % Solution
 %#show put(M,N,T) : move(T,N), where(T,M), T=t.
