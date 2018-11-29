@@ -1,20 +1,9 @@
-%
-% Sokoban domain IPC 2008
-%
-% Adaptment from IPC 2008 domain description by GB Ianni, using the PDDL2ASP PLASP converter
-% http://www.cs.uni-potsdam.de/wv/pdfformat/gekaknsc11a.pdf
-
-% Problem description: https://www.mat.unical.it/aspcomp2013/Sokoban
-%
-%
-% Initial state
 #program initial.
 at_t(P,To) :- at(P,To).
 clear_t(P) :- clear(P).
 atgoal(S) :- isgoal(L), stone(S), at(S,L).
 
 #program dynamic.
-% GENERATE  >>>>>
 { occurs(some_action) }.
 1 <= {
 		pushtonongoal(P,S,Ppos,From,To,Dir) :
@@ -45,11 +34,6 @@ atgoal(S) :- isgoal(L), stone(S), at(S,L).
 		noop
 	} <= 1 :- occurs(some_action).
 
-% <<<<<  GENERATE
-
-% EFFECTS APPLY  >>>>>
-
-% push-to-nongoal/7, effects
 del(at(P,Ppos)) :- 	pushtonongoal(P,S,Ppos,From,To,Dir),
 					_movedir(Ppos,From,Dir),
 					_movedir(From,To,Dir),
@@ -114,7 +98,6 @@ del(atgoal(S)) :- 	pushtonongoal(P,S,Ppos,From,To,Dir),
 					Ppos != From,
 					From != To.
 
-% move/5, effects
 del(at(P,From)) :- 	move(P,From,To,Dir),
 					_movedir(From,To,Dir),
 					_player(P),
@@ -132,7 +115,6 @@ clear_t(From) :- 	move(P,From,To,Dir),
 					_player(P),
 					From != To.
 
-% push-to-goal/7, effects
 del(at(P,Ppos)) :- 	pushtogoal(P,S,Ppos,From,To,Dir),
 					_movedir(Ppos,From,Dir),
 					_movedir(From,To,Dir),
@@ -197,12 +179,7 @@ atgoal(S) :- 		pushtogoal(P,S,Ppos,From,To,Dir),
 					Ppos != To,
 					Ppos != From,
 					From != To.
-% <<<<<  EFFECTS APPLY
-%
 
-%
-%
-% INERTIA  >>>>>
 clear_t(L) :- 	'clear_t(L),
 				not del(clear(L)).
 atgoal(S) :- 	'atgoal(S),
@@ -210,14 +187,7 @@ atgoal(S) :- 	'atgoal(S),
 				_stone(S).
 at_t(T,L) :- 	'at_t(T,L),
 				not del(at(T,L)).
-% <<<<<  INERTIA
-%
 
-%
-%
-% PRECONDITIONS HOLD  >>>>>
-
-% push-to-nongoal/6, preconditions
 :- 	pushtonongoal(P,S,Ppos,From,To,Dir),
 	not preconditions_png(P,S,Ppos,From,To,Dir),
 	_movedir(Ppos,From,Dir),
@@ -240,7 +210,6 @@ preconditions_png(P,S,Ppos,From,To,Dir) :- 	'at_t(P,Ppos),
 											Ppos != From,
 											From != To.
 
-% move/4, preconditions
 :- 	move(P,From,To,Dir),
 	not preconditions_m(P,From,To,Dir),
 	_movedir(From,To,Dir),
@@ -253,7 +222,6 @@ preconditions_m(P,From,To,Dir) :- 	'at_t(P,From),
 									_player(P),
 									From != To.
 
-% push-to-goal/6, preconditions
 :- 	pushtogoal(P,S,Ppos,From,To,Dir),
 	not preconditions_pg(P,S,Ppos,From,To,Dir),
 	_movedir(Ppos,From,Dir),
@@ -276,25 +244,9 @@ preconditions_pg(P,S,Ppos,From,To,Dir) :- 	'at_t(P,Ppos),
 											Ppos != From,
 											From != To.
 
-% <<<<<  PRECONDITIONS HOLD
-%
-%
-% Goal Reached check
-%
-%goalreached :- step(T), N = #count{ X : atgoal(X,T), goal(X) }, N = #count{ X1 : goal(X1) }.
-%:- not goalreached.
-
 goalreached :- 	'goalreached.
 goalreached :- 	N = #count{ X : atgoal(X), _goal(X) },
 				N = #count{ X1 : _goal(X1) }.
 
 #program final.
 :- not goalreached.
-
-% Gringo directives to show / hide particular literals
-%#hide.
-#show pushtonongoal/6.
-#show move/4.
-#show pushtogoal/6.
-
-% at mit unterstrich in anderen Prädikaten auf Korrektheit prüfen
