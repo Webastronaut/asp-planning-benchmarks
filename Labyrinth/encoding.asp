@@ -29,8 +29,8 @@ neg_goal(t) :- goal(X,Y,t), not reach(X,Y,t).
 
 #program step(t).
 { occurs(some_action,t) }.
-rrpush(t)   :- neg_goal(S), S = t-1, not ccpush(t), occurs(some_action,t).
-ccpush(t)   :- neg_goal(S), S = t-1, not rrpush(t), occurs(some_action,t).
+rrpush(t)   :- neg_goal(t-1), not ccpush(t), occurs(some_action,t).
+ccpush(t)   :- neg_goal(t-1), not rrpush(t), occurs(some_action,t).
 
 orpush(X,t) :- row(X), row(XX), rpush(XX,t), X != XX.
 ocpush(Y,t) :- col(Y), col(YY), cpush(YY,t), Y != YY.
@@ -49,11 +49,11 @@ shift(XX,YY,X,Y,t) :- neighbor(n,XX,YY,X,Y), push(YY,n,t).
 shift(XX,YY,X,Y,t) :- neighbor(s,XX,YY,X,Y), push(YY,s,t).
 shift( X, Y,X,Y,t) :- field(X,Y), not push(X,e,t), not push(X,w,t), not push(Y,n,t), not push(Y,s,t).
 
-conn(X,Y,D,t) :- conn(XX,YY,D,S), S = t-1, dir(D), shift(XX,YY,X,Y,t).
+conn(X,Y,D,t) :- conn(XX,YY,D,t-1), dir(D), shift(XX,YY,X,Y,t).
 
-goal(X,Y,t) :- goal(XX,YY,S), S = t-1, shift(XX,YY,X,Y,t).
+goal(X,Y,t) :- goal(XX,YY,t-1), shift(XX,YY,X,Y,t).
 
-reach(X,Y,t) :- reach(XX,YY,S), S = t-1, shift(XX,YY,X,Y,t).
+reach(X,Y,t) :- reach(XX,YY,t-1), shift(XX,YY,X,Y,t).
 reach(X,Y,t) :- reach(XX,YY,t), dneighbor(D,XX,YY,X,Y), conn(XX,YY,D,t), conn(X,Y,E,t), inverse(D,E).
 
 #program check(t).

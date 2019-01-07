@@ -308,7 +308,6 @@ step(102).
 step(103).
 step(104).
 step(105).
-
 #program initial.
 at_t(P,To) :- at(P,To).
 clear_t(P) :- clear(P).
@@ -344,8 +343,6 @@ atgoal(S) :- isgoal(L), stone(S), at(S,L).
 	    
 		noop
 	} <= 1 :- occurs(some_action).
-
-
 
 del(at(P,Ppos)) :- 	pushtonongoal(P,S,Ppos,From,To,Dir),
 					_movedir(Ppos,From,Dir),
@@ -501,7 +498,6 @@ atgoal(S) :- 	'atgoal(S),
 at_t(T,L) :- 	'at_t(T,L),
 				not del(at(T,L)).
 
-
 :- 	pushtonongoal(P,S,Ppos,From,To,Dir),
 	not preconditions_png(P,S,Ppos,From,To,Dir),
 	_movedir(Ppos,From,Dir),
@@ -558,12 +554,9 @@ preconditions_pg(P,S,Ppos,From,To,Dir) :- 	'at_t(P,Ppos),
 											Ppos != From,
 											From != To.
 
-
 goalreached :- 	'goalreached.
 goalreached :- 	N = #count{ X : atgoal(X), _goal(X) },
 				N = #count{ X1 : _goal(X1) }.
 
 #program final.
 :- not goalreached.
-
-

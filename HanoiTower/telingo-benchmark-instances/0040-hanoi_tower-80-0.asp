@@ -90,18 +90,12 @@ ongoal(10,3).
 ongoal(5,4).
 ongoal(6,5).
 ongoal(9,6).
-
-
-#program initial.
 on(N1,N) :- on0(N,N1).
 
+#program always.
+:- on(N1,N), N1>=N.
+
 #program dynamic.
-
-
-
-
-
-
 { occurs(some_action) }.
 1 { move(N) : _disk(N) } 1 :- occurs(some_action).
 
@@ -118,11 +112,6 @@ on(N1,N) :- on0(N,N1).
 on(N1,N) :- move(N), where(N1).
 on(N,N1) :- 'on(N,N1), not move(N1).
 
-put(M,N) : move(N), where(M).
-
-:- on(N1,N), N1>=N.
-
 #program final.
 :- not on(N,N1), _ongoal(N1,N).
 :- on(N,N1), not _ongoal(N1,N).
-

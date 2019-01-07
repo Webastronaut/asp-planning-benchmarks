@@ -11,10 +11,7 @@ action(load(P,T,L)) :- package(P), truck(T), location(L).
 action(drive(T,L1,L2)) :- fuelcost(Fueldelta,L1,L2), truck(T).
 
 #program step(t).
-{ occurs(A,t) : action(A) } <= 1.
-
-done(t) :- occurs(A,t).
-:- done(t), not done(t-1), 1 < t.
+1 { occurs(A,t) : action(A) } 1.
 
 unload(P,T,L,t) :- occurs(unload(P,T,L),t).
 load(P,T,L,t) :- occurs(load(P,T,L),t).

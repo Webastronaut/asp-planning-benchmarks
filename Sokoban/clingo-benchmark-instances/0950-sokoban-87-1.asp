@@ -302,7 +302,6 @@ step(85).
 step(86).
 step(87).
 #include <incmode>.
-
 #program base.
 at(P,To,0) :- at(P,To).
 clear(P,0) :- clear(P).
@@ -311,7 +310,7 @@ atgoal(S,0) :- isgoal(L), stone(S), at(S,L).
 #program step(t).
 { occurs(some_action,t) }.
 1 <= {
-		pushtonongoal(P,S,Ppos,From,To,Dir,T) :
+		pushtonongoal(P,S,Ppos,From,To,Dir,t) :
 		movedir(Ppos,From,Dir),
 		movedir(From,To,Dir),
 		isnongoal(To),
@@ -321,12 +320,12 @@ atgoal(S,0) :- isgoal(L), stone(S), at(S,L).
 		Ppos != From, 
 		From != To;
 	    
-		move(P,From,To,Dir,T) :
+		move(P,From,To,Dir,t) :
 		movedir(From,To,Dir),
 		player(P), 
 		From != To;
 	    
-		pushtogoal(P,S,Ppos,From,To,Dir,T) :
+		pushtogoal(P,S,Ppos,From,To,Dir,t) :
 		movedir(Ppos,From,Dir),
 		movedir(From,To,Dir),
 		isgoal(To), 
@@ -336,104 +335,91 @@ atgoal(S,0) :- isgoal(L), stone(S), at(S,L).
 		Ppos != From, 
 		From != To;
 	    
-		noop(T)
-	} <= 1 :- T=t, occurs(some_action,T).
+		noop(t)
+	} <= 1 :- occurs(some_action,t).
 
+del(at(P,Ppos),t) :- 	pushtonongoal(P,S,Ppos,From,To,Dir,t),
+						movedir(Ppos,From,Dir),
+						movedir(From,To,Dir),
+						isnongoal(To),
+						player(P),
+						stone(S),
+						Ppos != To,
+						Ppos != From,
+						From != To.
+del(at(S,From),t) :- 	pushtonongoal(P,S,Ppos,From,To,Dir,t),
+						movedir(Ppos,From,Dir),
+						movedir(From,To,Dir),
+						isnongoal(To),
+						player(P),
+						stone(S),
+						Ppos != To,
+						Ppos != From,
+						From != To.
+del(clear(To),t) :- 	pushtonongoal(P,S,Ppos,From,To,Dir,t),
+						movedir(Ppos,From,Dir),
+						movedir(From,To,Dir),
+						isnongoal(To),
+						player(P),
+						stone(S),
+						Ppos != To,
+						Ppos != From,
+						From != To.
+at(P,From,t) :- 		pushtonongoal(P,S,Ppos,From,To,Dir,t),
+						movedir(Ppos,From,Dir),
+						movedir(From,To,Dir),
+						isnongoal(To),
+						player(P),
+						stone(S),
+						Ppos != To,
+						Ppos != From,
+						From != To.
+at(S,To,t) :- 			pushtonongoal(P,S,Ppos,From,To,Dir,t),
+						movedir(Ppos,From,Dir),
+						movedir(From,To,Dir),
+						isnongoal(To),
+						player(P),
+						stone(S),
+						Ppos != To,
+						Ppos != From,
+						From != To.
+clear(Ppos,t) :- 		pushtonongoal(P,S,Ppos,From,To,Dir,t),
+						movedir(Ppos,From,Dir),
+						movedir(From,To,Dir),
+						isnongoal(To),
+						player(P),
+						stone(S),
+						Ppos != To,
+						Ppos != From,
+						From != To.
+del(atgoal(S),t) :- 	pushtonongoal(P,S,Ppos,From,To,Dir,t),
+						movedir(Ppos,From,Dir),
+						movedir(From,To,Dir),
+						isnongoal(To),
+						player(P),
+						stone(S),
+						Ppos != To,
+						Ppos != From,
+						From != To.
 
+del(at(P,From),t) :- 	move(P,From,To,Dir,t),
+						movedir(From,To,Dir),
+						player(P),
+						From != To.
+del(clear(To),t) :- 	move(P,From,To,Dir,t),
+						movedir(From,To,Dir),
+						player(P),
+						From != To.
+at(P,To,t) :- 			move(P,From,To,Dir,t),
+						movedir(From,To,Dir),
+						player(P),
+						From != To.
+clear(From,t) :- 		move(P,From,To,Dir,t),
+						movedir(From,To,Dir),
+						player(P),
+						From != To.
 
-del(at(P,Ppos),Ti) :- 	pushtonongoal(P,S,Ppos,From,To,Dir,Ti),
-						movedir(Ppos,From,Dir),
-						movedir(From,To,Dir),
-						isnongoal(To),
-						player(P),
-						stone(S),
-						Ppos != To,
-						Ppos != From,
-						From != To,
-						Ti=t.
-del(at(S,From),Ti) :- 	pushtonongoal(P,S,Ppos,From,To,Dir,Ti),
-						movedir(Ppos,From,Dir),
-						movedir(From,To,Dir),
-						isnongoal(To),
-						player(P),
-						stone(S),
-						Ppos != To,
-						Ppos != From,
-						From != To,
-						Ti=t.
-del(clear(To),Ti) :- 	pushtonongoal(P,S,Ppos,From,To,Dir,Ti),
-						movedir(Ppos,From,Dir),
-						movedir(From,To,Dir),
-						isnongoal(To),
-						player(P),
-						stone(S),
-						Ppos != To,
-						Ppos != From,
-						From != To,
-						Ti=t.
-at(P,From,Ti) :- 		pushtonongoal(P,S,Ppos,From,To,Dir,Ti),
-						movedir(Ppos,From,Dir),
-						movedir(From,To,Dir),
-						isnongoal(To),
-						player(P),
-						stone(S),
-						Ppos != To,
-						Ppos != From,
-						From != To,
-						Ti=t.
-at(S,To,Ti) :- 			pushtonongoal(P,S,Ppos,From,To,Dir,Ti),
-						movedir(Ppos,From,Dir),
-						movedir(From,To,Dir),
-						isnongoal(To),
-						player(P),
-						stone(S),
-						Ppos != To,
-						Ppos != From,
-						From != To,
-						Ti=t.
-clear(Ppos,Ti) :- 		pushtonongoal(P,S,Ppos,From,To,Dir,Ti),
-						movedir(Ppos,From,Dir),
-						movedir(From,To,Dir),
-						isnongoal(To),
-						player(P),
-						stone(S),
-						Ppos != To,
-						Ppos != From,
-						From != To,
-						Ti=t.
-del(atgoal(S),Ti) :- 	pushtonongoal(P,S,Ppos,From,To,Dir,Ti),
-						movedir(Ppos,From,Dir),
-						movedir(From,To,Dir),
-						isnongoal(To),
-						player(P),
-						stone(S),
-						Ppos != To,
-						Ppos != From,
-						From != To,
-						Ti=t.
-
-del(at(P,From),Ti) :- 	move(P,From,To,Dir,Ti),
-						movedir(From,To,Dir),
-						player(P),
-						From != To,
-						Ti=t.
-del(clear(To),Ti) :- 	move(P,From,To,Dir,Ti),
-						movedir(From,To,Dir),
-						player(P),
-						From != To,
-						Ti=t.
-at(P,To,Ti) :- 			move(P,From,To,Dir,Ti),
-						movedir(From,To,Dir),
-						player(P),
-						From != To,
-						Ti=t.
-clear(From,Ti) :- 		move(P,From,To,Dir,Ti),
-						movedir(From,To,Dir),
-						player(P),
-						From != To,
-						Ti=t.
-
-del(at(P,Ppos),Ti) :- 	pushtogoal(P,S,Ppos,From,To,Dir,Ti),
+del(at(P,Ppos),t) :- 	pushtogoal(P,S,Ppos,From,To,Dir,t),
 						movedir(Ppos,From,Dir),
 						movedir(From,To,Dir),
 						isgoal(To),
@@ -441,9 +427,8 @@ del(at(P,Ppos),Ti) :- 	pushtogoal(P,S,Ppos,From,To,Dir,Ti),
 						stone(S),
 						Ppos != To,
 						Ppos != From,
-						From != To,
-						Ti=t.
-del(at(S,From),Ti) :- 	pushtogoal(P,S,Ppos,From,To,Dir,Ti),
+						From != To.
+del(at(S,From),t) :- 	pushtogoal(P,S,Ppos,From,To,Dir,t),
 						movedir(Ppos,From,Dir),
 						movedir(From,To,Dir),
 						isgoal(To),
@@ -451,9 +436,8 @@ del(at(S,From),Ti) :- 	pushtogoal(P,S,Ppos,From,To,Dir,Ti),
 						stone(S),
 						Ppos != To,
 						Ppos != From,
-						From != To,
-						Ti=t.
-del(clear(To),Ti) :- 	pushtogoal(P,S,Ppos,From,To,Dir,Ti),
+						From != To.
+del(clear(To),t) :- 	pushtogoal(P,S,Ppos,From,To,Dir,t),
 						movedir(Ppos,From,Dir),
 						movedir(From,To,Dir),
 						isgoal(To),
@@ -461,9 +445,8 @@ del(clear(To),Ti) :- 	pushtogoal(P,S,Ppos,From,To,Dir,Ti),
 						stone(S),
 						Ppos != To,
 						Ppos != From,
-						From != To,
-						Ti=t.
-at(P,From,Ti) :- 		pushtogoal(P,S,Ppos,From,To,Dir,Ti),
+						From != To.
+at(P,From,t) :- 		pushtogoal(P,S,Ppos,From,To,Dir,t),
 						movedir(Ppos,From,Dir),
 						movedir(From,To,Dir),
 						isgoal(To),
@@ -471,9 +454,8 @@ at(P,From,Ti) :- 		pushtogoal(P,S,Ppos,From,To,Dir,Ti),
 						stone(S),
 						Ppos != To,
 						Ppos != From,
-						From != To,
-						Ti=t.
-at(S,To,Ti) :- 			pushtogoal(P,S,Ppos,From,To,Dir,Ti),
+						From != To.
+at(S,To,t) :- 			pushtogoal(P,S,Ppos,From,To,Dir,t),
 						movedir(Ppos,From,Dir),
 						movedir(From,To,Dir),
 						isgoal(To),
@@ -481,9 +463,8 @@ at(S,To,Ti) :- 			pushtogoal(P,S,Ppos,From,To,Dir,Ti),
 						stone(S),
 						Ppos != To,
 						Ppos != From,
-						From != To,
-						Ti=t.
-clear(Ppos,Ti) :- 		pushtogoal(P,S,Ppos,From,To,Dir,Ti),
+						From != To.
+clear(Ppos,t) :- 		pushtogoal(P,S,Ppos,From,To,Dir,t),
 						movedir(Ppos,From,Dir),
 						movedir(From,To,Dir),
 						isgoal(To),
@@ -491,9 +472,8 @@ clear(Ppos,Ti) :- 		pushtogoal(P,S,Ppos,From,To,Dir,Ti),
 						stone(S),
 						Ppos != To,
 						Ppos != From,
-						From != To,
-						Ti=t.
-atgoal(S,Ti) :- 		pushtogoal(P,S,Ppos,From,To,Dir,Ti),
+						From != To.
+atgoal(S,t) :- 		pushtogoal(P,S,Ppos,From,To,Dir,t),
 						stone(S),
 						movedir(Ppos,From,Dir),
 						movedir(From,To,Dir),
@@ -502,23 +482,18 @@ atgoal(S,Ti) :- 		pushtogoal(P,S,Ppos,From,To,Dir,Ti),
 						stone(S),
 						Ppos != To,
 						Ppos != From,
-						From != To,
-						Ti=t.
+						From != To.
 
-clear(L,Ti) :- 	clear(L,Ti-1),
-				not del(clear(L),Ti ),
-				Ti=t.
-atgoal(S,Ti) :- atgoal(S,Ti-1),
-				not del(atgoal(S),Ti),
-				stone(S),
-				Ti=t.
-at(T,L,Ti) :- 	at(T,L,Ti-1),
-				not del(at(T,L),Ti ),
-				Ti=t.
+clear(L,t) :- 	clear(L,t-1),
+				not del(clear(L),t).
+atgoal(S,t) :- atgoal(S,t-1),
+				not del(atgoal(S),t),
+				stone(S).
+at(T,L,t) :- 	at(T,L,t-1),
+				not del(at(T,L),t).
 
-
-:- 	pushtonongoal(P,S,Ppos,From,To,Dir,Ti),
-	not preconditions_png(P,S,Ppos,From,To,Dir,Ti),
+:- 	pushtonongoal(P,S,Ppos,From,To,Dir,t),
+	not preconditions_png(P,S,Ppos,From,To,Dir,t),
 	movedir(Ppos,From,Dir),
 	movedir(From,To,Dir),
 	isnongoal(To),
@@ -526,11 +501,10 @@ at(T,L,Ti) :- 	at(T,L,Ti-1),
 	stone(S),
 	Ppos != To,
 	Ppos != From,
-	From != To,
-	Ti=t.
-preconditions_png(P,S,Ppos,From,To,Dir,Ti) :- 	at(P,Ppos,Ti-1),
-												at(S,From,Ti-1),
-												clear(To,Ti-1),
+	From != To.
+preconditions_png(P,S,Ppos,From,To,Dir,t) :- 	at(P,Ppos,t-1),
+												at(S,From,t-1),
+												clear(To,t-1),
 												movedir(Ppos,From,Dir),
 												movedir(From,To,Dir),
 												isnongoal(To),
@@ -538,25 +512,22 @@ preconditions_png(P,S,Ppos,From,To,Dir,Ti) :- 	at(P,Ppos,Ti-1),
 												stone(S),
 												Ppos != To,
 												Ppos != From,
-												From != To,
-												Ti=t.
+												From != To.
 
-:- 	move(P,From,To,Dir,Ti),
-	not preconditions_m(P,From,To,Dir,Ti),
+:- 	move(P,From,To,Dir,t),
+	not preconditions_m(P,From,To,Dir,t),
 	movedir(From,To,Dir),
 	player(P),
-	From != To,
-	Ti=t.
-preconditions_m(P,From,To,Dir,Ti) :- 	at(P,From,Ti-1),
-										clear(To,Ti-1),
+	From != To.
+preconditions_m(P,From,To,Dir,t) :- 	at(P,From,t-1),
+										clear(To,t-1),
 										movedir(From,To,Dir),
 										movedir(From,To,Dir),
 										player(P),
-										From != To,
-										Ti=t.
+										From != To.
 
-:- 	pushtogoal(P,S,Ppos,From,To,Dir,Ti),
-	not preconditions_pg(P,S,Ppos,From,To,Dir,Ti),
+:- 	pushtogoal(P,S,Ppos,From,To,Dir,t),
+	not preconditions_pg(P,S,Ppos,From,To,Dir,t),
 	movedir(Ppos,From,Dir),
 	movedir(From,To,Dir),
 	isgoal(To),
@@ -564,11 +535,10 @@ preconditions_m(P,From,To,Dir,Ti) :- 	at(P,From,Ti-1),
 	stone(S),
 	Ppos != To,
 	Ppos != From,
-	From != To,
-	Ti=t.
-preconditions_pg(P,S,Ppos,From,To,Dir,Ti) :- 	at(P,Ppos,Ti-1),
-												at(S,From,Ti-1),
-												clear(To,Ti-1),
+	From != To.
+preconditions_pg(P,S,Ppos,From,To,Dir,t) :- 	at(P,Ppos,t-1),
+												at(S,From,t-1),
+												clear(To,t-1),
 												movedir(Ppos,From,Dir),
 												movedir(From,To,Dir),
 												isgoal(To),
@@ -576,16 +546,11 @@ preconditions_pg(P,S,Ppos,From,To,Dir,Ti) :- 	at(P,Ppos,Ti-1),
 												stone(S),
 												Ppos != To,
 												Ppos != From,
-												From != To,
-												Ti=t.
+												From != To.
 
-
-goalreached(T) :- 	goalreached(T-1),
-					T=t.
-goalreached(T) :- 	T=t,
-					N = #count{ X : atgoal(X,T), goal(X) },
+goalreached(t) :- 	goalreached(t-1).
+goalreached(t) :- 	N = #count{ X : atgoal(X,t), goal(X) },
 					N = #count{ X1 : goal(X1) }.
 
 #program check(t).
 :- not goalreached(t), query(t).
-

@@ -81,36 +81,28 @@ ongoal(8,7).
 ongoal(9,8).
 ongoal(10,9).
 #include <incmode>.
-
 on(0,N1,N) :- on0(N,N1).
 
-
 #program check(t).
-:- t=T, on(T,N1,N), N1>=N.
-
+:- on(t,N1,N), N1>=N.
 
 #program step(t).
-{ occurs(some_action,T) } :- T=t.
-1 { move(T,N) : disk(N) } 1 :- occurs(some_action,T), T=t.
+{ occurs(some_action,t) }.
+1 { move(t,N) : disk(N) } 1 :- occurs(some_action,t).
 
-1 { where(T,N) : disk(N) }1 :- occurs(some_action,T), T=t.
+1 { where(t,N) : disk(N) }1 :- occurs(some_action,t).
 
-:- move(T,N), N<5, T=t.
+:- move(t,N), N<5.
 
-:- on(T-1,N,N1), move(T,N), T=t.
+:- on(t-1,N,N1), move(t,N).
 
-:- on(T-1,N,N1), where(T,N), T=t.
+:- on(t-1,N,N1), where(t,N).
 
-:- move(T,N), move(TM1,N), TM1=T-1, T=t.
+:- move(t,N), move(t-1,N).
 
-on(T,N1,N) :- move(T,N), where(T,N1), T=t.
-on(T,N,N1) :- T=t,
-              on(T-1,N,N1), not move(T,N1).
-
-put(M,N,T) :- move(T,N), where(T,M), T=t.
-
+on(t,N1,N) :- move(t,N), where(t,N1).
+on(t,N,N1) :- on(t-1,N,N1), not move(t,N1).
 
 #program check(t).
-:- not on(T,N,N1), ongoal(N1,N), query(T), T=t.
-:- on(T,N,N1), not ongoal(N1,N), query(T), T=t.
-
+:- not on(t,N,N1), ongoal(N1,N), query(t).
+:- on(t,N,N1), not ongoal(N1,N), query(t).

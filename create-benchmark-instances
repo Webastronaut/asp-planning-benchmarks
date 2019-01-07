@@ -4,23 +4,38 @@
 
 # for telingo: ./create-benchmark-instances HanoiTower/ HanoiTower/telingo-benchmark-instances/ 1
 
-DIR_ENC=$1
-DIR_OUT=$2
-ENC=$3
+ENC=$1
 
-mkdir $DIR_OUT
+if [[ $ENC == 0 ]];
+then
+    DIR_OUT="clingo-benchmark-instances/"
+else
+    DIR_OUT="telingo-benchmark-instances/"
+fi
 
-for file in `ls $DIR_ENC`; do
-    if [[ $file =~ ^[0-9]{3,4}.*\.asp$ ]];
-    then 
-        if [[ $ENC == 0 ]];
-        then
-            # only test instances starting with 3-4 numbers are of interest
-            cat ./$DIR_ENC$file ./incmode.lp ./${DIR_ENC}encoding.asp | sed '/^#show/ d' | sed '/^%/ d' > ./$DIR_OUT$file
-        else
-            cat ./$DIR_ENC$file ./${DIR_ENC}encoding-telingo.lp | sed '/^#show/ d' | sed '/^%/ d' > ./$DIR_OUT$file
+problem_folder='"./HanoiTower/" "./Labyrinth/" "./Nomistery/" "./RicochetRobots/" "./Sokoban/" "Visit-all/"'
+
+for problem in $problem_folder; do
+    DIR_ENC=$1
+    DIR_OUT=$2
+    ENC=$3
+
+    echo $problem$DIR_OUT
+    #mkdir $problem$DIR_OUT
+: '
+    for file in `ls $DIR_ENC`; do
+        if [[ $file =~ ^[0-9]{3,4}.*\.asp$ ]];
+        then 
+            if [[ $ENC == 0 ]];
+            then
+                # only test instances starting with 3-4 numbers are of interest
+                cat ./$DIR_ENC$file ./incmode.lp ./${DIR_ENC}encoding.asp | sed '/^#show/ d' | sed '/^%/ d' > ./$DIR_OUT$file
+            else
+                cat ./$DIR_ENC$file ./${DIR_ENC}encoding-telingo.lp | sed '/^#show/ d' | sed '/^%/ d' > ./$DIR_OUT$file
+            fi
+            echo "created file: ./$DIR_OUT$file"
         fi
-        echo "created file: ./$DIR_OUT$file"
-    fi
+    done
+'
 done
     

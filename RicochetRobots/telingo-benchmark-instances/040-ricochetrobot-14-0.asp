@@ -70,32 +70,29 @@ pos(red,1,1).
 pos(yellow,16,16).
 target(yellow,8,13).
 length(14).
-#program initial.
+dir(west,-1,0).
+dir(east,1,0).
+dir(north,0,-1).
+dir(south,0,1).
 
-
-dir(west, -1, 0).
-dir(east,  1, 0).
-dir(north, 0,-1).
-dir(south, 0, 1).
-
-dl(west, -1).
+dl(west,-1).
 dl(north,-1).
-dl(east,  1).
-dl(south, 1).
+dl(east,1).
+dl(south,1).
 
-dir(west, 1).
-dir(east, 1).
-dir(north, -1).
-dir(south, -1).
+dir(west,1).
+dir(east,1).
+dir(north,-1).
+dir(south,-1).
 
 robot(R) :- pos(R,_,_).
 
 pos_r(R,1,I) :- pos(R,I,_).
 pos_r(R,-1,J) :- pos(R,_,J).
 
-barrier(I+1,J,west ) :- barrier(I,J,east ), dim(I), dim(J), dim(I+1).
+barrier(I+1,J,west) :- barrier(I,J,east), dim(I), dim(J), dim(I+1).
 barrier(I,J+1,north) :- barrier(I,J,south), dim(I), dim(J), dim(J+1).
-barrier(I-1,J,east ) :- barrier(I,J,west ), dim(I), dim(J), dim(I-1).
+barrier(I-1,J,east) :- barrier(I,J,west), dim(I), dim(J), dim(I-1).
 barrier(I,J-1,south) :- barrier(I,J,north), dim(I), dim(J), dim(J-1).
 
 conn(D,I,J) :- dir(D,-1), dir(D,_,DJ), not barrier(I,J,D), dim(I), dim(J), dim(J+DJ).
@@ -126,4 +123,3 @@ pos_r(R,O,I) :- 'pos_r(R,O,I), not go_foo(R,O).
 #program final.
 :- _target(R,I,_), not pos_r(R,1,I).
 :- _target(R,_,J), not pos_r(R,-1,J).
-
