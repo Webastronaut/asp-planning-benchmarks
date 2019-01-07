@@ -1,41 +1,51 @@
 #!/bin/bash
 
-# For clingo instances: ./create-benchmark-instances HanoiTower/ HanoiTower/clingo-benchmark-instances/ 0
-
-# for telingo: ./create-benchmark-instances HanoiTower/ HanoiTower/telingo-benchmark-instances/ 1
-
-ENC=$1
-
-if [[ $ENC == 0 ]];
-then
-    DIR_OUT="clingo-benchmark-instances/"
-else
-    DIR_OUT="telingo-benchmark-instances/"
-fi
-
-problem_folder='"./HanoiTower/" "./Labyrinth/" "./Nomistery/" "./RicochetRobots/" "./Sokoban/" "Visit-all/"'
-
-for problem in $problem_folder; do
-    DIR_ENC=$1
-    DIR_OUT=$2
-    ENC=$3
-
-    echo $problem$DIR_OUT
-    #mkdir $problem$DIR_OUT
-: '
-    for file in `ls $DIR_ENC`; do
-        if [[ $file =~ ^[0-9]{3,4}.*\.asp$ ]];
-        then 
-            if [[ $ENC == 0 ]];
-            then
-                # only test instances starting with 3-4 numbers are of interest
-                cat ./$DIR_ENC$file ./incmode.lp ./${DIR_ENC}encoding.asp | sed '/^#show/ d' | sed '/^%/ d' > ./$DIR_OUT$file
-            else
-                cat ./$DIR_ENC$file ./${DIR_ENC}encoding-telingo.lp | sed '/^#show/ d' | sed '/^%/ d' > ./$DIR_OUT$file
-            fi
-            echo "created file: ./$DIR_OUT$file"
-        fi
+spinner() {
+    local i sp n
+    sp='/-\|'
+    n=${#sp}
+    printf ' '
+    while sleep 0.1; do
+        printf "%s\b" "${sp:i++%n:1}"
     done
-'
-done
+}
+
+solver='clingo telingo'
+problem_folder='./HanoiTower/ ./Labyrinth/ ./Nomistery/ ./RicochetRobots/ ./Sokoban/ ./Visit-all/'
+
+printf "Creating benchmark instances:"
+spinner &
+
+for s in $solver; do
+    #echo "... $s ..."
+
+    # remove folder if exists
+    if [ -d ./${s}-benchmark-instances/ ]; then
+        # the directory exists
+        [ "$(ls -A ./${s}-benchmark-instances/)" ] && rm -rf ./${s}-benchmark-instances/
     
+        # You could check here if /path/to/dir is a file with [ -f /path/to/dir]
+    fi
+    
+    # create new folder for benchmark instances
+    mkdir ./${s}-benchmark-instances/
+
+    for problem in $problem_folder; do
+        # create benchmark files
+        for file in `ls $problem`; do
+            if [[ $file =~ ^[0-9]{3,4}.*\.asp$ ]];
+            then 
+                if [[ $s == "clingo" ]];
+                then
+                    # only test instances starting with 3-4 numbers are of interest
+                    cat $problem$file ./incmode.lp ${problem}encoding.asp | sed '/^#show/ d' | sed '/^%/ d' > ./${s}-benchmark-instances/$file
+                else
+                    cat ${problem}$file ${problem}encoding-telingo.lp | sed '/^#show/ d' | sed '/^%/ d' > ./${s}-benchmark-instances/$file
+                fi
+            fi
+        done
+    done
+done
+
+kill "$!" # kill the spinner
+printf 'Done.\n'
