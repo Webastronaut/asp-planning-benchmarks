@@ -26,5650 +26,1263 @@ Solving...
 Solving...
 Answer: 1
  State 0:
+  disk(1) disk(2) disk(3) disk(4) disk(5) disk(6) disk(7) disk(8) disk(9) disk(10) disk(11) disk(12) disk(13) disk(14) disk(15) disk(16) disk(17) disk(18) disk(19) disk(20) disk(21) disk(22)
+  steps(23)
+  time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) time(17) time(18) time(19) time(20) time(21) time(22) time(23)
+  on(1,5) on(2,11) on(3,16) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,19) on(20,21)
+  on0(5,1) on0(6,5) on0(7,6) on0(8,7) on0(9,8) on0(10,9) on0(11,2) on0(12,11) on0(13,12) on0(14,13) on0(15,14) on0(16,3) on0(17,16) on0(18,17) on0(19,18) on0(20,10) on0(21,20) on0(22,15)
+  ongoal(5,1) ongoal(6,5) ongoal(7,6) ongoal(8,7) ongoal(9,4) ongoal(10,3) ongoal(11,2) ongoal(12,11) ongoal(13,12) ongoal(14,13) ongoal(15,14) ongoal(16,15) ongoal(17,16) ongoal(18,17) ongoal(19,18) ongoal(20,19) ongoal(21,20) ongoal(22,21)
  State 1:
-  put(4,19)
+  move(19)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(20,21)
  State 2:
-  put(21,22)
+  move(21)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21)
  State 3:
-  put(15,18)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21) on(19,20)
  State 4:
-  put(18,19)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(19,20) on(20,21)
  State 5:
-  put(4,17)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 6:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(16,17) on(19,20) on(20,21) on(21,22)
  State 7:
-  put(17,18)
+  move(17)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(19,20) on(20,21) on(21,22)
  State 8:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(17,18) on(19,20) on(20,21) on(21,22)
  State 9:
-  put(15,16)
+  move(16)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(17,18) on(19,20) on(20,21) on(21,22)
  State 10:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(19,20) on(20,21) on(21,22)
  State 11:
-  put(3,18)
+  move(17)
+  occurs(some_action)
+  where(16)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(19,20) on(20,21) on(21,22)
  State 12:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 13:
-  put(16,17)
+  move(10)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 14:
-  put(4,19)
+  move(22)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21)
  State 15:
-  put(17,18)
+  move(21)
+  occurs(some_action)
+  where(9)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20)
  State 16:
-  put(18,19)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(21,22)
  State 17:
-  put(4,22)
+  move(20)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(21,22)
  State 18:
-  put(3,21)
+  move(19)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(21,22)
  State 19:
-  put(19,20)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(21,22)
  State 20:
-  put(20,21)
+  move(22)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20)
  State 21:
-  put(21,22)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 22:
-  put(3,10)
+  move(9)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 23:
-  put(4,9)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
 Answer: 2
  State 0:
+  disk(1) disk(2) disk(3) disk(4) disk(5) disk(6) disk(7) disk(8) disk(9) disk(10) disk(11) disk(12) disk(13) disk(14) disk(15) disk(16) disk(17) disk(18) disk(19) disk(20) disk(21) disk(22)
+  steps(23)
+  time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) time(17) time(18) time(19) time(20) time(21) time(22) time(23)
+  on(1,5) on(2,11) on(3,16) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,19) on(20,21)
+  on0(5,1) on0(6,5) on0(7,6) on0(8,7) on0(9,8) on0(10,9) on0(11,2) on0(12,11) on0(13,12) on0(14,13) on0(15,14) on0(16,3) on0(17,16) on0(18,17) on0(19,18) on0(20,10) on0(21,20) on0(22,15)
+  ongoal(5,1) ongoal(6,5) ongoal(7,6) ongoal(8,7) ongoal(9,4) ongoal(10,3) ongoal(11,2) ongoal(12,11) ongoal(13,12) ongoal(14,13) ongoal(15,14) ongoal(16,15) ongoal(17,16) ongoal(18,17) ongoal(19,18) ongoal(20,19) ongoal(21,20) ongoal(22,21)
  State 1:
-  put(21,22)
+  move(19)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(20,21)
  State 2:
-  put(4,19)
+  move(21)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21)
  State 3:
-  put(15,18)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21) on(19,20)
  State 4:
-  put(18,19)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(19,20) on(20,21)
  State 5:
-  put(4,17)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 6:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(16,17) on(19,20) on(20,21) on(21,22)
  State 7:
-  put(17,18)
+  move(17)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(19,20) on(20,21) on(21,22)
  State 8:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(17,18) on(19,20) on(20,21) on(21,22)
  State 9:
-  put(15,16)
+  move(16)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(17,18) on(19,20) on(20,21) on(21,22)
  State 10:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(19,20) on(20,21) on(21,22)
  State 11:
-  put(3,18)
+  move(17)
+  occurs(some_action)
+  where(16)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(19,20) on(20,21) on(21,22)
  State 12:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 13:
-  put(16,17)
+  move(10)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 14:
-  put(4,19)
+  move(22)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21)
  State 15:
-  put(17,18)
+  move(21)
+  occurs(some_action)
+  where(9)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20)
  State 16:
-  put(18,19)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(21,22)
  State 17:
-  put(4,22)
+  move(20)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(21,22)
  State 18:
-  put(3,21)
+  move(19)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(21,22)
  State 19:
-  put(19,20)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(21,22)
  State 20:
-  put(20,21)
+  move(22)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20)
  State 21:
-  put(21,22)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 22:
-  put(3,10)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
  State 23:
-  put(4,9)
+  move(9)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
 Answer: 3
  State 0:
+  disk(1) disk(2) disk(3) disk(4) disk(5) disk(6) disk(7) disk(8) disk(9) disk(10) disk(11) disk(12) disk(13) disk(14) disk(15) disk(16) disk(17) disk(18) disk(19) disk(20) disk(21) disk(22)
+  steps(23)
+  time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) time(17) time(18) time(19) time(20) time(21) time(22) time(23)
+  on(1,5) on(2,11) on(3,16) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,19) on(20,21)
+  on0(5,1) on0(6,5) on0(7,6) on0(8,7) on0(9,8) on0(10,9) on0(11,2) on0(12,11) on0(13,12) on0(14,13) on0(15,14) on0(16,3) on0(17,16) on0(18,17) on0(19,18) on0(20,10) on0(21,20) on0(22,15)
+  ongoal(5,1) ongoal(6,5) ongoal(7,6) ongoal(8,7) ongoal(9,4) ongoal(10,3) ongoal(11,2) ongoal(12,11) ongoal(13,12) ongoal(14,13) ongoal(15,14) ongoal(16,15) ongoal(17,16) ongoal(18,17) ongoal(19,18) ongoal(20,19) ongoal(21,20) ongoal(22,21)
  State 1:
-  put(4,19)
+  move(19)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(20,21)
  State 2:
-  put(21,22)
+  move(21)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21)
  State 3:
-  put(15,18)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21) on(19,20)
  State 4:
-  put(18,19)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(19,20) on(20,21)
  State 5:
-  put(4,17)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 6:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(16,17) on(19,20) on(20,21) on(21,22)
  State 7:
-  put(17,18)
+  move(17)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(19,20) on(20,21) on(21,22)
  State 8:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(17,18) on(19,20) on(20,21) on(21,22)
  State 9:
-  put(15,16)
+  move(16)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(17,18) on(19,20) on(20,21) on(21,22)
  State 10:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(19,20) on(20,21) on(21,22)
  State 11:
-  put(3,18)
+  move(17)
+  occurs(some_action)
+  where(16)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(19,20) on(20,21) on(21,22)
  State 12:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 13:
-  put(16,17)
+  move(10)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 14:
-  put(4,19)
+  move(22)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21)
  State 15:
-  put(17,18)
+  move(21)
+  occurs(some_action)
+  where(9)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20)
  State 16:
-  put(18,19)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(21,22)
  State 17:
-  put(4,22)
+  move(20)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(21,22)
  State 18:
-  put(3,21)
+  move(19)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(21,22)
  State 19:
-  put(19,20)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(21,22)
  State 20:
-  put(20,21)
+  move(22)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,22) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20)
  State 21:
-  put(3,10)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,10) on(4,22) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 22:
-  put(21,22)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
  State 23:
-  put(4,9)
+  move(9)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
 Answer: 4
  State 0:
+  disk(1) disk(2) disk(3) disk(4) disk(5) disk(6) disk(7) disk(8) disk(9) disk(10) disk(11) disk(12) disk(13) disk(14) disk(15) disk(16) disk(17) disk(18) disk(19) disk(20) disk(21) disk(22)
+  steps(23)
+  time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) time(17) time(18) time(19) time(20) time(21) time(22) time(23)
+  on(1,5) on(2,11) on(3,16) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,19) on(20,21)
+  on0(5,1) on0(6,5) on0(7,6) on0(8,7) on0(9,8) on0(10,9) on0(11,2) on0(12,11) on0(13,12) on0(14,13) on0(15,14) on0(16,3) on0(17,16) on0(18,17) on0(19,18) on0(20,10) on0(21,20) on0(22,15)
+  ongoal(5,1) ongoal(6,5) ongoal(7,6) ongoal(8,7) ongoal(9,4) ongoal(10,3) ongoal(11,2) ongoal(12,11) ongoal(13,12) ongoal(14,13) ongoal(15,14) ongoal(16,15) ongoal(17,16) ongoal(18,17) ongoal(19,18) ongoal(20,19) ongoal(21,20) ongoal(22,21)
  State 1:
-  put(21,22)
+  move(19)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(20,21)
  State 2:
-  put(4,19)
+  move(21)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21)
  State 3:
-  put(15,18)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21) on(19,20)
  State 4:
-  put(18,19)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(19,20) on(20,21)
  State 5:
-  put(4,17)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 6:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(16,17) on(19,20) on(20,21) on(21,22)
  State 7:
-  put(17,18)
+  move(17)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(19,20) on(20,21) on(21,22)
  State 8:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(17,18) on(19,20) on(20,21) on(21,22)
  State 9:
-  put(15,16)
+  move(16)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(17,18) on(19,20) on(20,21) on(21,22)
  State 10:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(19,20) on(20,21) on(21,22)
  State 11:
-  put(3,18)
+  move(17)
+  occurs(some_action)
+  where(16)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(19,20) on(20,21) on(21,22)
  State 12:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 13:
-  put(16,17)
+  move(10)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 14:
-  put(4,19)
+  move(22)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20) on(20,21)
  State 15:
-  put(17,18)
+  move(21)
+  occurs(some_action)
+  where(9)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20)
  State 16:
-  put(18,19)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(21,22)
  State 17:
-  put(4,22)
+  move(20)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(21,22)
  State 18:
-  put(3,21)
+  move(19)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(21,22)
  State 19:
-  put(19,20)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(21,22)
  State 20:
-  put(20,21)
+  move(22)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20)
  State 21:
-  put(3,10)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 22:
-  put(21,22)
+  move(9)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 23:
-  put(4,9)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
 Answer: 5
  State 0:
+  disk(1) disk(2) disk(3) disk(4) disk(5) disk(6) disk(7) disk(8) disk(9) disk(10) disk(11) disk(12) disk(13) disk(14) disk(15) disk(16) disk(17) disk(18) disk(19) disk(20) disk(21) disk(22)
+  steps(23)
+  time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) time(17) time(18) time(19) time(20) time(21) time(22) time(23)
+  on(1,5) on(2,11) on(3,16) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,19) on(20,21)
+  on0(5,1) on0(6,5) on0(7,6) on0(8,7) on0(9,8) on0(10,9) on0(11,2) on0(12,11) on0(13,12) on0(14,13) on0(15,14) on0(16,3) on0(17,16) on0(18,17) on0(19,18) on0(20,10) on0(21,20) on0(22,15)
+  ongoal(5,1) ongoal(6,5) ongoal(7,6) ongoal(8,7) ongoal(9,4) ongoal(10,3) ongoal(11,2) ongoal(12,11) ongoal(13,12) ongoal(14,13) ongoal(15,14) ongoal(16,15) ongoal(17,16) ongoal(18,17) ongoal(19,18) ongoal(20,19) ongoal(21,20) ongoal(22,21)
  State 1:
-  put(4,19)
+  move(19)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(20,21)
  State 2:
-  put(21,22)
+  move(21)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21)
  State 3:
-  put(15,18)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21) on(19,20)
  State 4:
-  put(18,19)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(19,20) on(20,21)
  State 5:
-  put(4,17)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 6:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(16,17) on(19,20) on(20,21) on(21,22)
  State 7:
-  put(17,18)
+  move(17)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(19,20) on(20,21) on(21,22)
  State 8:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(17,18) on(19,20) on(20,21) on(21,22)
  State 9:
-  put(15,16)
+  move(16)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(17,18) on(19,20) on(20,21) on(21,22)
  State 10:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(19,20) on(20,21) on(21,22)
  State 11:
-  put(3,18)
+  move(17)
+  occurs(some_action)
+  where(16)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(19,20) on(20,21) on(21,22)
  State 12:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 13:
-  put(16,17)
+  move(10)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 14:
-  put(4,19)
+  move(22)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20) on(20,21)
  State 15:
-  put(17,18)
+  move(21)
+  occurs(some_action)
+  where(9)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20)
  State 16:
-  put(18,19)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(21,22)
  State 17:
-  put(3,22)
+  move(20)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(21,22)
  State 18:
-  put(4,21)
+  move(19)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(21,22)
  State 19:
-  put(19,20)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(21,22)
  State 20:
-  put(20,21)
+  move(22)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20)
  State 21:
-  put(21,22)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 22:
-  put(3,10)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
  State 23:
-  put(4,9)
+  move(9)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
 Answer: 6
  State 0:
+  disk(1) disk(2) disk(3) disk(4) disk(5) disk(6) disk(7) disk(8) disk(9) disk(10) disk(11) disk(12) disk(13) disk(14) disk(15) disk(16) disk(17) disk(18) disk(19) disk(20) disk(21) disk(22)
+  steps(23)
+  time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) time(17) time(18) time(19) time(20) time(21) time(22) time(23)
+  on(1,5) on(2,11) on(3,16) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,19) on(20,21)
+  on0(5,1) on0(6,5) on0(7,6) on0(8,7) on0(9,8) on0(10,9) on0(11,2) on0(12,11) on0(13,12) on0(14,13) on0(15,14) on0(16,3) on0(17,16) on0(18,17) on0(19,18) on0(20,10) on0(21,20) on0(22,15)
+  ongoal(5,1) ongoal(6,5) ongoal(7,6) ongoal(8,7) ongoal(9,4) ongoal(10,3) ongoal(11,2) ongoal(12,11) ongoal(13,12) ongoal(14,13) ongoal(15,14) ongoal(16,15) ongoal(17,16) ongoal(18,17) ongoal(19,18) ongoal(20,19) ongoal(21,20) ongoal(22,21)
  State 1:
-  put(21,22)
+  move(19)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(20,21)
  State 2:
-  put(4,19)
+  move(21)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21)
  State 3:
-  put(15,18)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21) on(19,20)
  State 4:
-  put(18,19)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(19,20) on(20,21)
  State 5:
-  put(4,17)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 6:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(16,17) on(19,20) on(20,21) on(21,22)
  State 7:
-  put(17,18)
+  move(17)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(19,20) on(20,21) on(21,22)
  State 8:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(17,18) on(19,20) on(20,21) on(21,22)
  State 9:
-  put(15,16)
+  move(16)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(17,18) on(19,20) on(20,21) on(21,22)
  State 10:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(19,20) on(20,21) on(21,22)
  State 11:
-  put(3,18)
+  move(17)
+  occurs(some_action)
+  where(16)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(19,20) on(20,21) on(21,22)
  State 12:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 13:
-  put(16,17)
+  move(10)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 14:
-  put(4,19)
+  move(22)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20) on(20,21)
  State 15:
-  put(17,18)
+  move(21)
+  occurs(some_action)
+  where(9)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20)
  State 16:
-  put(18,19)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(21,22)
  State 17:
-  put(3,22)
+  move(20)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(21,22)
  State 18:
-  put(4,21)
+  move(19)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(21,22)
  State 19:
-  put(19,20)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(21,22)
  State 20:
-  put(20,21)
+  move(22)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,22) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20)
  State 21:
-  put(21,22)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,10) on(4,22) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 22:
-  put(3,10)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
  State 23:
-  put(4,9)
+  move(9)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
 Answer: 7
  State 0:
+  disk(1) disk(2) disk(3) disk(4) disk(5) disk(6) disk(7) disk(8) disk(9) disk(10) disk(11) disk(12) disk(13) disk(14) disk(15) disk(16) disk(17) disk(18) disk(19) disk(20) disk(21) disk(22)
+  steps(23)
+  time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) time(17) time(18) time(19) time(20) time(21) time(22) time(23)
+  on(1,5) on(2,11) on(3,16) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,19) on(20,21)
+  on0(5,1) on0(6,5) on0(7,6) on0(8,7) on0(9,8) on0(10,9) on0(11,2) on0(12,11) on0(13,12) on0(14,13) on0(15,14) on0(16,3) on0(17,16) on0(18,17) on0(19,18) on0(20,10) on0(21,20) on0(22,15)
+  ongoal(5,1) ongoal(6,5) ongoal(7,6) ongoal(8,7) ongoal(9,4) ongoal(10,3) ongoal(11,2) ongoal(12,11) ongoal(13,12) ongoal(14,13) ongoal(15,14) ongoal(16,15) ongoal(17,16) ongoal(18,17) ongoal(19,18) ongoal(20,19) ongoal(21,20) ongoal(22,21)
  State 1:
-  put(4,19)
+  move(19)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(20,21)
  State 2:
-  put(21,22)
+  move(21)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21)
  State 3:
-  put(15,18)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21) on(19,20)
  State 4:
-  put(18,19)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(19,20) on(20,21)
  State 5:
-  put(4,17)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 6:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(16,17) on(19,20) on(20,21) on(21,22)
  State 7:
-  put(17,18)
+  move(17)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(19,20) on(20,21) on(21,22)
  State 8:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(17,18) on(19,20) on(20,21) on(21,22)
  State 9:
-  put(15,16)
+  move(16)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(17,18) on(19,20) on(20,21) on(21,22)
  State 10:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(19,20) on(20,21) on(21,22)
  State 11:
-  put(3,18)
+  move(17)
+  occurs(some_action)
+  where(16)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(19,20) on(20,21) on(21,22)
  State 12:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 13:
-  put(16,17)
+  move(10)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 14:
-  put(4,19)
+  move(22)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21)
  State 15:
-  put(17,18)
+  move(21)
+  occurs(some_action)
+  where(9)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20)
  State 16:
-  put(3,22)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(21,22)
  State 17:
-  put(18,19)
+  move(20)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(21,22)
  State 18:
-  put(4,21)
+  move(19)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(21,22)
  State 19:
-  put(19,20)
+  move(22)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,22) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19)
  State 20:
-  put(20,21)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,10) on(4,22) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20)
  State 21:
-  put(21,22)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,10) on(4,22) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 22:
-  put(3,10)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
  State 23:
-  put(4,9)
+  move(9)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
 Answer: 8
  State 0:
+  disk(1) disk(2) disk(3) disk(4) disk(5) disk(6) disk(7) disk(8) disk(9) disk(10) disk(11) disk(12) disk(13) disk(14) disk(15) disk(16) disk(17) disk(18) disk(19) disk(20) disk(21) disk(22)
+  steps(23)
+  time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) time(17) time(18) time(19) time(20) time(21) time(22) time(23)
+  on(1,5) on(2,11) on(3,16) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,19) on(20,21)
+  on0(5,1) on0(6,5) on0(7,6) on0(8,7) on0(9,8) on0(10,9) on0(11,2) on0(12,11) on0(13,12) on0(14,13) on0(15,14) on0(16,3) on0(17,16) on0(18,17) on0(19,18) on0(20,10) on0(21,20) on0(22,15)
+  ongoal(5,1) ongoal(6,5) ongoal(7,6) ongoal(8,7) ongoal(9,4) ongoal(10,3) ongoal(11,2) ongoal(12,11) ongoal(13,12) ongoal(14,13) ongoal(15,14) ongoal(16,15) ongoal(17,16) ongoal(18,17) ongoal(19,18) ongoal(20,19) ongoal(21,20) ongoal(22,21)
  State 1:
-  put(21,22)
+  move(19)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(20,21)
  State 2:
-  put(4,19)
+  move(21)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21)
  State 3:
-  put(15,18)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21) on(19,20)
  State 4:
-  put(18,19)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(19,20) on(20,21)
  State 5:
-  put(4,17)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 6:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(16,17) on(19,20) on(20,21) on(21,22)
  State 7:
-  put(17,18)
+  move(17)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(19,20) on(20,21) on(21,22)
  State 8:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(17,18) on(19,20) on(20,21) on(21,22)
  State 9:
-  put(15,16)
+  move(16)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(17,18) on(19,20) on(20,21) on(21,22)
  State 10:
-  put(16,19)
+  move(18)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(19,20) on(20,21) on(21,22)
  State 11:
-  put(3,18)
+  move(17)
+  occurs(some_action)
+  where(16)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(19,20) on(20,21) on(21,22)
  State 12:
-  put(18,19)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 13:
-  put(16,17)
+  move(10)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 14:
-  put(4,19)
+  move(22)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20) on(20,21)
  State 15:
-  put(17,18)
+  move(21)
+  occurs(some_action)
+  where(9)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20)
  State 16:
-  put(3,22)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(21,22)
  State 17:
-  put(18,19)
+  move(20)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(21,22)
  State 18:
-  put(4,21)
+  move(19)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(21,22)
  State 19:
-  put(19,20)
+  move(22)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,22) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19)
  State 20:
-  put(20,21)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,10) on(4,22) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20)
  State 21:
-  put(21,22)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,10) on(4,22) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 22:
-  put(3,10)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
  State 23:
-  put(4,9)
+  move(9)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
 Answer: 9
  State 0:
+  disk(1) disk(2) disk(3) disk(4) disk(5) disk(6) disk(7) disk(8) disk(9) disk(10) disk(11) disk(12) disk(13) disk(14) disk(15) disk(16) disk(17) disk(18) disk(19) disk(20) disk(21) disk(22)
+  steps(23)
+  time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) time(17) time(18) time(19) time(20) time(21) time(22) time(23)
+  on(1,5) on(2,11) on(3,16) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,19) on(20,21)
+  on0(5,1) on0(6,5) on0(7,6) on0(8,7) on0(9,8) on0(10,9) on0(11,2) on0(12,11) on0(13,12) on0(14,13) on0(15,14) on0(16,3) on0(17,16) on0(18,17) on0(19,18) on0(20,10) on0(21,20) on0(22,15)
+  ongoal(5,1) ongoal(6,5) ongoal(7,6) ongoal(8,7) ongoal(9,4) ongoal(10,3) ongoal(11,2) ongoal(12,11) ongoal(13,12) ongoal(14,13) ongoal(15,14) ongoal(16,15) ongoal(17,16) ongoal(18,17) ongoal(19,18) ongoal(20,19) ongoal(21,20) ongoal(22,21)
  State 1:
-  put(4,19)
+  move(19)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(20,21)
  State 2:
-  put(18,21)
+  move(21)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21)
  State 3:
-  put(19,20)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21) on(19,20)
  State 4:
-  put(20,21)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(19,20) on(20,21)
  State 5:
-  put(21,22)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 6:
-  put(15,18)
+  move(18)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(16,17) on(19,20) on(20,21) on(21,22)
  State 7:
-  put(10,17)
+  move(17)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(19,20) on(20,21) on(21,22)
  State 8:
-  put(17,18)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(17,18) on(19,20) on(20,21) on(21,22)
  State 9:
-  put(15,16)
+  move(16)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(17,18) on(19,20) on(20,21) on(21,22)
  State 10:
-  put(3,18)
+  move(18)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(19,20) on(20,21) on(21,22)
  State 11:
-  put(18,22)
+  move(17)
+  occurs(some_action)
+  where(16)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(19,20) on(20,21) on(21,22)
  State 12:
-  put(16,17)
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 13:
-  put(10,21)
+  move(10)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
  State 14:
-  put(21,22)
+  move(22)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20) on(20,21)
  State 15:
-  put(17,18)
+  move(21)
+  occurs(some_action)
+  where(9)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20)
  State 16:
-  put(3,20)
+  move(20)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22)
  State 17:
-  put(18,19)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(21,22)
  State 18:
-  put(19,20)
+  move(19)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(21,22)
  State 19:
-  put(4,22)
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(21,22)
  State 20:
-  put(20,21)
+  move(22)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20)
  State 21:
-  put(3,10)
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 22:
-  put(21,22)
+  move(9)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
  State 23:
-  put(4,9)
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
 Answer: 10
  State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(18,22)
- State 12:
-  put(16,17)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 11
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(18,22)
- State 12:
-  put(16,17)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(3,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 12
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(18,22)
- State 12:
-  put(16,17)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 13
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(18,22)
- State 12:
-  put(16,17)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 14
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(9,22)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,9)
- State 21:
-  put(8,22)
- State 22:
-  put(20,21)
- State 23:
-  put(21,22)
-Answer: 15
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(9,22)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,9)
- State 21:
-  put(9,22)
- State 22:
-  put(20,21)
- State 23:
-  put(21,22)
-Answer: 16
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(9,22)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 17
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(9,22)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(9,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 18
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(9,22)
- State 15:
-  put(18,21)
- State 16:
-  put(10,20)
- State 17:
-  put(20,21)
- State 18:
-  put(18,19)
- State 19:
-  put(4,21)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 19
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(9,22)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 20
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 21
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(10,22)
- State 21:
-  put(20,21)
- State 22:
-  put(4,9)
- State 23:
-  put(21,22)
-Answer: 22
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(10,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 23
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 24
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(9,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 25
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,9)
- State 21:
-  put(8,22)
- State 22:
-  put(20,21)
- State 23:
-  put(21,22)
-Answer: 26
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,9)
- State 21:
-  put(9,22)
- State 22:
-  put(20,21)
- State 23:
-  put(21,22)
-Answer: 27
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(10,22)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(10,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 28
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(10,22)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(10,22)
- State 21:
-  put(20,21)
- State 22:
-  put(4,9)
- State 23:
-  put(21,22)
-Answer: 29
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(10,22)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 30
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(10,22)
- State 21:
-  put(20,21)
- State 22:
-  put(4,9)
- State 23:
-  put(21,22)
-Answer: 31
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(10,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 32
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 33
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 34
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(9,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 35
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,9)
- State 21:
-  put(8,22)
- State 22:
-  put(20,21)
- State 23:
-  put(21,22)
-Answer: 36
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,9)
- State 21:
-  put(9,22)
- State 22:
-  put(20,21)
- State 23:
-  put(21,22)
-Answer: 37
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 38
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(10,22)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 39
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 40
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(21,22)
- State 17:
-  put(9,20)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 41
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(9,21)
- State 16:
-  put(21,22)
- State 17:
-  put(10,20)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 42
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(3,20)
- State 16:
-  put(21,22)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 43
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(3,20)
- State 16:
-  put(21,22)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 44
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(3,20)
- State 16:
-  put(20,22)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 45
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(3,20)
- State 16:
-  put(20,22)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 46
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,22)
- State 14:
-  put(18,21)
- State 15:
-  put(10,20)
- State 16:
-  put(20,21)
- State 17:
-  put(18,19)
- State 18:
-  put(4,21)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 47
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(10,22)
- State 14:
-  put(18,21)
- State 15:
-  put(3,20)
- State 16:
-  put(20,21)
- State 17:
-  put(18,19)
- State 18:
-  put(4,21)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 48
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(10,20)
- State 16:
-  put(21,22)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 49
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(10,20)
- State 16:
-  put(21,22)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 50
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(10,20)
- State 16:
-  put(20,22)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 51
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(10,20)
- State 16:
-  put(20,22)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 52
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(10,20)
- State 16:
-  put(21,22)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 53
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(10,20)
- State 16:
-  put(21,22)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(10,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 54
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(10,20)
- State 16:
-  put(21,22)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 55
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(3,20)
- State 16:
-  put(21,22)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 56
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(3,20)
- State 16:
-  put(21,22)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(3,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 57
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(3,20)
- State 16:
-  put(21,22)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 58
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,22)
- State 14:
-  put(10,21)
- State 15:
-  put(21,22)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 59
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,22)
- State 14:
-  put(10,21)
- State 15:
-  put(21,22)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(3,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 60
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,22)
- State 14:
-  put(10,21)
- State 15:
-  put(21,22)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 61
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,22)
- State 14:
-  put(10,21)
- State 15:
-  put(21,22)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 62
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,22)
- State 14:
-  put(10,21)
- State 15:
-  put(21,22)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 63
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(21,22)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(3,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 64
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(21,22)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 65
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(21,22)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 66
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(21,22)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 67
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(10,21)
- State 15:
-  put(21,22)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 68
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(10,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 69
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 70
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 71
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(10,22)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(10,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 72
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(10,22)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 73
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(10,22)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 74
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 75
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(10,22)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 76
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 77
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(10,22)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 78
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,9)
- State 21:
-  put(8,22)
- State 22:
-  put(20,21)
- State 23:
-  put(21,22)
-Answer: 79
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,9)
- State 21:
-  put(9,22)
- State 22:
-  put(20,21)
- State 23:
-  put(21,22)
-Answer: 80
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(9,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 81
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 82
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,9)
- State 21:
-  put(8,22)
- State 22:
-  put(20,21)
- State 23:
-  put(21,22)
-Answer: 83
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,9)
- State 21:
-  put(9,22)
- State 22:
-  put(20,21)
- State 23:
-  put(21,22)
-Answer: 84
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(9,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 85
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 86
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(9,21)
- State 16:
-  put(10,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(10,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 87
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(9,21)
- State 16:
-  put(10,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(10,22)
- State 21:
-  put(20,21)
- State 22:
-  put(4,9)
- State 23:
-  put(21,22)
-Answer: 88
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(9,21)
- State 16:
-  put(10,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 89
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(9,21)
- State 16:
-  put(10,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(10,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 90
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(9,21)
- State 16:
-  put(10,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(10,22)
- State 21:
-  put(20,21)
- State 22:
-  put(4,9)
- State 23:
-  put(21,22)
-Answer: 91
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(9,21)
- State 16:
-  put(10,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(19,20)
- State 20:
-  put(4,22)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 92
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(10,22)
- State 15:
-  put(18,21)
- State 16:
-  put(9,20)
- State 17:
-  put(20,21)
- State 18:
-  put(18,19)
- State 19:
-  put(4,21)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 93
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(10,22)
- State 15:
-  put(18,21)
- State 16:
-  put(9,20)
- State 17:
-  put(20,21)
- State 18:
-  put(18,19)
- State 19:
-  put(4,21)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(4,9)
- State 23:
-  put(21,22)
-Answer: 94
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(20,22)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 95
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 96
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(20,22)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 97
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(10,21)
- State 16:
-  put(9,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 98
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(9,21)
- State 16:
-  put(10,20)
- State 17:
-  put(20,22)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 99
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(3,10)
- State 14:
-  put(18,22)
- State 15:
-  put(9,21)
- State 16:
-  put(10,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 100
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(9,21)
- State 16:
-  put(10,20)
- State 17:
-  put(20,22)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 101
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,18)
- State 13:
-  put(18,22)
- State 14:
-  put(3,10)
- State 15:
-  put(9,21)
- State 16:
-  put(10,20)
- State 17:
-  put(21,22)
- State 18:
-  put(18,19)
- State 19:
-  put(4,22)
- State 20:
-  put(19,20)
- State 21:
-  put(20,21)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 102
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(10,22)
- State 13:
-  put(17,18)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 103
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(10,22)
- State 13:
-  put(17,18)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 104
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(10,22)
- State 13:
-  put(17,18)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 105
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(10,22)
- State 13:
-  put(17,18)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 106
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(10,22)
- State 13:
-  put(17,18)
- State 14:
-  put(3,21)
- State 15:
-  put(21,22)
- State 16:
-  put(10,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(10,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 107
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(10,22)
- State 13:
-  put(17,18)
- State 14:
-  put(18,21)
- State 15:
-  put(3,20)
- State 16:
-  put(20,21)
- State 17:
-  put(18,19)
- State 18:
-  put(4,21)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 108
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(18,22)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 109
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(18,22)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 110
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(18,22)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 111
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(18,22)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(3,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 112
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(18,22)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 113
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,22)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 114
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,22)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(4,22)
- State 19:
-  put(19,20)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
-Answer: 115
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,22)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 116
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,22)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(3,22)
- State 20:
-  put(20,21)
- State 21:
-  put(21,22)
- State 22:
-  put(3,10)
- State 23:
-  put(4,9)
-Answer: 117
- State 0:
- State 1:
-  put(4,19)
- State 2:
-  put(18,21)
- State 3:
-  put(19,20)
- State 4:
-  put(20,21)
- State 5:
-  put(21,22)
- State 6:
-  put(15,18)
- State 7:
-  put(10,17)
- State 8:
-  put(17,18)
- State 9:
-  put(15,16)
- State 10:
-  put(3,18)
- State 11:
-  put(16,17)
- State 12:
-  put(17,22)
- State 13:
-  put(10,21)
- State 14:
-  put(21,22)
- State 15:
-  put(17,18)
- State 16:
-  put(3,20)
- State 17:
-  put(18,19)
- State 18:
-  put(19,20)
- State 19:
-  put(4,22)
- State 20:
-  put(20,21)
- State 21:
-  put(3,10)
- State 22:
-  put(21,22)
- State 23:
-  put(4,9)
+  disk(1) disk(2) disk(3) disk(4) disk(5) disk(6) disk(7) disk(8) disk(9) disk(10) disk(11) disk(12) disk(13) disk(14) disk(15) disk(16) disk(17) disk(18) disk(19) disk(20) disk(21) disk(22)
+  steps(23)
+  time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) time(12) time(13) time(14) time(15) time(16) time(17) time(18) time(19) time(20) time(21) time(22) time(23)
+  on(1,5) on(2,11) on(3,16) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,19) on(20,21)
+  on0(5,1) on0(6,5) on0(7,6) on0(8,7) on0(9,8) on0(10,9) on0(11,2) on0(12,11) on0(13,12) on0(14,13) on0(15,14) on0(16,3) on0(17,16) on0(18,17) on0(19,18) on0(20,10) on0(21,20) on0(22,15)
+  ongoal(5,1) ongoal(6,5) ongoal(7,6) ongoal(8,7) ongoal(9,4) ongoal(10,3) ongoal(11,2) ongoal(12,11) ongoal(13,12) ongoal(14,13) ongoal(15,14) ongoal(16,15) ongoal(17,16) ongoal(18,17) ongoal(19,18) ongoal(20,19) ongoal(21,20) ongoal(22,21)
+ State 1:
+  move(19)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(20,21)
+ State 2:
+  move(21)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21)
+ State 3:
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(18,21) on(19,20)
+ State 4:
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,22) on(16,17) on(17,18) on(19,20) on(20,21)
+ State 5:
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
+ State 6:
+  move(18)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(16,17) on(19,20) on(20,21) on(21,22)
+ State 7:
+  move(17)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,18) on(19,20) on(20,21) on(21,22)
+ State 8:
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(3,16) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(17,18) on(19,20) on(20,21) on(21,22)
+ State 9:
+  move(16)
+  occurs(some_action)
+  where(15)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(17,18) on(19,20) on(20,21) on(21,22)
+ State 10:
+  move(18)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(10,17) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(19,20) on(20,21) on(21,22)
+ State 11:
+  move(17)
+  occurs(some_action)
+  where(16)
+  on(1,5) on(2,11) on(3,18) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(19,20) on(20,21) on(21,22)
+ State 12:
+  move(18)
+  occurs(some_action)
+  where(17)
+  on(1,5) on(2,11) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,10) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
+ State 13:
+  move(10)
+  occurs(some_action)
+  where(3)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(19,20) on(20,21) on(21,22)
+ State 14:
+  move(22)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20) on(20,21)
+ State 15:
+  move(21)
+  occurs(some_action)
+  where(9)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22) on(19,20)
+ State 16:
+  move(20)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,22)
+ State 17:
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(4,19) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(21,22)
+ State 18:
+  move(19)
+  occurs(some_action)
+  where(18)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,20) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(21,22)
+ State 19:
+  move(20)
+  occurs(some_action)
+  where(19)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(21,22)
+ State 20:
+  move(22)
+  occurs(some_action)
+  where(10)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(9,21) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20)
+ State 21:
+  move(21)
+  occurs(some_action)
+  where(20)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(10,22) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21)
+ State 22:
+  move(22)
+  occurs(some_action)
+  where(21)
+  on(1,5) on(2,11) on(3,10) on(5,6) on(6,7) on(7,8) on(8,9) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
+ State 23:
+  move(9)
+  occurs(some_action)
+  where(4)
+  on(1,5) on(2,11) on(3,10) on(4,9) on(5,6) on(6,7) on(7,8) on(11,12) on(12,13) on(13,14) on(14,15) on(15,16) on(16,17) on(17,18) on(18,19) on(19,20) on(20,21) on(21,22)
 SATISFIABLE
 
-Models       : 117
+Models       : 10+
 Calls        : 24
-Time         : 305.284s (Solving: 303.80s 1st Model: 107.38s Unsat: 138.96s)
-CPU Time     : 303.423s
+Time         : 37.576s (Solving: 37.28s 1st Model: 15.67s Unsat: 21.53s)
+CPU Time     : 36.525s
 
-Choices      : 556483  
-Conflicts    : 490893   (Analyzed: 490776)
-Restarts     : 1921     (Average: 255.48 Last: 907)
-Model-Level  : 11.1    
+Choices      : 335776  
+Conflicts    : 295459   (Analyzed: 295440)
+Restarts     : 1033     (Average: 286.00 Last: 119134)
+Model-Level  : 13.7    
 Problems     : 24       (Average Length: 2.00 Splits: 0)
-Lemmas       : 490777   (Deleted: 468513)
-  Binary     : 953      (Ratio:   0.19%)
-  Ternary    : 1560     (Ratio:   0.32%)
-  Conflict   : 490776   (Average Length:  132.6 Ratio: 100.00%) 
-  Loop       : 1        (Average Length:    2.0 Ratio:   0.00%) 
+Lemmas       : 295440   (Deleted: 277332)
+  Binary     : 757      (Ratio:   0.26%)
+  Ternary    : 1472     (Ratio:   0.50%)
+  Conflict   : 295440   (Average Length:   69.8 Ratio: 100.00%) 
+  Loop       : 0        (Average Length:    0.0 Ratio:   0.00%) 
   Other      : 0        (Average Length:    0.0 Ratio:   0.00%) 
-Backjumps    : 490776   (Average:  1.12 Max: 200 Sum: 551183)
-  Executed   : 490683   (Average:  1.12 Max: 200 Sum: 551044 Ratio:  99.97%)
-  Bounded    : 93       (Average:  1.49 Max:   4 Sum:    139 Ratio:   0.03%)
+Backjumps    : 295440   (Average:  1.13 Max:  23 Sum: 333022)
+  Executed   : 295369   (Average:  1.13 Max:  23 Sum: 332913 Ratio:  99.97%)
+  Bounded    : 71       (Average:  1.54 Max:   2 Sum:    109 Ratio:   0.03%)
 
-Rules        : 93879    (Original: 81968)
+Rules        : 41835    (Original: 41056)
   Choice     : 69      
-Atoms        : 45896   
-Disjunctions : 0        (Original: 23)
-Bodies       : 80188    (Original: 68276)
+Atoms        : 12477   
+Bodies       : 35660    (Original: 34880)
   Count      : 43       (Original: 92)
-Equivalences : 10072    (Atom=Atom: 301 Body=Body: 111 Other: 9660)
-Tight        : No       (SCCs: 4190 Non-Hcfs: 0 Nodes: 20950 Gammas: 0)
-Variables    : 43812    (Eliminated:    0 Frozen: 32863)
-Constraints  : 702851   (Binary:  95.7% Ternary:   2.8% Other:   1.6%)
+Equivalences : 1462     (Atom=Atom: 94 Body=Body: 111 Other: 1257)
+Tight        : Yes
+Variables    : 13168    (Eliminated:    0 Frozen: 5178)
+Constraints  : 39156    (Binary:  75.3% Ternary:  24.5% Other:   0.2%)
 

@@ -15,3 +15,5 @@ visited(X) :- atrobot(X).
 
 #program final.
 :- _visit(X), not visited(X).
+
+#show move/2.

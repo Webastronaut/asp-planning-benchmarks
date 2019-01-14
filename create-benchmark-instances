@@ -23,8 +23,6 @@ for s in $solver; do
     if [ -d ./${s}-benchmark-instances/ ]; then
         # the directory exists
         [ "$(ls -A ./${s}-benchmark-instances/)" ] && rm -rf ./${s}-benchmark-instances/
-    
-        # You could check here if /path/to/dir is a file with [ -f /path/to/dir]
     fi
     
     # create new folder for benchmark instances
