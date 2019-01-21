@@ -32,14 +32,14 @@ try:
         if a in ("-c", "--clingo-encoding"):
             if v == '' or not check_file_exists(v):
                 print("No path to clingo encoding specified")
-                exit(2)
+                exit(1)
             else:
                 clingo_file = v
                 continue
         if a in ("-s", "--instance"):
             if v == '' or not check_file_exists(v):
                 print("No path to test instance specified")
-                exit(2)
+                exit(1)
             else:
                 test_instance = v
                 tmp = findall("(([a-zA-Z0-9-_]+)(\.(as|l)p))$", v)[0][0]
@@ -49,7 +49,7 @@ try:
         if a in ("-t", "--telingo-answers"):
             if v == '' or not check_file_exists(v):
                 print("No path to telingo answers specified")
-                exit(2)
+                exit(1)
             else:
                 telingo_answers = v
                 fact_file_path = sub("([a-zA-Z0-9-_]+)(\.txt$)", r"\1__GENERATED_FACTS_ANSWER_", v)
@@ -71,7 +71,7 @@ try:
         if a in ("-o", "--output-path"):
             if not path.exists(v):
                 print("Path '%s' for test report does not exist." % v)
-                exit(2)
+                exit(1)
             else:
                 output_path = v
                 continue
