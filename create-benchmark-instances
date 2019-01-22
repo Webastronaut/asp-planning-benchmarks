@@ -17,8 +17,6 @@ printf "Creating benchmark instances:"
 spinner &
 
 for s in $solver; do
-    #echo "... $s ..."
-
     # remove folder if exists
     if [ -d ./${s}-benchmark-instances/ ]; then
         # the directory exists
@@ -45,5 +43,6 @@ for s in $solver; do
     done
 done
 
-kill "$!" # kill the spinner
+# kill the spinner
+kill "$!"
 printf 'Done.\n'

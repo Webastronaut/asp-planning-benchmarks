@@ -6,7 +6,7 @@ from re import findall, sub, MULTILINE, finditer
 from string import ascii_uppercase
 import subprocess
 
-# TODO: Works only with the single shot version of clingo encodings!!!
+# TODO: Nicer api!
 # python test-telingo-result.py -c Visit-all/encoding_single.asp -s Visit-all/0012-visitall-36-1.asp -t Visit-all/telingo-output-0012.txt -o Visit-all/
 
 arr_cmd_args = argv[1:]
@@ -25,6 +25,7 @@ max_time = 10
 def check_file_exists(p):
     return path.exists(p) and path.isfile(p)
 
+# check args
 try:  
     arguments, values = getopt(arr_cmd_args, unix_opts, gnu_opts)
 
@@ -44,7 +45,6 @@ try:
                 test_instance = v
                 tmp = findall("(([a-zA-Z0-9-_]+)(\.(as|l)p))$", v)[0][0]
                 report_file_path += sub("\.(as|l)p", "__TEST_REPORT.txt", tmp)
-                #print(output_path)
                 continue
         if a in ("-t", "--telingo-answers"):
             if v == '' or not check_file_exists(v):
@@ -98,7 +98,7 @@ if telingo_file.mode == "r":
 
         # filter specific answer set from output file
         answer = findall(regex, telingo_file_contents, flags=MULTILINE)
-        #print(answer)
+
         if len(answer) == 0:
             continue
         else:
@@ -114,7 +114,6 @@ if telingo_file.mode == "r":
 
             # create clingo compatible telingo answer predicates
             for match in finditer("(State[0-9]+:)([a-z_]+\([a-zA-Z0-9_,]+\))", answer):
-                #print(match.group(2))
                 #remove "State"
                 time = sub("State", "", match.group(1))
                 # remove ":"
@@ -168,14 +167,6 @@ if telingo_file.mode == "r":
             for constraint in constraints:
                 fact_file.write(constraint)
 
-            '''
-            print(facts)
-            print(' ')
-            print(constraints)
-            print(' ')
-            print(preds)
-            '''
-
             fact_file.close()
 
             # create clingo command to run tests
@@ -193,7 +184,6 @@ if telingo_file.mode == "r":
             
             if stderr == None:
                 # save clingo result (if collection of facts and rules are (un)satisfiable)
-                #print(findall("((UN)?SATISFIABLE)", stdout))
                 msg = "Answer " + str(i) + ": " + findall("((UN)?SATISFIABLE)", stdout)[0][0] + "\n"
                 report_msg.append(msg)
             else:
